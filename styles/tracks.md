@@ -4,7 +4,7 @@
 
 Hier sind alle **Varianten** des Fan-Songs nach Energie, Tempo (BPM) und Klangfarbe wie ein DJ-Set sortiert – für fließende Übergänge von dunkel und ruhig bis hin zu maximaler Energie und dem großen Finale.
 
-* [➜ Suno: **Komplett-Mix**](https://suno.com)
+* [➜ Suno: **Komplett-Mix**](https://suno.com/album/2d41deeb-6bb0-40eb-b423-e866effcd27b)
 * [➜ Zurück zur kompakten Übersicht der Musikrichtungen](styles.md)
 
 *★ Persönliche Favoriten*

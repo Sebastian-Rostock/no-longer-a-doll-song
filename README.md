@@ -44,8 +44,8 @@ Mit dem Klick auf die folgenden Links bestätigst du, dass du alt genug für die
 
 ### 3. Die Musik & Cover-Art
 *Dieselben 60 Zeilen – umgesetzt in zahlreichen Tracks über verschiedenste Genres hinweg:*
-* [➜ Suno: **Story-Album**](https://suno.com) – *Eine kuratierte Auswahl, welche die Handlung chronologisch erzählt.*
-* [➜ Suno: **Komplett-Mix**](https://suno.com) – *Alle Tracks, nach Stimmung und Tempo sortiert für fließende Übergänge.*
+* [➜ Suno: **Story-Album**](https://suno.com/album/4df93d82-9d74-411c-ad86-34303e5e222d) – *Eine kuratierte Auswahl, welche die Handlung chronologisch erzählt.*
+* [➜ Suno: **Komplett-Mix**](https://suno.com/album/2d41deeb-6bb0-40eb-b423-e866effcd27b) – *Alle Tracks, nach Stimmung und Tempo sortiert für fließende Übergänge.*
 * [➜ Musikrichtungen & Cover-Art](styles/styles.md) – *Alle Style-Prompts, Tracks und Cover-Designs im Detail.*
 * [➜ Album-Cover & Prompts](styles/album.md) – *Die Albumcover für Suno inklusive der Image-Prompts.*
 * [➜ Titelbilder & Banner-Prompts](styles/preview.md) – *Alternative Preview-Banner inklusive der verwendeten Prompts.*
