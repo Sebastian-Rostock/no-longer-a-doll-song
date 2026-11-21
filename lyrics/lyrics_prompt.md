@@ -1,4 +1,4 @@
-# Songtext von *No Longer a Doll* als Prompt
+## Songtext als Prompt
 
 &#128286; **Hinweis zum Jugendschutz:** Bitte beachte die [Altersbeschränkungen im Hauptdokument](../README.md#cw).
 

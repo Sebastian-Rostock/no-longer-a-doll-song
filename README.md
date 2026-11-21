@@ -1,4 +1,5 @@
-# Songprojekt - *No Longer a Doll*
+
+[![](styles/covers/preview_2.webp)](styles/preview.md)
 
 Der Fan-Song **No Longer a Doll** und die dazugehörigen Storys basieren auf der Lore des Survival-Shooters *Once Human*. Sie beleuchten die rätselhafte Verbindung zwischen dem im LEA-Forschungslabor gefangenen Deviant *Rebecca*, dem attraktiven geisterhaften Guide *Mitsuko* und dem Spieler, der als Meta-Human gegen den Rosetta-Konzern kämpft. Der Song spinnt diese Verbindung auf seine eigene Weise weiter.
 
@@ -43,8 +44,8 @@ Mit dem Klick auf die folgenden Links bestätigst du, dass du alt genug für die
 
 ### 3. Die Musik & Cover-Art
 *Dieselben 60 Zeilen – umgesetzt in zahlreichen Tracks über verschiedenste Genres hinweg:*
-* [➜ Suno-Playlist: **Story-Album**](https://suno.com) – *Eine kuratierte Auswahl, welche die Handlung chronologisch erzählt.*
-* [➜ Suno-Playlist: **Komplett-Mix**](https://suno.com) – *Alle Tracks, nach Stimmung und Tempo sortiert für fließende Übergänge.*
+* [➜ Suno: **Story-Album**](https://suno.com) – *Eine kuratierte Auswahl, welche die Handlung chronologisch erzählt.*
+* [➜ Suno: **Komplett-Mix**](https://suno.com) – *Alle Tracks, nach Stimmung und Tempo sortiert für fließende Übergänge.*
 * [➜ Musikrichtungen & Cover-Art](styles/styles.md) – *Alle Style-Prompts, Tracks und Cover-Designs im Detail.*
 
 ---

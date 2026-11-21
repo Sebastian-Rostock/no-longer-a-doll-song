@@ -1,4 +1,4 @@
-# Hinter der inversen vierten Wand (Meta-Epilog zu *No Longer a Doll*)
+## Hinter der inversen vierten Wand
 
 &#9888;&#65039; **Warnung – Anomalie-Stufe OMEGA-0:** Das folgende Protokoll verlässt die interne Simulation und betrifft die reale Dimension hinter dem Bildschirm. Wenn du das Geschehen als abgeschlossenes Experiment betrachten möchtest, schließe diese Datei jetzt.
 

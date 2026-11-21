@@ -1,4 +1,4 @@
-# Songtext von *No Longer a Doll*, einem Fan-Song zu *Once Human*
+## Songtext
 
 &#128286; **Hinweis zum Jugendschutz:** Bitte beachte die [Altersbeschränkungen im Hauptdokument](../README.md#cw).
 

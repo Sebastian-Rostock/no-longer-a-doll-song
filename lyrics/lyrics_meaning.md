@@ -1,4 +1,4 @@
-# Songtext von *No Longer a Doll* mit Interpretation
+## Songtext mit Interpretation
 
 &#128286; **Hinweis zum Jugendschutz:** Bitte beachte die [Altersbeschränkungen im Hauptdokument](../README.md#cw).
 
@@ -8,10 +8,6 @@ Der Fan-Song zum Survival-Shooter *Once Human* hat 60 Zeilen Songtext. Auf den e
 * **56 Zeilen** funktionieren als anzügliche Metaphern (Cybersex).
 
 Genau diese Dichte an Doppeldeutigkeit – bei der fast jede Zeile auf mehreren Ebenen gleichzeitig funktioniert – war die spannende Herausforderung beim Schreiben des Songs.
-
----
-
-## Songtext mit Verweisen auf *Once Human* bzw. Gaming allgemein
 
 |Nr.|Textzeile|Bedeutung|
 |-:|:-|:-|

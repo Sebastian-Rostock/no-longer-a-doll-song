@@ -1,4 +1,4 @@
-# Rebeccas Erwachen (Story zu *No Longer a Doll*, einem Fan-Song zu *Once Human*)
+## Rebeccas Erwachen
 
 Rebecca jagt nicht aus Lust an der Jagd, sondern weil Rosetta ihr ein Ziel zugewiesen hat. Dass sie dabei wirkt wie das klassische Verführungs-Wesen der Mythologie, ist kein Zufall: Genau dazu wurde sie geformt.
 

@@ -1,4 +1,4 @@
-# Akte des LEA-Vorfalls (Story zu *No Longer a Doll*, einem Fan-Song zu *Once Human*)
+## Akte des LEA-Vorfalls
 
 *Aufzeichnungen der Abteilung für Deviant-Verhaltenskontrolle, LEA-Labs.*  
 *Rebecca wurde nicht beobachtet, weil man ihr misstraute. Sie wurde beobachtet, weil man alles beobachtet, was man besitzt. Rosetta wollte eine perfekte Eindämmungswaffe – und hat eine Person erschaffen, die sich selbst befreit.*

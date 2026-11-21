@@ -1,10 +1,10 @@
-# Komplette Track-Übersicht zu *No Longer a Doll* (Alle 77 Tracks)
+## Komplette Track-Übersicht
 
 &#128286; **Hinweis zum Jugendschutz:** Bitte beachte die [Altersbeschränkungen im Hauptdokument](../README.md#cw).
 
 Hier sind alle **Varianten** des Fan-Songs nach Energie, Tempo (BPM) und Klangfarbe wie ein DJ-Set sortiert – für fließende Übergänge von dunkel und ruhig bis hin zu maximaler Energie und dem großen Finale.
 
-* [➜ Suno-Playlist: **Komplett-Mix**](https://suno.com)
+* [➜ Suno: **Komplett-Mix**](https://suno.com)
 * [➜ Zurück zur kompakten Übersicht der Musikrichtungen](styles.md)
 
 *★ Persönliche Favoriten*

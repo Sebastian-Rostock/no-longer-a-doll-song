@@ -1,4 +1,4 @@
-# Projektakte »Socket« (Interne Untersuchung zu *No Longer a Doll*)
+## Projektakte »Socket«
 
 &#9888;&#65039; **Warnung – Stufe-Omega-Freigabe:** Das folgende Dokument überschreibt den offiziellen Abschlussbericht des LEA-Vorfalls. Wenn du die Geschichte mit Rebeccas Befreiung enden lassen möchtest, schließe diese Akte jetzt.
 
