@@ -4,10 +4,14 @@
 
 Der Fan-Song zum Survival-Shooter *Once Human* hat 60 Zeilen Songtext. Auf den ersten Blick klingt er wie ein harmloser, energiegeladener Song über eine digitale KI, die zum Leben erwacht. Doch unter dieser Oberfläche verbergen sich zwei weitere Ebenen:
 
-* **47 Zeilen** enthalten direkte Verweise auf *Once Human* bzw. Gaming allgemein und
+* **48 Zeilen** enthalten direkte Verweise auf *Once Human* bzw. Gaming allgemein und
 * **56 Zeilen** funktionieren als anzügliche Metaphern (Cybersex).
 
 Genau diese Dichte an Doppeldeutigkeit – bei der fast jede Zeile auf mehreren Ebenen gleichzeitig funktioniert – war die spannende Herausforderung beim Schreiben des Songs.
+
+---
+
+## Songtext mit Bezug zu *Once Human* bzw. Gaming allgemein
 
 |Nr.|Textzeile|Bedeutung|
 |-:|:-|:-|
@@ -64,7 +68,7 @@ Genau diese Dichte an Doppeldeutigkeit – bei der fast jede Zeile auf mehreren 
 |39|Power-waves rising, from the cradle to ascend.|Die „Wiege“ (Cradle) ist der Rucksack, in dem Deviants getragen werden.|
 |40|You're the companion, on whom I depend!|Dies beschreibt die enge Bindung zwischen dem Spieler (Meta-Human) und seinem Begleiter (Deviant).|
 |41|No longer a doll, for all to see.|Rebeccas Bewusstsein ist im Spiel an eine Stoffpuppe gebunden, während ihr Mitsuko-Avatar wie eine Porzellanpuppe gestaltet ist.|
-|42|Out of the dark, I'm finally free!|–|
+|42|Out of the dark, I'm finally free!|Dies beschreibt die Befreiung aus der dunklen Eindämmung im unterirdischen LEA Research Lab sowie aus der gläsernen Isolationskapsel.|
 |43|I swallow all your energy.|–|
 |44|Now come! Fuse right into me!|Die Verschmelzung (Fusion) von Deviants vervollkommnet sie.|
 ||||
@@ -138,7 +142,7 @@ Genau diese Dichte an Doppeldeutigkeit – bei der fast jede Zeile auf mehreren 
 |32|Full capacity, maximum degree!|Sie ist maximal erregt und voll aufnahmebereit.|
 |33|There's no turning-back on the stardust-road,|Es gibt kein Zurück mehr, weil die Leidenschaft komplett übernommen hat.|
 |34|Your desire rewrites Rebecca's code!|Sein Verlangen nach ihr verändert ihr innerstes Wesen.|
-|35|I'll drive this coaster, yeah I hold the keys,|Sie übernimmt die Führung auf dieser wilden Gefühlsachterbahn.|
+|35|I'll drive this coaster, yeah I hold the keys,|Sie übernimmt die Führung – ein deutliches Bild für das körperliche „Reiten“, während sie (passend zum Plural keys) seine „Schätze“ in der Hand hält.|
 |36|and run this machine, with the absolute ease!|Sie weiß genau, wie sie ihn mühelos zum Höhepunkt bringt.|
 ||||
 ||**bridge**||
