@@ -2,8 +2,8 @@
 
 #### Variante 01: Das Prisma-Zentrum (1 großes Hauptporträt + 6 Flügel-Sektoren)
 
-![](covers/preview_1.webp)
 ![](covers/preview_2.webp)
+![](covers/preview_3.webp)
 
 ````text
 SUBJECT: Create a 3:2 landscape key art banner (1536x1024) featuring a medium-shot central portrait (from chest up) of Mitsuko from the attached photorealistic reference image. Keep her exact face, natural skin pores, and hair identical to the reference—her face remains completely unmarred without cracks or glitches. Her eyes are OPEN. She looks directly at the viewer with a captivating expression blending vulnerability and newfound strength. Leave generous headroom above her hair and space below her chin so the image can later be cropped to a 2:1 banner without cutting off her head or text.
@@ -22,7 +22,7 @@ STYLE: Photorealistic editorial key art photography, 85mm portrait lens sharpnes
 
 #### Variante 022C: Das 6-teilige Evolutions-Panorama (6 Gesichter nebeneinander)
 
-![](covers/preview_3.webp)
+![](covers/preview_4.webp)
 
 ````text
 SUBJECT: Create a 3:2 landscape panoramic banner (1536x1024) based on the attached photorealistic reference image of Mitsuko. Keep her exact face, realistic skin texture, and hairstyle consistent across six seamless vertical panels flowing from left to right. Frame the characters as medium-wide portraits (from mid-chest up) with generous headroom above their hair and extra margin at the bottom, ensuring the central horizontal band can later be cropped to a 2:1 GitHub banner without cutting off heads or text:
