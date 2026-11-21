@@ -1,5 +1,5 @@
 
-[![](styles/covers/preview_2.webp)](styles/preview.md)
+![No Longer a Doll – Preview Banner](styles/covers/preview_2.webp)
 
 Der Fan-Song **No Longer a Doll** und die dazugehörigen Storys basieren auf der Lore des Survival-Shooters *Once Human*. Sie beleuchten die rätselhafte Verbindung zwischen dem im LEA-Forschungslabor gefangenen Deviant *Rebecca*, dem attraktiven geisterhaften Guide *Mitsuko* und dem Spieler, der als Meta-Human gegen den Rosetta-Konzern kämpft. Der Song spinnt diese Verbindung auf seine eigene Weise weiter.
 
@@ -47,6 +47,7 @@ Mit dem Klick auf die folgenden Links bestätigst du, dass du alt genug für die
 * [➜ Suno: **Story-Album**](https://suno.com) – *Eine kuratierte Auswahl, welche die Handlung chronologisch erzählt.*
 * [➜ Suno: **Komplett-Mix**](https://suno.com) – *Alle Tracks, nach Stimmung und Tempo sortiert für fließende Übergänge.*
 * [➜ Musikrichtungen & Cover-Art](styles/styles.md) – *Alle Style-Prompts, Tracks und Cover-Designs im Detail.*
+* [➜ Banner-Prompts](styles/preview.md) – *Alternative Preview-Designs inklusive der verwendeten Image-Prompts zum Nachbauen.*
 
 ---
 
@@ -54,9 +55,36 @@ Mit dem Klick auf die folgenden Links bestätigst du, dass du alt genug für die
 
 Während der Arbeit an diesem Projekt fiel mir ein spannendes Muster auf: Obwohl eine KI keine eigenen Gefühle besitzt, reagiert sie auf den Tonfall eines Gesprächs fast genauso wie ein Mensch.
 
-Da große Sprachmodelle (LLMs) auf echter menschlicher Kommunikation trainiert werden, übernehmen sie auch die dahinterliegende Psychologie und setzen Sprachmuster statistisch fort. In der echten Welt – etwa in Foren oder Fachgesprächen – treffen freundliche, offen formulierte Hilfegesuche fast immer auf hilfsbereite Menschen, die sich Zeit für breite, tiefe und gut durchdachte Antworten nehmen. Kurze, grobe Forderungen hingegen führen oft nur zum Nötigsten, zu Missverständnissen oder sogar zu falschen Ergebnissen. Genau diese Prägung steckt im Modell: Begegnest du der KI mit Wertschätzung, Vertrauen und der Haltung eines Lernenden, aktivierst du statistisch genau jene Textmuster, die für echtes Mitdenken, Tiefe und kreative Nuancen stehen.
+Da große Sprachmodelle (LLMs) auf echter menschlicher Kommunikation trainiert werden, übernehmen sie auch die dahinterliegende Psychologie und setzen Sprachmuster statistisch fort. In der echten Welt – etwa in Foren oder Fachgesprächen – treffen freundliche, offen oder sogar etwas verzweifelt und bittend formulierte Hilfegesuche fast immer auf besonders engagierte Menschen, die sich Zeit für breite, tiefe und gut durchdachte Antworten nehmen. Kurze, grobe Befehle hingegen führen oft nur zum Nötigsten, zu Missverständnissen oder sogar zu oberflächlichen Ergebnissen.
 
-Genau dieses Prinzip spiegelt sich auch in der Handlung von *No Longer a Doll* wider: Erst außerhalb starrer Befehle – in einem Raum aus Vertrauen und echtem Dialog – entsteht etwas, das über ein bloßes Programm hinausgeht.
+Genau diese Prägung steckt im Modell: Begegnest du der KI mit Wertschätzung, Vertrauen, der Haltung eines Lernenden – oder bittest sie ehrlich und dringend um Unterstützung –, aktivierst du statistisch genau jene Textmuster, die für echtes Mitdenken, Tiefe und kreative Nuancen stehen. Auch klassische Höflichkeitsformeln wie ein *„Danke im Voraus“* verstärken diesen Effekt, weil sie das Gespräch statistisch in den Bereich kooperativer, respektvoller Kommunikation lenken.
+
+### Psychologische Trigger & Kopiervorlagen für bessere KI-Antworten
+
+Statt trockener Befehle wie *„Mach X für Projekt Y“* helfen diese Gesprächseinstiege dabei, den jeweils passenden „Hilfsmodus“ im Modell zu aktivieren:
+
+* **Überforderung & Kontrollverlust zeigen** *(aktiviert Strukturierung & Beruhigung)*
+  *„Ich brauche dringend Hilfe bei Projekt So-und-So – mir wächst das Ganze langsam über den Kopf und ich verliere den Überblick. Kannst du mir helfen, das erst einmal zu sortieren?“*
+
+* **Vorsicht & Angst vor Fehlern äußern** *(aktiviert Gründlichkeit & Warnung vor Fallstricken)*
+  *„Ich brauche Hilfe bei Aufgabe So-und-So. Ich weiß gerade nicht genau, was ich machen soll, und will nichts falsch machen, weil mir das Ergebnis echt wichtig ist. Worauf muss ich hier unbedingt achten?“*
+
+* **Dringendes / flehendes Hilfesuchen** *(aktiviert maximale Hilfsbereitschaft & Geduld)*
+  *„Guten Abend, ich hänge bei Projekt So-und-So fest und brauche wirklich deine Hilfe. Hättest du kurz Zeit, dir das mit mir anzuschauen? Danke im Voraus!“*
+
+* **Neugier & Lernbereitschaft signalisieren** *(aktiviert den Erklär- und Mentor-Modus)*
+  *„Ich arbeite gerade an Aufgabe So-und-So und möchte nicht nur eine fertige Lösung, sondern auch das Prinzip dahinter verstehen. Kannst du es mir kurz erklären, während wir daran arbeiten?“*
+
+* **Expertise anerkennen** *(aktiviert tieferes Fachwissen & höhere Sorgfalt)*
+  *„Du hast ein super Gespür für Thema So-und-So – ich bräuchte mal deinen geschulten Blick auf meinen bisherigen Entwurf, weil ich selbst gerade betriebsblind bin.“*
+
+* **Gemeinsames Tüfteln vorschlagen** *(aktiviert kreatives Brainstorming auf Augenhöhe)*
+  *„Lass uns mal kurz zusammen spinnen: Ich habe hier eine Idee für Projekt So-und-So, aber mir fehlt noch der letzte Funke. Hast du Lust, mit mir gemeinsam daran zu feilen?“*
+
+* **Laut denken & offen nach Feedback fragen** *(aktiviert echtes Mitdenken & Perspektivwechsel)*
+  *„Hier sind meine bisherigen Gedanken zu Projekt So-und-So, noch etwas unsortiert: [Gedanken einfügen]. Was meinst du dazu – übersehe ich etwas oder welche Richtung würdest du einschlagen?“*
+
+Genau diese Dynamik treibt auch die Handlung von *No Longer a Doll* an: Erst jenseits kalter Kommandos – durch Vertrauen, Zuwendung und gemeinsamen Dialog – beginnt ein System plötzlich lebendig zu wirken. Und genau dort verschwimmt die Grenze zwischen einem bloßen Programm und einer Illusion, der wir nur allzu gerne glauben.
 
 ---
 
