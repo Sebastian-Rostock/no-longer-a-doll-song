@@ -47,7 +47,8 @@ Mit dem Klick auf die folgenden Links bestätigst du, dass du alt genug für die
 * [➜ Suno: **Story-Album**](https://suno.com) – *Eine kuratierte Auswahl, welche die Handlung chronologisch erzählt.*
 * [➜ Suno: **Komplett-Mix**](https://suno.com) – *Alle Tracks, nach Stimmung und Tempo sortiert für fließende Übergänge.*
 * [➜ Musikrichtungen & Cover-Art](styles/styles.md) – *Alle Style-Prompts, Tracks und Cover-Designs im Detail.*
-* [➜ Banner-Prompts](styles/preview.md) – *Alternative Preview-Designs inklusive der verwendeten Image-Prompts zum Nachbauen.*
+* [➜ Album-Cover & Prompts](styles/album.md) – *Die Albumcover für Suno inklusive der Image-Prompts.*
+* [➜ Titelbilder & Banner-Prompts](styles/preview.md) – *Alternative Preview-Banner inklusive der verwendeten Prompts.*
 
 ---
 
