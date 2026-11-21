@@ -77,6 +77,6 @@ Status: Eindämmung gescheitert.
 
 ---
 
-Hier geht es zurück zur [➜ Übersicht der Songtext-Interpretation](../lyrics/lyrics_format.md), zu [➜ Mehr als ein Spiel](story_player.md), zu [➜ Rebeccas Erwachen](story_rebecca.md) oder zum [➜ Hauptdokument](../README.md).
+Hier geht es zurück zum [➜ Songtext](../lyrics/lyrics_format.md), zu [➜ Mehr als ein Spiel](story_player.md), zu [➜ Rebeccas Erwachen](story_rebecca.md) oder zum [➜ Hauptdokument](../README.md).
 
 <sub>*Systemnotiz: Dieser Bericht beschreibt den offiziellen Kenntnisstand der Sicherheitsabteilung. Für freigegebene interne Analysen siehe [Projektakte »Socket«](story_socket.md).*</sub>
