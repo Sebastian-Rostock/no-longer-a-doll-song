@@ -1,6 +1,12 @@
-## Preview Image
+## Titelbilder & Social-Preview-Banner
 
-#### Variante 01: Das Prisma-Zentrum (1 großes Hauptporträt + 6 Flügel-Sektoren)
+Für die GitHub-Startseite und das Social-Media-Preview-Image sind zwei verschiedene Designs entstanden. Beide Prompts sind so konstruiert, dass alle wichtigen Bild- und Textelemente in einer zentralen **Safe Zone** liegen – so lassen sich die Motive bei Bedarf verlustfrei auf das typische Bannerformat zuschneiden, ohne Köpfe oder Typografie anzuschneiden.
+
+---
+
+#### Variante 01: Das Prisma-Zentrum *(Aktuelles Titelbild)*
+
+*Ein zentrales Porträt vor sechs lichtdurchfluteten Flügel-Sektoren, welche die musikalischen Genres des Projekts von links (düsterer Witch House) bis rechts (heller Kawaii-Pop) auffächern. Hierzu entstanden zwei Render-Durchläufe desselben Prompts:*
 
 ![](covers/preview_2.webp)
 ![](covers/preview_3.webp)
@@ -20,7 +26,9 @@ TYPOGRAPHY: Placed cleanly in the central safe zone over her chest/collarbone ar
 STYLE: Photorealistic editorial key art photography, 85mm portrait lens sharpness on the face, wide framing with safe margins top and bottom, 3:2 landscape aspect ratio.
 ````
 
-#### Variante 022C: Das 6-teilige Evolutions-Panorama (6 Gesichter nebeneinander)
+#### Variante 02: Das Evolutions-Panorama *(Alternative)*
+
+*Sechs ineinander übergehende Porträt-Panels zeigen Mitsukos bzw. Rebeccas Verwandlung entlang der Story-Chronologie – vom hypnotischen Blick im LEA-Labor bis zum strahlenden Lächeln im Finale.*
 
 ![](covers/preview_4.webp)
 
@@ -40,4 +48,4 @@ STYLE: High-end photorealistic key art banner, cinematic lighting, sharp focus o
 
 ---
 
-Hier geht es zurück zum [➜ Hauptdokument](../README.md).
+Hier geht es weiter zu den [➜ Album-Covern & Prompts](album.md), zu [➜ Musikrichtungen & Cover-Art](styles.md) oder zurück zum [➜ Hauptdokument](../README.md).
