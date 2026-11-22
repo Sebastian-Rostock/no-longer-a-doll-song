@@ -14,8 +14,6 @@ Bedrohlich, intensiv und dramatisch. Der *Boss-Battle-Drop* unterstreicht die ro
 [➜ 06 - No Longer a Doll (Dark Cinematic Cyber-Pop)](https://suno.com/s/W9tqsCJAA3ZHW4ke)
 *(leider mit kleinem Textfehler bei „Oh, I will heal you“)*
 
-* 04-3 (BEST) STERN hypnotisch, geil
-    kl tf "Oh, I will heal you"
 ````text
 Dark cinematic cyber-pop, eerie industrial pop; haunting female vocals move from whispers to wide-range top notes, with roomy, unprocessed delivery and stacked hook harmonies; hard-edged transient shaping cuts through the mix; heavy synth bass, grinding metal percussion and pulsing synth arpeggios; intense boss-battle EDM drop on a driving four-on-the-floor beat, followed by a soft fade
 ````
@@ -24,8 +22,7 @@ Dark cinematic cyber-pop, eerie industrial pop; haunting female vocals move from
 
 [➜ 06_02 - No Longer a Doll (Dark Cinematic Cyber-Pop)](https://suno.com/s/zchg5sRFPP02pNHc)
 *(leider mit kleinem Textfehler bei „“)*
-* 04-1 (BEST) 
-    kl tf "What am I doing "
+
 ````text
 Cyber-pop, low-register haunting female vocals, hushed and close-mic with whispered ad-libs between lines; rapid double-time EDM build into an intense boss-battle drop; heavy synth-bass lead, industrial metal snare, granular vocal chops; hard-cut drop transitions, dark cinematic layers and tightly controlled electronic mix
 ````
@@ -35,11 +32,6 @@ Cyber-pop, low-register haunting female vocals, hushed and close-mic with whispe
 [➜ 06_03 - No Longer a Doll (Dark Cinematic Cyber-Pop)](https://suno.com/s/jsP53A28KtzKmq6v)
 *(leider mit Textfehler bei „perfect five-five body“ und „human memories“)*
 
-* 04-4 (GUT)
-    tf "perfect five-five body ", "human memories "
- 
-
-
 ````text
 Dark cinematic cyber-pop, eerie industrial pop; haunting female vocals in a warm mid-range, half-spoken talk-sing with whispered ad-libs between lines; saturated bass distortion and tight vocal doubles; half-time cinematic stomp; heavy synth bass, metallic percussion and arpeggiated synths build to an intense boss-battle EDM drop
 ````
@@ -48,8 +40,6 @@ Dark cinematic cyber-pop, eerie industrial pop; haunting female vocals in a warm
 
 [➜ 06_04 - No Longer a Doll (Dark Cinematic Cyber-Pop)](https://suno.com/s/1Zb8GDtqP3CgrVLM)
 *(leider mit kleinem Textfehler bei „In my warm embrace“ und deutlichem bei „looking for the plug“)*
-* 04-2 treibend, ggf ans ende zu phonk KANN GGF WEG
-    kl tf in my warm embr, deutlich "looking for the plug"
 
 ````text
 Dark cinematic cyber-pop, eerie industrial pop, heavy synth bass, haunting female vocals, intense boss-battle EDM drop
@@ -111,9 +101,6 @@ TYPOGRAPHY: Title "NO LONGER A DOLL" in cracked metallic font. Tagline: "ready t
 STYLE: Epic, ominous yet alluring cyberpunk boss key art, 1:1.
 ````
 
-
-
-  
 ---
 
 Hier geht es weiter zur [➜ nächsten Musikrichtung (*Drift / Cyberpunk Phonk*)](drift_cyberpunk_phonk.md), zum [➜ Songtext als Prompt](../lyrics/lyrics_prompt.md), zurück zu den [➜ Musikrichtungen](styles.md) oder zurück zum [➜ Hauptdokument](../README.md).
