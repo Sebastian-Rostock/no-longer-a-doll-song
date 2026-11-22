@@ -10,28 +10,22 @@ Düster, beklemmend, ritualhaft und geisterhaft. Dieser Stil vertont das **Intro
 #### Variante 01
 
 [➜ 01 - No Longer a Doll (Witch House)](https://suno.com/s/Jn910SbLn8lo5PHM)
-*(leider mit Textfehler bei "before")*
 
 ````text
-Witch house, cyber goth: distorted Reese bass, dark ritual beats and eerie synth pulses;
-industrial shadow textures, glitch cuts and a haunting tech-atmosphere;
-warm mid-range ghost vocals, hushed and close-mic;
-90 BPM, F minor, slow lurching pulse
+Witch house, cyber goth: distorted Reese bass, dark ritual beats and eerie synth pulses; industrial shadow textures, glitch cuts and a haunting tech-atmosphere; warm mid-range ghost vocals, hushed and close-mic; 90 BPM, F minor, slow lurching pulse
 ````
 
 #### Variante 02
 
 [➜ 01_02 - No Longer a Doll (Witch House)](https://suno.com/s/6HpcbqiFsG1PEXHQ)
-*(leider mit Textfehler bei "before" und "deep")*
+*(leider mit Textfehler bei „before“)*
 
 ````text
-Witch house, cyber goth with industrial-shadow production and haunting tech-atmosphere;
-distorted Reese bass, dark ritual beats, and eerie glitch textures;
-high, light ghost vocals with stacked harmonies on the hooks;
-90 BPM, F minor, slow pulse and shadowy half-time sway
+Witch house, cyber goth with industrial-shadow production and haunting tech-atmosphere; distorted Reese bass, dark ritual beats, and eerie glitch textures; high, light ghost vocals with stacked harmonies on the hooks; 90 BPM, F minor, slow pulse and shadowy half-time sway
 ````
 
 #### Variante 03
+*(leider mit Textfehler bei „before“ und „deep“)*
 
 [➜ 01_03 - No Longer a Doll (Witch House)](https://suno.com/s/PfJzRcklwtGFcMyU)
 
@@ -88,6 +82,8 @@ industrial shadow textures, glitch cuts and a haunting tech-atmosphere;
 warm mid-range ghost vocals, hushed and close-mic;
 90 BPM, F minor, slow lurching pulse
 ````
+
+---
 
 ## Covers & Image-Prompts
 
