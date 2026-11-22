@@ -69,24 +69,13 @@ STYLE: Moody, enchanting dark-pop cover, soft cinematic grain, 1:1.
 ![](covers/dark_pop_3.webp)
 
 ````text
-SUBJECT:
-Mitsuko from Once Human — use the attached reference image for faceand hairstyle (outfit styled in sleek black silk editorial eveningwear with subtle matte-black satin accents). Her eyes are OPEN, half-lidded and alluring, looking back over her shoulder with a sultry, knowing smile. Waist-up three-quarter pose, leaning gracefully against a doorframe in dim half-shadow, one hand raised lightly near her lips as if about to whisper a secret. No microphone.
-
-ENVIRONMENT:
-A minimalist luxury apartment hallway at night with a glossy black reflective floor and a single heavy door slightly ajar, casting a sharp vertical beam of warm-violet light across the dark wall.
-
-LIGHT & FX:
-Chiaroscuro low-key studio lighting with a soft magenta rim light and warm bronze fill. Fine magenta stardust particles float lazily in the doorway beam. Only in her reflection on the glossy black floor do two curved wisps of her hair form faint horn-like silhouettes and a subtle violet glint in her irises. Subtle 35mm film grain and soft halation.
-
-COLOR PALETTE:
-Deep Obsidian #0B090E, Warm Shadow Bronze #2B1E1A, Satin Black #16141C, Neon Magenta #FF2A85, Soft Rose Highlight #FF7AC6.
-
-TYPOGRAPHY:
-Title "NO LONGER A DOLL" in sleek, wide-spaced chrome-tinted sans-serif, placed in the top-right corner.
+SUBJECT: Mitsuko from Once Human — use the attached reference image for face and hairstyle (outfit styled in sleek black silk editorial eveningwear with subtle matte-black satin accents). Her eyes are OPEN, half-lidded and alluring, looking back over her shoulder with a sultry, knowing smile. Waist-up three-quarter pose, leaning gracefully against a doorframe in dim half-shadow, one hand raised lightly near her lips as if about to whisper a secret. No microphone.
+ENVIRONMENT: A minimalist luxury apartment hallway at night with a glossy black reflective floor and a single heavy door slightly ajar, casting a sharp vertical beam of warm-violet light across the dark wall.
+LIGHT & FX: Chiaroscuro low-key studio lighting with a soft magenta rim light and warm bronze fill. Fine magenta stardust particles float lazily in the doorway beam. Only in her reflection on the glossy black floor do two curved wisps of her hair form faint horn-like silhouettes and a subtle violet glint in her irises. Subtle 35mm film grain and soft halation.
+COLOR PALETTE: Deep Obsidian #0B090E, Warm Shadow Bronze #2B1E1A, Satin Black #16141C, Neon Magenta #FF2A85, Soft Rose Highlight #FF7AC6.
+TYPOGRAPHY: Title "NO LONGER A DOLL" in sleek, wide-spaced chrome-tinted sans-serif, placed in the top-right corner.
 Tagline "behind closed doors..." in delicate, intimate lowercase handwritten script typography near the bottom-left, softly illuminated.
-
-STYLE:
-High-end dark-pop single cover, square 1:1, moody editorial fashion photography meets photographic skin realism, shallow depth of field, seductive and tasteful, no literal horns or tails on her actual body.
+STYLE: High-end dark-pop single cover, square 1:1, moody editorial fashion photography meets photographic skin realism, shallow depth of field, seductive and tasteful, no literal horns or tails on her actual body.
 ````
 
 #### Variante 04

@@ -54,24 +54,12 @@ Cyberpunk phonk, aggressive drift phonk, distorted 808 bass, dark cowbell melody
 ![](covers/drift_cyberpunk_phonk_2.webp)
 
 ````text
-SUBJECT:
-Mitsuko from Once Human — use the attached reference image for faceand hairstyle (styled with a street-racing edge: cropped matte-black racing jacket with crimson stripes, dark cargo details, fingerless gloves). Her eyes are OPEN, narrow, predatory and confident, with a slight smirk directly toward the viewer. Aggressive low-angle hero shot, leaning back against the front fender of a slammed widebody JDM drift sports car, one boot braced forward. No microphone.
-
-ENVIRONMENT:
-An empty, rain-slicked desert highway in the Red Sands at night, long black tire marks curving around her, a weathered roadside sign reading "RED SANDS" half-obscured in the background haze, distant neon highway lights.
-
-LIGHT & FX:
-Harsh blood-red taillight glow from behind cutting through dense tire smoke, bright white headlight flare, and glowing violet underglow beneath the car that illuminates the swirling magenta-tinted smoke behind Rebecca like fierce, billowing wings. Heavy analog film grain and subtle chromatic aberration.
-
-COLOR PALETTE:
-Asphalt Black #0A0A0E, Blood Red #B3001B, Tire Smoke Grey #423F4D, Stardust Neon Purple #BF00FF, Chrome Silver #C9CED6.
-
-TYPOGRAPHY:
-Title "NO LONGER A DOLL" in aggressive, condensed brushed-chrome lettering with jagged distressed edges, slightly skewed for speed, at the top-right.
-Tagline "I'LL DRIVE THIS COASTER..." in sharp, slightly slanted industrial uppercase typography at the bottom, glowing crimson-white.
-
-STYLE:
-Cyberpunk drift phonk album cover, square 1:1, gritty underground night car photography meets semi-realistic anime-realism, high contrast, visceral energy.
+SUBJECT: Mitsuko from Once Human — use the attached reference image for face and hairstyle (styled with a street-racing edge: cropped matte-black racing jacket with crimson stripes, dark cargo details, fingerless gloves). Her eyes are OPEN, narrow, predatory and confident, with a slight smirk directly toward the viewer. Aggressive low-angle hero shot, leaning back against the front fender of a slammed widebody JDM drift sports car, one boot braced forward. No microphone.
+ENVIRONMENT: An empty, rain-slicked desert highway in the Red Sands at night, long black tire marks curving around her, a weathered roadside sign reading "RED SANDS" half-obscured in the background haze, distant neon highway lights.
+LIGHT & FX: Harsh blood-red taillight glow from behind cutting through dense tire smoke, bright white headlight flare, and glowing violet underglow beneath the car that illuminates the swirling magenta-tinted smoke behind Rebecca like fierce, billowing wings. Heavy analog film grain and subtle chromatic aberration.
+COLOR PALETTE: Asphalt Black #0A0A0E, Blood Red #B3001B, Tire Smoke Grey #423F4D, Stardust Neon Purple #BF00FF, Chrome Silver #C9CED6.
+TYPOGRAPHY: Title "NO LONGER A DOLL" in aggressive, condensed brushed-chrome lettering with jagged distressed edges, slightly skewed for speed, at the top-right. Tagline "I'LL DRIVE THIS COASTER..." in sharp, slightly slanted industrial uppercase typography at the bottom, glowing crimson-white.
+STYLE: Cyberpunk drift phonk album cover, square 1:1, gritty underground night car photography meets semi-realistic anime-realism, high contrast, visceral energy.
 ````
 
 #### Variante 02

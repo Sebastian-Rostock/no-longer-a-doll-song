@@ -70,24 +70,13 @@ STYLE: Sensual, smoky darkwave cover, grainy film, attractive and enigmatic, 1:1
 ![](covers/darkwave_trip_hop_3.webp)
 
 ````text
-SUBJECT:
-Mitsuko from Once Human — use the attached reference image for faceand hairstyle (wearing an oversized dark vintage trench coat with an upturned collar over dark layered fabric). Her eyes are CLOSED, serene, melancholic and dreaming, lips slightly parted as if whispering. Close-up profile-to-three-quarter framing, resting her forehead and one pale hand gently against the inside of a rain-streaked glass window. No microphone.
-
-ENVIRONMENT:
-A moody nocturnal cityscape seen through wet, condensation-covered window glass; blurred amber and indigo street reflections blend subtly with the distant, misty silhouette of towering monolithic spires on the horizon.
-
-LIGHT & FX:
-Soft 90s analog film lighting with cool slate-indigo ambient light and muted street-amber reflections across her cheek. Drifting pale smoke and violet stardust haze curl behind her shoulders in the faint, ambiguous contour of shadowy wings. Subtle tape-echo double-exposure trails and analog halation.
-
-COLOR PALETTE:
-Midnight Indigo #0D1021, Rain Slate #2E3B4E, Muted Street Amber #C88A36, Stardust Lavender #B388FF, Porcelain #EDE4E1.
-
-TYPOGRAPHY:
-Title "NO LONGER A DOLL" in worn, thin typewriter-style serif with a subtle analog ink-bleed, placed in the bottom-right corner.
+SUBJECT: Mitsuko from Once Human — use the attached reference image for face and hairstyle (wearing an oversized dark vintage trench coat with an upturned collar over dark layered fabric). Her eyes are CLOSED, serene, melancholic and dreaming, lips slightly parted as if whispering. Close-up profile-to-three-quarter framing, resting her forehead and one pale hand gently against the inside of a rain-streaked glass window. No microphone.
+ENVIRONMENT: A moody nocturnal cityscape seen through wet, condensation-covered window glass; blurred amber and indigo street reflections blend subtly with the distant, misty silhouette of towering monolithic spires on the horizon.
+LIGHT & FX: Soft 90s analog film lighting with cool slate-indigo ambient light and muted street-amber reflections across her cheek. Drifting pale smoke and violet stardust haze curl behind her shoulders in the faint, ambiguous contour of shadowy wings. Subtle tape-echo double-exposure trails and analog halation.
+COLOR PALETTE: Midnight Indigo #0D1021, Rain Slate #2E3B4E, Muted Street Amber #C88A36, Stardust Lavender #B388FF, Porcelain #EDE4E1.
+TYPOGRAPHY: Title "NO LONGER A DOLL" in worn, thin typewriter-style serif with a subtle analog ink-bleed, placed in the bottom-right corner.
 Tagline "whispering your name..." in soft, airy lowercase handwritten script typography in the upper-left negative space.
-
-STYLE:
-90s darkwave trip-hop album cover, square 1:1, atmospheric neo-noir cinematography, grainy analog 35mm film texture, lots of breathing room, haunting and intimate, no literal wings.
+STYLE: 90s darkwave trip-hop album cover, square 1:1, atmospheric neo-noir cinematography, grainy analog 35mm film texture, lots of breathing room, haunting and intimate, no literal wings.
 ````
 
 ---
