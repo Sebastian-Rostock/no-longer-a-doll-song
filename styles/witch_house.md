@@ -141,4 +141,4 @@ Witch house / cyber goth single cover, square 1:1, dark ritual club aesthetic, c
 
 ---
 
-Hier geht es weiter zur [➜ nächsten Musikrichtung (*Darkwave Trip-Hop*)](style_03.md), zum [➜ Songtext als Prompt](../lyrics/lyrics_prompt.md), zurück zu den [➜ Musikrichtungen](styles.md) oder zurück zum [➜ Hauptdokument](../README.md).
+Hier geht es weiter zur [➜ nächsten Musikrichtung (*Darkwave Trip-Hop*)](darkwave_trip_hop.md), zum [➜ Songtext als Prompt](../lyrics/lyrics_prompt.md), zurück zu den [➜ Musikrichtungen](styles.md) oder zurück zum [➜ Hauptdokument](../README.md).

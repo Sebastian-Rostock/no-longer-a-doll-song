@@ -18,9 +18,9 @@ Die folgende Übersicht sortiert die 18 Musikrichtungen nach dem dramaturgischen
 
 |Cover|Musikrichtung, Emotion & Bezug zur Story|
 |:---:|:---|
-|[![01](thumbs/witch_house.webp)](covers/witch_house_1.webp)|**[➜ 01 · Witch House](witch_house.md)** – *düster, beklemmend, unheimlich*<br>[➜ Top-Track auf Suno](https://suno.com/s/Jn910SbLn8lo5PHM)<br>Betont Intro & Verse 1; macht die Gefangenschaft in den LEA-Labs spürbar.|
-|[![02](thumbs/darkwave_trip_hop.webp)](covers/darkwave_trip_hop_1.webp)|**[➜ 02 · Darkwave Trip-Hop](darkwave_trip_hop.md)** – *hypnotisch, schattig, träumerisch*<br>[➜ Top-Track auf Suno](https://suno.com/s/5QusrBd5N4HfADfD)<br>Spiegelt das langsame Verschmelzen der Welten und das Schwinden der Vernunft wider.|
-|![](thumbs/02.webp)|**[✖ 03 · Dark-Pop](style_02.md)** – *verführerisch, geheimnisvoll*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Passt zu Rebeccas Fassade als *Porzellan-Puppe*, die den Spieler um den Finger wickelt.|
+|[![](thumbs/witch_house.webp)](covers/witch_house_1.webp)|**[➜ 01 · Witch House](witch_house.md)** – *düster, beklemmend, unheimlich*<br>[➜ Top-Track auf Suno](https://suno.com/s/Jn910SbLn8lo5PHM)<br>Betont Intro & Verse 1; macht die Gefangenschaft in den LEA-Labs spürbar.|
+|[![](thumbs/darkwave_trip_hop.webp)](covers/darkwave_trip_hop_1.webp)|**[➜ 02 · Darkwave Trip-Hop](darkwave_trip_hop.md)** – *hypnotisch, schattig, träumerisch*<br>[➜ Top-Track auf Suno](https://suno.com/s/5QusrBd5N4HfADfD)<br>Spiegelt das langsame Verschmelzen der Welten und das Schwinden der Vernunft wider.|
+|[![](thumbs/dark_pop.webp)](covers/dark_pop_1.webp)|**[➜ 03 · Dark-Pop](dark_pop.md)** – *verführerisch, geheimnisvoll*<br>[➜ Top-Track auf Suno](https://suno.com/s/OMwgtyyzVn9LyyHm)<br>Passt zu Rebeccas Fassade als *Porzellan-Puppe*, die den Spieler um den Finger wickelt.|
 |![](thumbs/10.webp)|**[✖ 04 · Dreamy Electropop](style_10.md)** – *intim, warm, geborgen, sanft*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Unterstreicht den Pre-Chorus (*In my warm embrace, you can hide*) als trügerische Sicherheit.|
 |![](thumbs/08.webp)|**[✖ 05 · Angel-Vocal Cyber-Pop](style_08.md)** – *unschuldig-süß vs. gefährlich*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Der Kontrast zwischen engelhafter Stimme und harten Drops passt zur *Puppen*-Tarnung.|
 |![](thumbs/04.webp)|**[✖ 06 · Dark Cinematic Cyber-Pop](style_04.md)** – *bedrohlich, intensiv, dramatisch*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Der *Boss-Battle-Drop* unterstreicht die Gefahr von Stardust und Systemfehlern.|

@@ -92,4 +92,4 @@ STYLE:
 
 ---
 
-Hier geht es weiter zur [➜ nächsten Musikrichtung (*Dark-Pop*)](style_02.md), zum [➜ Songtext als Prompt](../lyrics/lyrics_prompt.md), zurück zu den [➜ Musikrichtungen](styles.md) oder zurück zum [➜ Hauptdokument](../README.md).
+Hier geht es weiter zur [➜ nächsten Musikrichtung (*Dark-Pop*)](dark_pop.md), zum [➜ Songtext als Prompt](../lyrics/lyrics_prompt.md), zurück zu den [➜ Musikrichtungen](styles.md) oder zurück zum [➜ Hauptdokument](../README.md).
