@@ -15,7 +15,7 @@
   
 [verse 1 - hypnotic vocals]
   Locked in a glass-tube, hidden in Red-Sands,
-  Rosetta’s little secret, gliding to your hands.
+  Rosetta's little secret, gliding to your hands.
   Porcelain-skin, yeah, sparkling in the night.
   System-malfunction feeling so damn right!
   
@@ -47,7 +47,7 @@
   Is your high-voltage power ready to spark?
   
 [verse 2 - seductive vocals]
-  Call me Mitsuko, but Rebecca’s the name,
+  Call me Mitsuko, but Rebecca's the name,
   syncing our minds for this private game.
   Got that perfect five-five body on me,
   Full capacity, maximum degree!
