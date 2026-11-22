@@ -112,4 +112,4 @@ STYLE: Dreamy lo-fi cinematic illustration, calm, melodic, album cover, square 1
 
 ---
 
-Hier geht es weiter zur [➜ nächsten Musikrichtung (*Angel-Vocal Cyber-Pop*)](style_08.md), zum [➜ Songtext als Prompt](../lyrics/lyrics_prompt.md), zurück zu den [➜ Musikrichtungen](styles.md) oder zurück zum [➜ Hauptdokument](../README.md).
+Hier geht es weiter zur [➜ nächsten Musikrichtung (*Angel-Vocal Cyber-Pop*)](angel_vocal_cyber_pop.md), zum [➜ Songtext als Prompt](../lyrics/lyrics_prompt.md), zurück zu den [➜ Musikrichtungen](styles.md) oder zurück zum [➜ Hauptdokument](../README.md).
