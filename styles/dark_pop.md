@@ -3,7 +3,7 @@
 &#128286; **Hinweis zum Jugendschutz:** Bitte beachte die [Altersbeschränkungen im Hauptdokument](../README.md#cw).
 
 **Stimmung & Bezug zur Story:**  
-Verführerisch, kontrolliert und geheimnisvoll. Dieser Stil passt perfekt zu Rebeccas Rolle als *Porzellan-Puppe* (*🎭 Rolle*), die den Spieler um den Finger wickelt und unbemerkt den Takt vorgibt (*„I'm leading the beat“*).
+Verführerisch, kontrolliert und geheimnisvoll. Dieser Stil passt perfekt zur *Porzellan-Puppe*, die den Spieler um den Finger wickelt und unbemerkt den Takt vorgibt (*I'm leading the beat*).
 
 ---
 
@@ -104,4 +104,4 @@ STYLE: Elegant, alluring, slightly uncanny dark-pop cover, beautiful and lovable
 
 ---
 
-Hier geht es weiter zur [➜ nächsten Musikrichtung (*Dreamy Electropop*)](style_10.md), zum [➜ Songtext als Prompt](../lyrics/lyrics_prompt.md), zurück zu den [➜ Musikrichtungen](styles.md) oder zurück zum [➜ Hauptdokument](../README.md).
+Hier geht es weiter zur [➜ nächsten Musikrichtung (*Dreamy Electropop*)](dreamy_electropop.md), zum [➜ Songtext als Prompt](../lyrics/lyrics_prompt.md), zurück zu den [➜ Musikrichtungen](styles.md) oder zurück zum [➜ Hauptdokument](../README.md).
