@@ -93,23 +93,23 @@ Genau diese Dynamik treibt auch die Handlung von *No Longer a Doll* an: Erst jen
 
 ## Lizenz, Urheberrecht & Community-Nutzung
 
-### 1. Eigene Texte, Storys & Prompts
+### 1. Eigene Texte, Storys, Prompts & lokale Audio-Tracks
 
-Alle von mir verfassten sowie mithilfe von KI-Werkzeugen ausgearbeiteten Songtexte, Geschichten und Style-/Image-Prompts stammen von **Sebastian Rostock** und stehen – soweit urheberrechtlich schutzfähig – unter der [Creative Commons BY-NC-SA 4.0](LICENSE)-Lizenz.
+Alle von mir verfassten sowie mithilfe von KI-Werkzeugen ausgearbeiteten Songtexte, Geschichten und Style-/Image-Prompts sowie die lokal generierten Audio-Tracks (**ACE-Step 1.5**) stammen von **Sebastian Rostock** und stehen – soweit urheberrechtlich schutzfähig – unter der [Creative Commons BY-NC-SA 4.0](LICENSE)-Lizenz.
 
 Für diese eigenen Inhalte gelten zusätzlich **ausdrückliche Ausnahmen für die Community**:
 
-* **Für Streamer & Content Creator:** Ihr dürft die Texte und Songs (sofern von den jeweiligen Audio-Plattform-Regeln gedeckt) gerne für eure YouTube-Videos oder Twitch-Streams nutzen – auch wenn euer Kanal monetarisiert ist. Eine Namensnennung/Verlinkung wäre nett.
+* **Für Streamer & Content Creator:** Ihr dürft die Texte sowie die lokal mit ACE-Step 1.5 erstellten Songs gerne für eure YouTube-Videos oder Twitch-Streams nutzen – auch wenn euer Kanal monetarisiert ist. Eine Namensnennung/Verlinkung wäre nett. *(Hinweis: Für die extern auf Suno gehosteten Tracks gelten abweichende Regeln, siehe Abschnitt 2).*
 
-* **Für die Entwickler (Starry Studio / NetEase):** Ihr habt die volle, kostenlose Erlaubnis, diesen Songtext oder die Geschichten direkt im Spiel oder für euer Marketing zu verwenden.
+* **Für die Entwickler (Starry Studio / NetEase):** Ihr habt die volle, kostenlose Erlaubnis, diesen Songtext, die Geschichten oder die lokal generierten Tracks direkt im Spiel oder für euer Marketing zu verwenden.
 
 * **Verboten:** Der direkte kommerzielle Weiterverkauf der Songs oder Texte (z. B. als eigener Release auf Spotify oder Verkauf als E-Book) ist untersagt.
 
-### 2. Hinweis zu Audio- & Bild-Generierung (KI)
+### 2. Hinweis zu Suno-Tracks & Cover-Art (KI)
 
-* **Musik & Audio:** Die vertonten Tracks wurden mithilfe von [Suno](https://suno.com) sowie ACE-Step 1.5 erstellt. Die Rechte und Nutzungsbedingungen der auf Suno gehosteten Audio-Tracks richten sich nach den [Suno Terms of Service](https://suno.com/terms) (Verwendung im Rahmen nicht-kommerzieller Fan-Projekte unter Nennung von Suno).
+* **Suno-Audio (Verlinkte Tracks):** Die auf [Suno](https://suno.com) gehosteten Tracks wurden im kostenlosen Tarif erstellt und sind daher **nicht** Teil der CC BY-NC-SA 4.0-Lizenz dieses Repositories. Die Rechte an diesen Audiodateien liegen gemäß den [Suno Terms of Service](https://suno.com) bei Suno; sie dürfen ausschließlich über die offiziellen Suno-Links für nicht-kommerzielle Zwecke unter Nennung von Suno geteilt und angehört werden (keine Monetarisierung, kein Re-Upload der Audiodateien).
 
-* **Bilder:** Die Cover-Arts wurden mit GPT Image 1.5 generiert.
+* **Bilder:** Die Cover-Arts wurden mit GPT Image 1.5 generiert und dienen der nicht-kommerziellen Illustration dieses Fan-Projekts.
 
 ### 3. Marken- und Urheberrecht (*Once Human*)
 
