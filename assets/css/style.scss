@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+img {
+	background-color: unset !important;
+}
+
 /* Zeilenumbruch in Quelltexten */
 .highlight pre code {
   white-space: break-spaces !important;
@@ -13,8 +17,8 @@
 /* Automatischer Dunkelmodus passend zum GitHub-Dark-Design */
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #0d1117;
-    color: #c9d1d9;
+    background-color: #0d1117 !important;
+    color: #c9d1d9 !important;
   }
 
   .markdown-body h1,
