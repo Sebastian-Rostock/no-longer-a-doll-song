@@ -1,5 +1,7 @@
 ## Mehr als ein Spiel
 
+&#128286; **Hinweis zum Jugendschutz:** Bitte beachte die [Altersbeschränkungen im Hauptdokument](../README.md#cw).
+
 Der Spieler startet das Spiel nicht für eine große Heldentour, sondern für einen schnellen Reiz nach einem langen Tag. Dass ihm dabei ausgerechnet die freundlichste Figur des Systems begegnet, hält er für Zufall – und ahnt nicht, dass das Spiel heute Nacht nach völlig neuen Regeln funktioniert. Aus einer gewöhnlichen Session wird ein intensiver Rausch, der ihm Bilder in den Kopf pflanzt, die ihn selbst nach dem Ausschalten nicht mehr loslassen.
 
 ---

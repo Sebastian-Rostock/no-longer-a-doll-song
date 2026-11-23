@@ -1,7 +1,7 @@
 
 ![No Longer a Doll – Preview Banner](styles/covers/preview_2.webp)
 
-Der Fan-Song **No Longer a Doll** und die dazugehörigen Storys basieren auf der Lore des Survival-Shooters *Once Human*. Sie beleuchten die rätselhafte Verbindung zwischen dem im LEA-Forschungslabor gefangenen Deviant *Rebecca*, dem attraktiven geisterhaften Guide *Mitsuko* und dem Spieler, der als Meta-Human gegen den Rosetta-Konzern kämpft. Der Song spinnt diese Verbindung auf seine eigene Weise weiter.
+Der Fan-Song **No Longer a Doll** und die dazugehörigen Storys basieren auf der Lore des Survival-Shooters *Once Human*. Sie beleuchten die rätselhafte Verbindung zwischen **Rebecca** – einem Menschen, der im unterirdischen LEA-Forschungslabor gefangen gehalten wird –, dem attraktiven geisterhaften Guide **Mitsuko** und dem Spieler, der über seinen Meta-Human gegen den Rosetta-Konzern kämpft. Beide Frauen teilen sich dasselbe Gesicht und denselben Körper, doch hinter der freundlichen Fassade des Guides verbirgt sich eine zweite Wahrheit. Der Song spinnt diese Verbindung auf seine eigene Weise weiter.
 
 ---
 

@@ -1,5 +1,7 @@
 ## Rebeccas Erwachen
 
+&#128286; **Hinweis zum Jugendschutz:** Bitte beachte die [Altersbeschränkungen im Hauptdokument](../README.md#cw).
+
 Rebecca jagt nicht aus Lust an der Jagd, sondern weil Rosetta ihr ein Ziel zugewiesen hat. Dass sie dabei wirkt wie das klassische Verführungs-Wesen der Mythologie, ist kein Zufall: Genau dazu wurde sie geformt.
 
 ---

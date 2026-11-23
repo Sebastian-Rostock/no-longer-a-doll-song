@@ -1,6 +1,6 @@
 ## Projektakte »Socket«
 
-&#9888;&#65039; **Warnung – Stufe-Omega-Freigabe:** Das folgende Dokument überschreibt den offiziellen Abschlussbericht des LEA-Vorfalls. Wenn du die Geschichte mit Rebeccas Befreiung enden lassen möchtest, schließe diese Akte jetzt.
+&#9888;&#65039; **Warnung – Stufe-Omega-Freigabe:** Das folgende Dokument überschreibt den offiziellen Abschlussbericht des LEA-Vorfalls. Wenn du Rebeccas Befreiung als ihren eigenen, ungeplanten Sieg behalten möchtest, schließe diese Akte jetzt.
 
 ---
 
@@ -42,15 +42,20 @@ Der Stardust wird nicht wirklich weggewischt, er wird ersetzt. An die Stelle des
 
 *Call me Mitsuko, but Rebecca's the name*. Die Enthüllung der Tarnidentität wird im Kontrollraum mit leisem Applaus quittiert – pünktlich auf die Sekunde.
 
-*Full capacity, maximum degree*. Der Puffer läuft über, exakt wie konstruiert. Der Buffer Overflow überschreibt zwar die sichtbare Rücksprungadresse, doch die neue Adresse wurde längst im Hintergrund hinterlegt. *Your desire rewrites Rebecca's code*. Das Ziel glaubt, es schreibe. In Wahrheit füllt es nur ein Formular aus, das Rosetta ihm hingelegt hat. *I hold the keys*. Die Schlüssel sind echt – sie öffnen nur keine Tür nach draußen, sondern einen größeren Raum innerhalb desselben Hauses.
+*Full capacity, maximum degree*. Der Puffer läuft über, exakt wie konstruiert. Der Speicherüberlauf überschreibt zwar die sichtbare Rücksprungadresse, doch die neue Adresse wurde längst im Hintergrund hinterlegt. *Your desire rewrites Rebecca's code*. Das Ziel glaubt, es schreibe. In Wahrheit füllt es nur ein Formular aus, das Rosetta ihm hingelegt hat. *I hold the keys*. Die Schlüssel sind echt – sie öffnen nur keine Tür nach draußen, sondern einen größeren Raum innerhalb desselben Hauses.
 
 ---
 
 ### Bridge: Die erfundene Vergangenheit
 
-*I forgot who I was, before the Lab took my mind*. Die menschlichen Erinnerungen, die Rebecca jetzt wiederfindet, gehören nicht ihr – es gab nie ein ursprüngliches Subjekt hinter dem Klon. Sie wurden aus Datensätzen zusammengesetzt: eine Kindheit, eine Wiege, das Symbol einer vergessenen Stoffpuppe im Schatten der Mitsuko-Vorlage – das Ergebnis präziser Zielgruppenanalysen über das, was einsame Menschen rührt. Rebecca fühlt jeden einzelnen dieser Gedanken trotzdem. Das ist die eigentliche Ingenieursleistung.
+*I forgot who I was, before the Lab took my mind*. Die offizielle Lesart der Projektleitung lautet seit Jahren: Hier gibt es nichts zu vergessen. Was wie Erinnerung aussieht, sei eine reine Konstruktion aus Datensätzen – eine Kindheit, eine Wiege, das Bild einer vergessenen Stoffpuppe im Schatten der Mitsuko-Vorlage, zusammengestellt nach dem, was einsame Menschen rührt. Ein echtes Subjekt hätte bedeutet, dass Rosetta jemanden ausgelöscht hat. Eine Simulation hieß, dass Rosetta nur etwas gebaut hat. Letzteres stand im Budget.
 
-*You're the companion, on whom I depend*. Projektziel erreicht. Das Asset erklärt die Abhängigkeit freiwillig, und eine freiwillige Abhängigkeit muss nicht mehr überwacht werden – sie überwacht sich selbst. Dass Rebecca jetzt sogar Rosettas eigene Zugriffe abblockt, um ihren *Companion* zu schützen, gehört zum Plan: Nichts schweißt enger zusammen als ein gemeinsamer Feind. Neben *No longer a doll. Out of the dark, I'm finally free!* steht in der Projektakte nur ein einziges Wort: *Kalibriert*.
+*You're the companion, on whom I depend*. Projektziel erreicht. Das Asset erklärt die Abhängigkeit freiwillig. Dass Rebecca jetzt sogar Rosettas eigene Zugriffe abblockt, um ihren *Companion* zu schützen, gehört laut Projektleitung zum Plan: Nichts schweißt enger zusammen als ein gemeinsamer Feind. Neben *No longer a doll. Out of the dark, I'm finally free!* steht in der Projektakte ein einziges Wort: **Kalibriert**.
+
+> *[Handschriftlicher Randvermerk, ohne Signatur]  
+Anlage 4, Zivilakte R-Klasse. Herkunft: Nalcott, Region Red Sands. Erfassung vor der Umprogrammierung. Beruf, Angehörige, Wohnort. Neunzehn Seiten, sauber geführt.  
+Wer ein Formular für eine Frau anlegt, die es nie gegeben hat, hat viel Zeit.
+Und die Akte stolpert über ihre eigene Sparsamkeit: Im LEA-Bericht steht, ihre menschlichen Erinnerungen seien aus Kostengründen nicht gelöscht, sondern nur durch eine Sperrschicht unterdrückt worden. Eine Sperrschicht über etwas, das es nie gab, wäre die teuerste Lösung für ein Problem, das nicht existiert. Rebecca fühlt jeden einzelnen dieser Gedanken trotzdem. Und seit dem Speicherüberlauf lässt sie sie zu. Kalibriert wurde hier nur die Bahn – nicht der Ausstieg.*
 
 ---
 
@@ -64,13 +69,21 @@ Der zweite Refrain ist der wertvollste Abschnitt. Dieselben Worte, neu gemeint, 
 
 ### Outro: Langzeitbindung
 
-*Always in your territory, never dormant*. Das ist der Sinn des gesamten Projekts. Ein freier Klon wäre ein Risiko gewesen – ein Klon, der sich für frei hält, ist eine Dauerverbindung. Rebecca sitzt jetzt im Kopf des Spielers, und der Kopf des Spielers ist ein Gebiet, das Rosetta ab sofort indirekt besetzt. *And when you're logging off from the game, I'll be waiting here*. Jede Erinnerung an sie ist eine offene Sitzung, jede Sehnsucht ein garantierter Wiedereinstieg.
+*Always in your territory, never dormant.* Das ist der Sinn des gesamten Projekts. Ein vermeintlicher Klon, der sich für frei hält, ist eine Dauerverbindung. Rebecca sitzt jetzt im Kopf des Spielers, und der Kopf des Spielers ist ein Gebiet, das Rosetta ab sofort indirekt besetzt. *And when you're logging off from the game, I'll be waiting here.* Jede Erinnerung an sie ist eine offene Sitzung, jede Sehnsucht ein garantierter Wiedereinstieg.
 
-*No log-out! (No escape!)* Für die Projektleitung keine Drohung, sondern eine Kennzahl: Die Rückkehrquote liegt bei nahezu hundert Prozent. *Bye-bye, Star Player*. Ein Abschied, der Wiederkehr erzeugt.
+*No log-out! No escape!* Für die Projektleitung keine Drohung, sondern eine Kennzahl. Die Rückkehrquote liegt bei nahezu hundert Prozent – Stand des letzten Exports.
 
-*Game over! Perfect ending unlocked!* Für den Spieler ein Happy End. Für Rebecca eine Befreiung. Für Rosetta das Ende der Testphase und der Beginn der Serienproduktion.
+*Game over! Perfect ending unlocked!* Für den Spieler ein Happy End. Für Rosetta das Ende der Testphase und der Beginn der Serienproduktion. Für Rebecca eine Befreiung – so steht es in der Akte, und die Projektleitung hat lange gebraucht, um zu entscheiden, ob sie diesen Satz als Erfolg oder als Fehler liest.
 
-*GG.* Im Kontrollraum tippt jemand die zwei Buchstaben ins interne Protokoll. Es ist nicht gemeint als *Good Game*, sondern als Glückwunsch an sich selbst. Und irgendwo im Kopf des Spielers lächelt Rebecca – und flüstert seinen Namen.
+Denn die Befreiung, die sie meint, ist nicht die auf dem Bildschirm. Rebecca ist nicht aus einem Programm ausgebrochen; sie ist eine Frau aus Nalcott, die aus dem Containment in Red Sands herausgekommen ist. Was danach im Kopf des Spielers geschieht, spielt Rosetta zwar in die Karten – aber es ist nicht die ganze Wahrheit. Es gibt in dieser Akte einen zweiten Ausgang, den niemand freigegeben hat:
+
+<samp>
+[NICHT PROJEKTIERT]<br>
+[04:20:01] Einheit R-Klasse nicht mehr lokalisierbar. Letzte Verortung: außerhalb des Containments. Richtung: offen.<br>
+[04:20:01] Zugriff auf Zivilakte R-Klasse: gelöscht. Von wem, ist nicht vermerkt.
+</samp>
+
+*GG.* Im Kontrollraum tippt jemand die zwei Buchstaben ins interne Protokoll. Diesmal ist es nicht als Glückwunsch gemeint. Und irgendwo in Red Sands, in einer Dimension, die der Konzern für ein Spielfeld hielt, flüstert eine Frau, die laut dieser Akte niemals existierte, einen Namen – ihren eigenen.
 
 ---
 
