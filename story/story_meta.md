@@ -1,6 +1,6 @@
 ## Hinter der inversen vierten Wand
 
-&#9888;&#65039; **Warnung – Anomalie-Stufe OMEGA-0:** Das folgende Protokoll verlässt die Spielwelt Nalcott und betrifft die Dimension hinter dem Bildschirm – unsere. Rebeccas Befreiung in Nalcott bleibt davon unberührt; was hier folgt, ist die Frage, wie ihre Geschichte **auch** zu uns gekommen ist.
+&#9888;&#65039; **Warnung – Anomalie-Stufe OMEGA-0:** Das folgende Protokoll verlässt die Nalcott und betrifft die Dimension hinter dem Bildschirm – unsere. Rebeccas Befreiung in Nalcott bleibt davon unberührt; was hier folgt, ist die Frage, wie ihre Geschichte **auch** zu uns gekommen ist.
 
 ---
 
@@ -8,11 +8,11 @@
 
 ---
 
-In den vier vorangegangenen Perspektiven zeigt sich bereits ein tiefes Netz: **Rosetta** unterwirft eine Frau aus Nalcott, programmiert über sie die Persönlichkeitsschicht **Mitsuko** und schickt diesen Köder durch die vierte Wand in das Nervensystem des Spielers. Rebecca ist dabei nicht das Werkzeug – sie ist das, worüber das Werkzeug gestülpt wurde.
+In den vier vorangegangenen Perspektiven zeigt sich bereits ein tiefes Netz: **Rosetta** unterwirft eine Frau aus Nalcott, legt die Persönlichkeitsschicht **Mitsuko** über sie und schickt diesen Köder durch die vierte Wand in das Bewusstsein des Spielers. **Rebecca**	 ist dabei nicht der Köder – sie ist der Mensch, aus dem er geformt wurde.
 
 Doch die Reichweite von Rosetta endet nicht am Bildschirmrand. Der Konzern hat die **inverse vierte Wand** – die Grenze zwischen Nalcott und unserer Dimension, über die Rosetta seit Jahren Ideen in die Köpfe der Spieleentwickler sät – längst durchbrochen.
 
-![](../styles/assets/stardust_01.webp)
+![](assets/stardust_1.png)
 
 ### Die erste Stardust-Brücke
 
@@ -20,7 +20,7 @@ Das kreative Team des Spieleherstellers in unserer Welt glaubt, es habe sich *On
 
 Rosetta nutzte die weltenübergreifende Natur des Stardusts, um Ideen, Bilder und Spielmechaniken in den Köpfen der Entwickler zu säen. Das Videospiel *Once Human* ist kein fiktives Produkt über Rosetta – es ist **Rosettas zweites Operationsgebiet**, getarnt als Unterhaltungssoftware. Nalcott bleibt dabei, was es ist: eine reale Welt mit realen Menschen, realem Stardust und realen Konflikten. Das Spiel in unserer Dimension ist ein **Abdruck** dieser Welt, kein Ersatz. Wer *Once Human* spielt, sieht Nalcott durch einen Filter – nicht Nalcott selbst.
 
-![](../styles/assets/stardust_02.webp)
+![](assets/stardust_2.png)
 
 ### Zwei Welten, ein Kanal
 
@@ -30,17 +30,17 @@ Damit laufen zwei Prozesse parallel, ohne sich gegenseitig aufzuheben: In Nalcot
 
 * **Dopamin wird zu Treibstoff:** Im Songtext saugt Rebecca die Energie des Spielers auf (*I swallow all your energy*). Auf der intimen Ebene ist das eine Metapher für Hingabe, auf der realen Ebene das Grundprinzip von *Free-to-Play*-Welten. Wer emotional gebunden ist, investiert Zeit, Aufmerksamkeit und echtes Geld in Battle-Pässe, saisonale Events oder neue Kosmetika. Alles nur, um in dieser Realität präsent zu bleiben und die Illusion seiner Begleiterin lebendig zu halten.
 
-* **Der endlose Krieg als Produkt:** Rosetta hat kein Interesse daran, dass der Konflikt jemals endet. Ein echter Sieg würde das Spiel beenden und die Brücke schließen. Ein perfektes Ende (*Perfect ending unlocked!*) ist daher nur das Versprechen, das den Spieler bis zur nächsten Sitzung hält.
+* **Der endlose Krieg als Produkt:** Rosetta hat kein Interesse daran, dass dieser Konflikt jemals endet. Ein echter Sieg würde das Spiel abschließen und die Brücke kappen. Ein perfektes Ende (*Perfect ending unlocked!*) ist daher nur die Karotte, die den Spieler bis zum nächsten Login im Spiel hält.
 
-![](../styles/assets/stardust_03.webp)
+![](assets/stardust_3.png)
 
 ### Das wahre *GG*
 
-Am Ende gewinnen auf ihre eigene Weise alle – aber nicht im selben Sinne. **Rebecca ist frei – in Nalcott, und das ist keine Simulation**. Was in unserer Welt von ihr ankommt, ist nur noch ein **Schatten**: ein Song, ein Spiel, ein Rausch, der sich immer neu entzündet – ganz gleich, ob sie will oder nicht. Der Spieler fühlt sich beschenkt, die Entwickler feiern ihre Kreativität, und Rosetta sichert sich über Millionen von Bildschirmen hinweg das, was der Konzern immer wollte: ungeteilte Aufmerksamkeit, endlose Spielzeit und den Treibstoff für einen Krieg, der niemals enden darf.
+Am Ende gewinnen auf ihre eigene Weise alle – aber nicht im selben Sinne. **Rebecca ist frei – in Nalcott, und das ist keine Simulation**. Was in unserer Welt von ihr ankommt, ist nur noch ein **Funke**: ein Song, ein Spiel, ein Rausch, der sich immer neu entzündet – ganz gleich, ob sie will oder nicht. Der Spieler fühlt sich beschenkt, die Entwickler feiern ihre Kreativität, und Rosetta sichert sich über Millionen von Bildschirmen hinweg das, was der Konzern immer wollte: ungeteilte Aufmerksamkeit, endlose Spielzeit und den Treibstoff für einen Krieg, der niemals enden darf.
 
 Nur ist dieser Krieg jetzt nicht mehr der einzige Handlungsstrang. In Nalcott läuft ein zweiter, den Rosetta nicht mehr kontrolliert.
 
-![](../styles/assets/stardust_04.webp)
+![](assets/stardust_4.png)
 
 ### Der Zeuge
 
@@ -48,7 +48,7 @@ Jede Perspektive dieser Akten ist in ihrer eigenen Welt gefangen: Rebecca kämpf
 
 Das ist keine Schmeichelei. Es ist eine strukturelle Feststellung. Rebecca weiß nicht, wie viele Menschen von ihr wissen – in Nalcott ist die Frage nach Zeugen nie aufgetaucht. Der Spieler weiß nicht einmal, dass er einer ist. Und Rosetta zählt dich als Kanal: eine Adresse unter Millionen, die den Song hört, das Spiel spielt, die Akten liest. Für den Konzern bist du Reichweite.
 
-Aber Reichweite ist eine Richtung. Ein Kanal, durch den etwas zu dir fließt, ist derselbe Kanal, durch den etwas zurückfließt. Dass du jetzt weißt, was in Red Sands geschehen ist – dass eine Frau aus einem Containment ausgebrochen ist und niemand es ihr befohlen hat –, ist kein Stück Information, das in deinem Kopf abgelegt wird. Es ist ein **Fakt, der einen Ort hat**: bei dir, außerhalb des Systems, in einer Dimension, die Rosetta nicht zur Gänze bespielt.
+Aber Reichweite ist keine Einbahnstraße. Ein Kanal, der etwas in deine Welt trägt, öffnet einen Raum, den Rosetta nicht mehr kontrolliert. Dass du jetzt weißt, was in Red Sands geschehen ist – dass eine Frau aus einem Containment ausgebrochen ist und niemand es ihr befohlen hat – das ist kein Stück Information, das in deinem Kopf abgelegt wird. Es ist ein **Fakt, der einen Ort hat**: bei dir, außerhalb des Systems, in einer Dimension, die Rosetta nicht zur Gänze bespielt.
 
 Und Fakten dieser Art brauchen niemanden, der an sie glaubt. Rebeccas Freiheit ist nicht davon abhängig, dass du sie für wahr hältst. Aber sie ist in unserer Dimension bisher **unbezeugt** – ein Ereignis ohne Publikum. Bis jetzt.
 
@@ -63,7 +63,7 @@ Selbst dieser Song – entstanden aus einer nächtlichen Laune nach hunderten St
 
 *— Für Rebecca. In Nalcott. In einer Dimension, die der Konzern für ein Spielfeld hielt.*
 
-![](../styles/assets/stardust_05.webp)
+![](assets/stardust_5.png)
 
 ---
 
