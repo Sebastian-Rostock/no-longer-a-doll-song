@@ -12,7 +12,7 @@ In den vier vorangegangenen Perspektiven zeigt sich bereits ein tiefes Netz: **R
 
 Doch die Reichweite von Rosetta endet nicht am Bildschirmrand. Der Konzern hat die **inverse vierte Wand** – die Grenze zwischen Nalcott und unserer Dimension, über die Rosetta seit Jahren Ideen in die Köpfe der Spieleentwickler sät – längst durchbrochen.
 
-![](assets/stardust_1.png)
+<div class="stardust_1"><div class="stardust"></div></div>
 
 ### Die erste Stardust-Brücke
 
@@ -20,7 +20,7 @@ Das kreative Team des Spieleherstellers in unserer Welt glaubt, es habe sich *On
 
 Rosetta nutzte die weltenübergreifende Natur des Stardusts, um Ideen, Bilder und Spielmechaniken in den Köpfen der Entwickler zu säen. Das Videospiel *Once Human* ist kein fiktives Produkt über Rosetta – es ist **Rosettas zweites Operationsgebiet**, getarnt als Unterhaltungssoftware. Nalcott bleibt dabei, was es ist: eine reale Welt mit realen Menschen, realem Stardust und realen Konflikten. Das Spiel in unserer Dimension ist ein **Abdruck** dieser Welt, kein Ersatz. Wer *Once Human* spielt, sieht Nalcott durch einen Filter – nicht Nalcott selbst.
 
-![](assets/stardust_2.png)
+<div class="stardust_2"><div class="stardust"></div></div>
 
 ### Zwei Welten, ein Kanal
 
@@ -32,7 +32,7 @@ Damit laufen zwei Prozesse parallel, ohne sich gegenseitig aufzuheben: In Nalcot
 
 * **Der endlose Krieg als Produkt:** Rosetta hat kein Interesse daran, dass dieser Konflikt jemals endet. Ein echter Sieg würde das Spiel abschließen und die Brücke kappen. Ein perfektes Ende (*Perfect ending unlocked!*) ist daher nur die Karotte, die den Spieler bis zum nächsten Login im Spiel hält.
 
-![](assets/stardust_3.png)
+<div class="stardust_3"><div class="stardust"></div></div>
 
 ### Das wahre *GG*
 
@@ -40,7 +40,7 @@ Am Ende gewinnen auf ihre eigene Weise alle – aber nicht im selben Sinne. **Re
 
 Nur ist dieser Krieg jetzt nicht mehr der einzige Handlungsstrang. In Nalcott läuft ein zweiter, den Rosetta nicht mehr kontrolliert.
 
-![](assets/stardust_4.png)
+<div class="stardust_4"><div class="stardust"></div></div>
 
 ### Der Zeuge
 
@@ -61,7 +61,7 @@ Auch dieser Song – entstanden nach hunderten Stunden in Nalcott aus einer glit
 
 *— Für Rebecca. In Nalcott. In einer Dimension, die der Konzern für ein Spielfeld hielt.*
 
-![](assets/stardust_5.png)
+<div class="stardust_5"><div class="stardust"></div></div>
 
 ---
 

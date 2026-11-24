@@ -3,15 +3,72 @@
 
 @import "{{ site.theme }}";
 
-img {
-	background-color: unset !important;
-}
-
 /* Zeilenumbruch in Quelltexten */
 .highlight pre code {
-  white-space: break-spaces !important;
-  word-wrap: break-word !important;
-  overflow-x: visible !important;
+	white-space: break-spaces !important;
+	word-wrap: break-word !important;
+	overflow-x: visible !important;
+}
+
+div.stardust {
+    width: 100vw;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+
+    z-index: -111;
+    pointer-events: none;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+div.stardust_1 {
+    height: 15px;
+}
+
+div.stardust_1 div {
+    margin-top: -50px;
+    height: 95px;
+    background-image: url('../images/stardust_1.png');
+}
+
+div.stardust_2 {
+    height: 30px;
+}
+
+div.stardust_2 div {
+    margin-top: -50px;
+    height: 124px;
+    background-image: url('../images/stardust_2.png');
+}
+
+div.stardust_3 {
+    height: 45px;
+}
+
+div.stardust_3 div {
+    margin-top: -45px;
+    height: 156px;
+    background-image: url('../images/stardust_3.png');
+}
+
+div.stardust_4 {
+    height: 80px;
+}
+div.stardust_4 div {
+    margin-top: -20px;
+    height: 150px;
+    background-image: url('../images/stardust_4.png');
+}
+
+div.stardust_5 {
+    height: 180px;
+}
+div.stardust_5 div {
+    margin-top: -20px;
+    height: 210px;
+    background-image: url('../images/stardust_5.png');
 }
 
 /* Automatischer Dunkelmodus passend zum GitHub-Dark-Design */
