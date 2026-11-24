@@ -13,7 +13,6 @@ Das Spiel *Once Human* ist ab 18 Jahren freigegeben. Bitte lies nur weiter, wenn
 
 ### Inspiration & Hintergrund
 
-
 Die Keimzelle des Songs bildete ein einzelner In-Game-Gruß von mir zum chinesischen Neujahr im Februar 2026 in der durchlaufenden Grußkarten-Anzeige des Events. Während die meisten Beiträge dort bei einer Bewertung von 20 bis 70 Punkten blieben, erreichte meine augenzwinkernde Zweideutigkeit (unter voller Ausnutzung des Zeichenlimits) stolze 98 Punkte – inklusive eines hübschen, magenta-violetten Glitzerns auf der Grußkarte: *Was macht Rebecca in deiner Hose? / Sie sucht den Stecker für ihre Dose!* Auf Englisch: *What is Rebecca doing in your pocket? / She is looking for the plug for her socket!*
 
 Diese positive Resonanz aus der Community war mir Ansporn genug, die Idee weiterzuspinnen und daraus ein größeres Projekt zu machen. Beim Schreiben verfolgte ich eine Art **„Method Writing“**: Ich habe mich bewusst in die Rolle einer verführerischen Succubus-Figur hineinversetzt und nach Formulierungen gesucht, die einerseits sofort unter die Haut gehen, sich andererseits aber komplett harmlos als Gaming- und Lore-Begriffe lesen lassen. Genau diese Reibung zwischen scheinbar unschuldigem Spiel-Vokabular und einer hypnotischen, anzüglichen Lesart bildet das Spannungsfeld des Songs.
