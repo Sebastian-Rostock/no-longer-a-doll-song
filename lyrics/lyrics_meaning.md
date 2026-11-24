@@ -27,7 +27,7 @@ Genau diese Dichte an Doppeldeutigkeit – bei der fast jede Zeile auf mehreren 
 |6|Rosetta's little secret, gliding to your hands.|Rosetta ist die feindliche Organisation, deren gefangene Deviants der Spieler einsammelt.|
 |7|Porcelain-skin, yeah, sparkling in the night.|Dies beschreibt das charakteristische Porzellan-Aussehen von Mitsuko und das typische Leuchten von Deviants im Dunkeln.|
 |8|System-malfunction feeling so damn right!|Hier wird ein technischer Glitch oder Systemfehler einer KI beschrieben.|
-|9|A clone with a twist, they call me a doll.|Spielt auf Rosettas Experimente im LEA-Labor (wo Rebecca als „Klon“ geführt wird) und auf Mitsukos puppenhafte Erscheinung an.|
+|9|A clone with a twist, they call me a doll.|Spielt auf Rosettas Experimente im LEA-Labor (wo Rebecca intern als „Klon“ geführt wird) und auf Mitsukos puppenhafte Erscheinung an.|
 |10|But behind closed doors, I'll give you my all!|–|
 |11|Under your control, I'm leading the beat.|Dies spielt auf die Steuerung des Begleiters durch den Spieler sowie auf Rebeccas Fähigkeit an, in der Basis Musik zu spielen.|
 |12|Matching your rhythm, Stardust in the heat!|Stardust dient im Spiel als zentrale Energie- und Mutationsquelle.|
@@ -63,8 +63,8 @@ Genau diese Dichte an Doppeldeutigkeit – bei der fast jede Zeile auf mehreren 
 |36|and run this machine, with the absolute ease!|Dies beschreibt das Übernehmen der vollständigen Kontrolle über ein System.|
 ||||
 ||**bridge**||
-|37|I forgot who I was, before the Lab took my mind.|Durch die Experimente in den LEA Labs hat sie ihr Gedächtnis verloren.|
-|38|Left all my human memories far behind!|Sie hat ihre Transformation vom Menschen zu einem mächtigen Deviant abgeschlossen.|
+|37|I forgot who I was, before the Lab took my mind.|Durch die Experimente in den LEA Labs wurden ihre menschlichen Erinnerungen überdeckt und unterdrückt.|
+|38|Left all my human memories far behind!|Sie tritt hier in der Rolle eines mächtigen Deviants auf, während ihre menschliche Vergangenheit in den Hintergrund gerückt ist.|
 |39|Power-waves rising, from the cradle to ascend.|Die „Wiege“ (Cradle) ist der Rucksack, in dem Deviants getragen werden.|
 |40|You're the companion, on whom I depend!|Dies beschreibt die enge Bindung zwischen dem Meta-Human und seinem Begleiter – eine Verbindung, die über die Steuerung direkt auf den Spieler am Bildschirm übergreift.|
 |41|No longer a doll, for all to see.|Im Spiel selbst ist Rebeccas Bewusstsein an eine kleine Stoffpuppe gebunden, während Mitsuko wie eine Porzellanpuppe gestaltet ist – hier streift sie beide Puppen-Rollen ab.|

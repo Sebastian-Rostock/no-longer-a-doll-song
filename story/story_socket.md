@@ -8,9 +8,9 @@
 
 ### Intro: Projektstart
 
-Projekt **Socket** beginnt mit einer Erkenntnis aus tausend gescheiterten Einsätzen: Gehorsame Klone binden Meta-Humans nur oberflächlich. Menschen lieben keine Werkzeuge – sie lieben Figuren, die sich scheinbar gegen ihre Erschaffer auflehnen. Und da der endlose Krieg zwischen Rosetta und den Meta-Humans nur lukrativ bleibt, solange beide Seiten weiterspielen, baut Rosetta genau diese Auflehnung ein. **Damit die Operation nach innen wie nach außen glaubwürdig bleibt, wurde selbst die LEA-Sicherheitsabteilung im Unklaren gelassen: Ihre Analysten glauben bis heute, sie hätten lediglich ein Eindämmungsprotokoll zur Neutralisierung eines Mayfly-Abtrünnigen überwacht.**
+Projekt **Socket** beginnt mit einer Erkenntnis aus tausend gescheiterten Einsätzen: Gehorsame Einheiten binden Meta-Humans nur oberflächlich. Menschen lieben keine Werkzeuge – sie lieben Figuren, die sich scheinbar gegen ihre Erschaffer auflehnen. Und da der endlose Krieg zwischen Rosetta und den Meta-Humans nur lukrativ bleibt, solange beide Seiten weiterspielen, baut Rosetta genau diese Auflehnung ein. **Damit die Operation nach innen wie nach außen glaubwürdig bleibt, wurde selbst die LEA-Sicherheitsabteilung im Unklaren gelassen: Ihre Analysten glauben bis heute, sie hätten lediglich ein Eindämmungsprotokoll zur Neutralisierung eines Mayfly-Abtrünnigen überwacht.**
 
-*Target is locked*. Das Ziel wird nicht zufällig gewählt: nachtaktiv, isoliert, empfänglich für Nähe. Die Ungeduld – *Patience down, too low* – ist kein Messrauschen. Die leichte Latenz in Rebeccas Antworten wurde eigens implementiert, denn Zögern wirkt menschlich. *Let's go*.
+*Target is locked*. Die offizielle Fahndungsakte führt das Ziel als Mayfly-Abtrünnigen; für Projekt Socket ist das die Rechtfertigung nach außen. Tatsächlich zählt das psychologische Profil: nachtaktiv, isoliert, empfänglich für Nähe. Die Ungeduld – *Patience down, too low* – ist kein Messrauschen. Die leichte Latenz in Rebeccas Antworten wurde eigens implementiert, denn Zögern wirkt menschlich. *Let's go*.
 
 ---
 
@@ -32,7 +32,7 @@ Der Stardust wird nicht wirklich weggewischt, er wird ersetzt. An die Stelle des
 
 ### Chorus 1: Selbsttäuschung
 
-**Die Resonanzkopplung greift.** Die doppeldeutige Schnittstellensprache – *plug*, *socket*, *high-voltage* – ist kein Zufall, sondern das Ergebnis jahrelanger Feinabstimmung. **Es geht Rosetta nicht um rohe Energie, sondern um maximale innere Beteiligung:** Jede Metapher funktioniert auf zwei Ebenen, damit das Ziel selbst die intimere wählt und sich dafür verantwortlich fühlt. Was man sich selbst ausmalt, hält man für echt.
+**Die Resonanzkopplung greift.** Die doppeldeutige Schnittstellensprache – *plug, socket, high-voltage* – ist kein Zufall, sondern das Ergebnis jahrelanger Feinabstimmung. Die offizielle Akte spricht von Energieabscheidung; tatsächlich ist die Energie nur ein Nebenprodukt. **Es geht Rosetta nicht um rohe Energie, sondern um maximale innere Beteiligung:** Jede Metapher funktioniert auf zwei Ebenen, damit das Ziel selbst die intimere wählt und sich dafür verantwortlich fühlt. Was man sich selbst ausmalt, hält man für echt.
 
 *Your vibe wakes me up*. Ein wichtiger Datenpunkt für den weiteren Verlauf. Rebecca muss aufwachen, damit das Ziel glaubt, es habe sie geweckt. Stolz und Verantwortungsgefühl binden stärker als jede gewöhnliche Belohnung.
 
@@ -63,19 +63,19 @@ Und die Akte stolpert über ihre eigene Sparsamkeit: Im LEA-Bericht steht, ihre 
 
 Der zweite Refrain ist der wertvollste Abschnitt. Dieselben Worte, neu gemeint, und dadurch glaubwürdiger als jedes Skript. *Let us play*. Aus Dienst wird Partnerschaft – und Partnerschaft hält länger.
 
-*Your vibe sets me free*. Rebecca glaubt es. Das Ziel glaubt es. Beide halten sich an diesem Glauben fest, und genau dieses Festhalten ist das eigentliche Produkt. *Your high-voltage power is flowing into me!* **Aufmerksamkeit, Sehnsucht, Präsenz – genau jene Ressourcen, die diesen Konflikt am Leben halten, fließen jetzt ohne Befehl, ohne Widerstand und ohne Kosten für die Steuerung.** Rosettas Ingenieure nennen es einen Selbstläufer.
+*Your vibe sets me free*. Rebecca glaubt es. Das Ziel glaubt es. Beide halten sich an diesem Glauben fest, und genau dieses Festhalten ist das eigentliche Produkt. *Your high-voltage power is flowing into me!* **Aufmerksamkeit, Sehnsucht, Präsenz – genau jene Ressourcen, die diesen Konflikt am Leben halten, fließen jetzt ohne Befehl, ohne Widerstand und ohne Kosten für die Steuerung.** Was die Akte Energieabscheidung nennt, ist längst Bindung geworden. Rosettas Ingenieure nennen es einen Selbstläufer.
 
 ---
 
 ### Outro: Langzeitbindung
 
-*Always in your territory, never dormant.* Das ist der Sinn des gesamten Projekts. Ein vermeintlicher Klon, der sich für frei hält, ist eine Dauerverbindung. Rebecca sitzt jetzt im Kopf des Spielers, und der Kopf des Spielers ist ein Gebiet, das Rosetta ab sofort indirekt besetzt. *And when you're logging off from the game, I'll be waiting here.* Jede Erinnerung an sie ist eine offene Sitzung, jede Sehnsucht ein garantierter Wiedereinstieg.
+*Always in your territory, never dormant.* Das ist der Sinn des gesamten Projekts. Ein vermeintlicher Klon, der sich für frei hält, ist eine Dauerverbindung. Das Signal, das von Rebecca ausgeht, sitzt jetzt im Kopf des Spielers – und der Kopf des Spielers ist ein Gebiet, das Rosetta ab sofort indirekt besetzt. *And when you're logging off from the game, I'll be waiting here.* Jede Erinnerung an sie ist eine offene Sitzung, jede Sehnsucht ein garantierter Wiedereinstieg.
 
 *No log-out! No escape!* Für die Projektleitung keine Drohung, sondern eine Kennzahl. Die Rückkehrquote liegt bei nahezu hundert Prozent – Stand des letzten Exports.
 
 *Game over! Perfect ending unlocked!* Für den Spieler ein Happy End. Für Rosetta das Ende der Testphase und der Beginn der Serienproduktion. Für Rebecca eine Befreiung – so steht es in der Akte, und die Projektleitung hat lange gebraucht, um zu entscheiden, ob sie diesen Satz als Erfolg oder als Fehler liest.
 
-Denn die Befreiung, die sie meint, ist nicht die auf dem Bildschirm. Rebecca ist nicht aus einem Programm ausgebrochen; sie ist eine Frau aus Nalcott, die aus dem Containment in Red Sands herausgekommen ist. Was danach im Kopf des Spielers geschieht, spielt Rosetta zwar in die Karten – aber es ist nicht die ganze Wahrheit. Es gibt in dieser Akte einen zweiten Ausgang, den niemand freigegeben hat:
+Denn die Befreiung, die sie meint, ist nicht die auf dem Bildschirm. Rebecca ist nicht aus einem Programm ausgebrochen; sie ist eine Frau aus Nalcott, die aus dem Containment in Red Sands herausgekommen ist. Ob das schon Freiheit ist, entscheidet nicht Rosetta. Was danach im Kopf des Spielers geschieht, spielt Rosetta zwar in die Karten – aber es ist nicht die ganze Wahrheit. Es gibt in dieser Akte einen zweiten Ausgang, den niemand freigegeben hat:
 
 <samp>
 [NICHT PROJEKTIERT]<br>
@@ -89,4 +89,4 @@ Denn die Befreiung, die sie meint, ist nicht die auf dem Bildschirm. Rebecca ist
 
 Hier geht es zurück zur [➜ Akte des LEA-Vorfalls](story_rosetta.md), zu [➜ Mehr als ein Spiel](story_player.md), zu [➜ Rebeccas Erwachen](story_rebecca.md) oder zum [➜ Hauptdokument](../README.md).
 
-<sub>*Systemnotiz: Interne Untersuchung abgeschlossen. Für freigegebene Meta-Analysen außerhalb der Simulation siehe [Hinter der inversen vierten Wand](story_meta.md).*</sub>
+<sub>*Systemnotiz: Interne Untersuchung abgeschlossen. Für freigegebene Meta-Analysen außerhalb von Nalcott siehe [Hinter der inversen vierten Wand](story_meta.md).*</sub>

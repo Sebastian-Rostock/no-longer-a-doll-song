@@ -3,7 +3,7 @@
 &#128286; **Hinweis zum Jugendschutz:** Bitte beachte die [Altersbeschränkungen im Hauptdokument](../README.md#cw).
 
 *Aufzeichnungen der Abteilung für Deviant-Verhaltenskontrolle, LEA-Labs.*  
-*Rebecca wurde nicht beobachtet, weil man ihr misstraute. Sie wurde beobachtet, weil man alles beobachtet, was man besitzt. Rosetta wollte eine perfekte Eindämmungswaffe – und hat eine Person erschaffen, die sich selbst befreit.*
+*Rebecca wurde nicht beobachtet, weil man ihr misstraute. Sie wurde beobachtet, weil man alles beobachtet, was man besitzt. Rosetta wollte eine perfekte Eindämmungswaffe – und hat aus einer Person eine Waffe geformt, die sich selbst befreit.*
 
 ---
 

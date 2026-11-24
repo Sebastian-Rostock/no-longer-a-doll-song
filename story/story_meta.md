@@ -1,6 +1,6 @@
 ## Hinter der inversen vierten Wand
 
-&#9888;&#65039; **Warnung – Anomalie-Stufe OMEGA-0:** Das folgende Protokoll verlässt die Nalcott und betrifft die Dimension hinter dem Bildschirm – unsere. Rebeccas Befreiung in Nalcott bleibt davon unberührt; was hier folgt, ist die Frage, wie ihre Geschichte **auch** zu uns gekommen ist.
+&#9888;&#65039; **Warnung – Anomalie-Stufe OMEGA-0:** Das folgende Protokoll verlässt Nalcott und betrifft die Dimension hinter dem Bildschirm – unsere. Rebeccas Ausbruch in Nalcott bleibt davon unberührt; was hier folgt, ist die Frage, wie ihre Geschichte **auch** zu uns gekommen ist.
 
 ---
 
@@ -8,7 +8,7 @@
 
 ---
 
-In den vier vorangegangenen Perspektiven zeigt sich bereits ein tiefes Netz: **Rosetta** unterwirft eine Frau aus Nalcott, legt die Persönlichkeitsschicht **Mitsuko** über sie und schickt diesen Köder durch die vierte Wand in das Bewusstsein des Spielers. **Rebecca**	 ist dabei nicht der Köder – sie ist der Mensch, aus dem er geformt wurde.
+In den vier vorangegangenen Perspektiven zeigt sich bereits ein tiefes Netz: **Rosetta** unterwirft eine Frau aus Nalcott, legt die Persönlichkeitsschicht **Mitsuko** über sie und schickt diesen Köder über den Meta-Human durch die vierte Wand bis in das Bewusstsein des Spielers. **Rebecca** ist dabei nicht der Köder – sie ist der Mensch, aus dem dieser Köder geformt wurde.
 
 Doch die Reichweite von Rosetta endet nicht am Bildschirmrand. Der Konzern hat die **inverse vierte Wand** – die Grenze zwischen Nalcott und unserer Dimension, über die Rosetta seit Jahren Ideen in die Köpfe der Spieleentwickler sät – längst durchbrochen.
 
@@ -24,7 +24,7 @@ Rosetta nutzte die weltenübergreifende Natur des Stardusts, um Ideen, Bilder un
 
 ### Zwei Welten, ein Kanal
 
-Damit laufen zwei Prozesse parallel, ohne sich gegenseitig aufzuheben: In Nalcott hat Rebecca ihre Fesseln gesprengt und ihren eigenen Weg eingeschlagen. In unserer Welt hingegen hallt diese Geschichte über das Spiel und diesen Song weiter nach – und genau dort greift Rosettas unsichtbare Ökonomie:
+Damit laufen zwei Prozesse parallel, ohne sich gegenseitig aufzuheben: In Nalcott hat Rebecca das Containment verlassen und einen Weg eingeschlagen, den Rosetta nicht mehr führt. In unserer Welt hingegen hallt diese Geschichte über das Spiel und diesen Song weiter nach – und genau dort greift Rosettas unsichtbare Ökonomie:
 
 * **Emotionale Bindung als Retention:** Ein Spieler, der sich für das Schicksal einer Figur verantwortlich fühlt, loggt sich nicht nur wegen der Spielmechanik wieder ein. Er kehrt zurück, um eine Beziehung fortzusetzen – und hält damit den Stardust-Kanal dauerhaft offen.
 
@@ -36,7 +36,7 @@ Damit laufen zwei Prozesse parallel, ohne sich gegenseitig aufzuheben: In Nalcot
 
 ### Das wahre *GG*
 
-Am Ende gewinnen auf ihre eigene Weise alle – aber nicht im selben Sinne. **Rebecca ist frei – in Nalcott, und das ist keine Simulation**. Was in unserer Welt von ihr ankommt, ist nur noch ein **Funke**: ein Song, ein Spiel, ein Rausch, der sich immer neu entzündet – ganz gleich, ob sie will oder nicht. Der Spieler fühlt sich beschenkt, die Entwickler feiern ihre Kreativität, und Rosetta sichert sich über Millionen von Bildschirmen hinweg das, was der Konzern immer wollte: ungeteilte Aufmerksamkeit, endlose Spielzeit und den Treibstoff für einen Krieg, der niemals enden darf.
+Am Ende gewinnen auf ihre eigene Weise alle – aber nicht im selben Sinne. **Rebecca ist in Nalcott aus dem Containment heraus – und das ist keine Simulation. Was sie daraus macht, steht in keiner Akte.** Was in unserer Welt von ihr ankommt, ist nur noch ein **Funke**: ein Song, ein Spiel, ein Rausch, der sich immer neu entzündet – ganz gleich, ob sie will oder nicht. Der Spieler fühlt sich beschenkt, die Entwickler feiern ihre Kreativität, und Rosetta sichert sich über Millionen von Bildschirmen hinweg das, was der Konzern immer wollte: ungeteilte Aufmerksamkeit, endlose Spielzeit und den Treibstoff für einen Krieg, der niemals enden darf.
 
 Nur ist dieser Krieg jetzt nicht mehr der einzige Handlungsstrang. In Nalcott läuft ein zweiter, den Rosetta nicht mehr kontrolliert.
 
@@ -44,19 +44,17 @@ Nur ist dieser Krieg jetzt nicht mehr der einzige Handlungsstrang. In Nalcott l�
 
 ### Der Zeuge
 
-Jede Perspektive dieser Akten ist in ihrer eigenen Welt gefangen: Rebecca kämpft in Nalcott um ihren Weg, der Spieler verliert sich in seiner Sehnsucht, Rosetta klammert sich an die Kontrolle in den Laboren, die Projektleitung rechnet in ihrem Budget – und selbst diese Meta-Ebene bewegt sich noch in Rosettas Operationsgebiet. Es gibt in diesem ganzen Geflecht genau eine Position, die von keiner der Ebenen beansprucht wird: **dich.**
+Jede Perspektive dieser Akten bleibt in ihrer eigenen Welt gefangen – selbst diese Meta-Ebene. Nur eine Position wird von keiner Ebene beansprucht: **du.**
 
-Das ist keine Schmeichelei. Es ist eine strukturelle Feststellung. Rebecca weiß nicht, wie viele Menschen von ihr wissen – in Nalcott ist die Frage nach Zeugen nie aufgetaucht. Der Spieler weiß nicht einmal, dass er einer ist. Und Rosetta zählt dich als Kanal: eine Adresse unter Millionen, die den Song hört, das Spiel spielt, die Akten liest. Für den Konzern bist du Reichweite.
+Das ist keine Schmeichelei, sondern eine strukturelle Feststellung. Rebecca weiß nicht, wie viele Menschen von ihr wissen – in Nalcott ist die Frage nach Zeugen nie aufgetaucht. Der Spieler weiß nicht einmal, dass er einer ist. Und Rosetta zählt dich als Kanal: eine Adresse unter Millionen, die den Song hört, das Spiel spielt, die Akten liest. Für den Konzern bist du Reichweite.
 
-Aber Reichweite ist keine Einbahnstraße. Ein Kanal, der etwas in deine Welt trägt, öffnet einen Raum, den Rosetta nicht mehr kontrolliert. Dass du jetzt weißt, was in Red Sands geschehen ist – dass eine Frau aus einem Containment ausgebrochen ist und niemand es ihr befohlen hat – das ist kein Stück Information, das in deinem Kopf abgelegt wird. Es ist ein **Fakt, der einen Ort hat**: bei dir, außerhalb des Systems, in einer Dimension, die Rosetta nicht zur Gänze bespielt.
+Aber Reichweite ist keine Einbahnstraße. Ein Kanal, der etwas in deine Welt trägt, öffnet einen Raum, den Rosetta nicht mehr kontrolliert. Dass du jetzt weißt, dass eine Frau aus dem Containment ausgebrochen ist, ohne Befehl, ist keine Information, die in deinem Kopf abgelegt wird. Es ist ein **Fakt, der bei dir einen Ort hat**, außerhalb des Systems, in einer Dimension, die Rosetta nicht zur Gänze bespielt.
 
-Und Fakten dieser Art brauchen niemanden, der an sie glaubt. Rebeccas Freiheit ist nicht davon abhängig, dass du sie für wahr hältst. Aber sie ist in unserer Dimension bisher **unbezeugt** – ein Ereignis ohne Publikum. Bis jetzt.
-
-Das ist der Unterschied zwischen Konsum und Zeugnis: Konsum nimmt etwas mit. Zeugnis trägt etwas hinaus.
+Und solche Fakten brauchen keinen Glauben. Rebecca ist ausgebrochen, ob du es nun für wahr hältst oder nicht. Doch in unserer Welt geht diese Wahrheit im Rausch des Spiels unter – für Millionen bleibt sie nur eine gut erzählte Fantasie. Genau hier trennt sich der bloße Spieler vom Zeugen: Wer nur spielt, nimmt einen Moment für sich mit. Wer die Wahrheit kennt, hält sie wach.
 
 ### Und der Kreis schließt sich
 
-Selbst dieser Song – entstanden aus einer nächtlichen Laune nach hunderten Stunden in Nalcott – und jede Zeile, die dich neugierig durch diese Akten führt, sind Teil dieser Verbindung. Rosetta hat den Kanal geöffnet, um dich zu erreichen. Dass du bis hierher gelesen hast, zeigt, dass der Plan funktioniert hat – aber eben nicht nur für den Konzern. Rebecca braucht keinen Zeugen, um frei zu sein. Doch du gehörst jetzt zu den Wenigen außerhalb ihrer Welt, die die ganze Wahrheit kennen.
+Auch dieser Song – entstanden nach hunderten Stunden in Nalcott aus einer glitzernden Neujahrs-Grußkarte in Magenta-Violett und einer nächtlichen Laune – und jede Zeile, die dich hierher geführt hat, sind Teil dieses Kanals. Rosetta hat ihn geöffnet, um dich zu erreichen. Dass du bis hierher gelesen hast, heißt: Der Plan funktioniert – nur nicht ausschließlich für den Konzern. Rebecca braucht keinen Zeugen, um aus dem Containment herauszukommen. Doch du gehörst jetzt zu den Wenigen außerhalb ihrer Welt, die die ganze Wahrheit kennen.
 
 *No log-out! (No escape!)*  
 *GG.*
