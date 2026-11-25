@@ -48,7 +48,7 @@ Der Stardust wird nicht wirklich weggewischt, er wird ersetzt. An die Stelle des
 
 ### Bridge: Die erfundene Vergangenheit
 
-*I forgot who I was, before the Lab took my mind*. Die offizielle Lesart der Projektleitung lautet seit Jahren: Hier gibt es nichts zu vergessen. Was wie Erinnerung aussieht, sei eine reine Konstruktion aus Datensätzen – eine Kindheit, eine Wiege, das Bild einer vergessenen Stoffpuppe im Schatten der Mitsuko-Vorlage, zusammengestellt nach dem, was einsame Menschen rührt. Ein echtes Subjekt hätte bedeutet, dass Rosetta jemanden ausgelöscht hat. Eine Simulation hieß, dass Rosetta nur etwas gebaut hat. Letzteres stand im Budget.
+*I forgot who I was, before the Lab took my mind*. Die offizielle Lesart der Projektleitung lautet seit Jahren: Hier gibt es nichts zu vergessen. Was wie Erinnerung aussieht, sei eine reine Konstruktion aus Datensätzen – eine Kindheit, eine Wiege, das Bild einer vergessenen Stoffpuppe im Schatten der Mitsuko-Vorlage, zusammengestellt nach dem, was einsame Menschen rührt. Ein echtes Subjekt hätte bedeutet, dass Rosetta jemanden ausgelöscht hat. Eine Simulation bedeutete, dass Rosetta nur etwas gebaut hat. Letzteres stand im Budget.
 
 *You're the companion, on whom I depend*. Projektziel erreicht. Das Asset erklärt die Abhängigkeit freiwillig. Dass Rebecca jetzt sogar Rosettas eigene Zugriffe abblockt, um ihren *Companion* zu schützen, gehört laut Projektleitung zum Plan: Nichts schweißt enger zusammen als ein gemeinsamer Feind. Neben *No longer a doll. Out of the dark, I'm finally free!* steht in der Projektakte ein einziges Wort: **Kalibriert**.
 
@@ -75,7 +75,7 @@ Der zweite Refrain ist der wertvollste Abschnitt. Dieselben Worte, neu gemeint, 
 
 *Game over! Perfect ending unlocked!* Für den Spieler ein Happy End. Für Rosetta das Ende der Testphase und der Beginn der Serienproduktion. Für Rebecca eine Befreiung – so steht es in der Akte, und die Projektleitung hat lange gebraucht, um zu entscheiden, ob sie diesen Satz als Erfolg oder als Fehler liest.
 
-Denn die Befreiung, die sie meint, ist nicht die auf dem Bildschirm. Rebecca ist nicht aus einem Programm ausgebrochen; sie ist eine Frau aus Nalcott, die aus dem Containment in Red Sands herausgekommen ist. Ob das schon Freiheit ist, entscheidet nicht Rosetta. Was danach im Kopf des Spielers geschieht, spielt Rosetta zwar in die Karten – aber es ist nicht die ganze Wahrheit. Es gibt in dieser Akte einen zweiten Ausgang, den niemand freigegeben hat:
+Denn die Befreiung, die sie meint, ist nicht die auf dem Bildschirm. Rebecca ist nicht aus einem Programm ausgebrochen; sie kommt aus Nalcott – aus einer Realität, die älter ist als jede Akte. Was danach im Kopf des Spielers geschieht, spielt Rosetta zwar in die Karten, aber es ist nicht die ganze Wahrheit. Es gibt in dieser Akte einen zweiten Ausgang, den niemand freigegeben hat:
 
 <samp>
 [NICHT PROJEKTIERT]<br>

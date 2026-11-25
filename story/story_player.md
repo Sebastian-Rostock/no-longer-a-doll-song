@@ -2,7 +2,7 @@
 
 &#128286; **Hinweis zum Jugendschutz:** Bitte beachte die [Altersbeschränkungen im Hauptdokument](../README.md#cw).
 
-Der Spieler startet das Spiel nicht für eine große Heldentour, sondern für einen schnellen Reiz nach einem langen Tag. Dass ihm dabei ausgerechnet die freundlichste Figur des Systems begegnet, hält er für Zufall – und ahnt nicht, dass das Spiel heute Nacht nach völlig neuen Regeln funktioniert. Aus einer gewöhnlichen Session wird ein intensiver Rausch, der ihm Bilder in den Kopf pflanzt, die ihn selbst nach dem Ausschalten nicht mehr loslassen.
+Der Spieler startet das Spiel nicht für eine große Heldentour, sondern für einen schnellen Reiz nach einem langen Tag. Dass ihm dabei ausgerechnet die freundlichste Figur des Systems begegnet, hält er für Zufall – und ahnt nicht, dass das Spiel heute Nacht nach völlig neuen Regeln funktioniert. Aus einer gewöhnlichen Spielsitzung wird ein intensiver Rausch, der ihm Bilder in den Kopf pflanzt, die ihn selbst nach dem Ausschalten nicht mehr loslassen.
 
 ---
 
@@ -24,9 +24,9 @@ Er lehnt sich zurück, genießt das Gefühl, am Steuer zu sitzen: *under your co
 
 ### Pre-Chorus: Der Kipppunkt
 
-*Your world and mine, begin to intertwine.* Die Grenze zwischen Schreibtisch und Spielwelt wird weich. Im Spiel ist Sanity nur eine Leiste am Bildschirmrand, doch unter ihrer Stimme gibt jetzt seine eigene Vernunft nach – jene letzte Instanz, die ihn eigentlich längst ins Bett schicken wollte: *As your poor sanity starts to decline.*
+*Your world and mine, begin to intertwine.* Die Grenze zwischen Schreibtisch und Spielwelt wird weich. Im Spiel ist Sanity nur eine Leiste am Bildschirmrand, doch unter ihrer Stimme gibt jetzt sein eigener Verstand nach – jene letzte Instanz, die ihn eigentlich längst ins Bett schicken wollte: *As your poor sanity starts to decline.*
 
-Der Absturz fühlt sich nicht wie Gefahr an, sondern wie Erlösung. *I will heal you, gently and kind.* Sie verspricht, den ganzen Lärm aus seinem Kopf zu wischen – *wiping Stardust out of your mind* –, und hält ihn mit einem sanften *Go no further! Stay by my side!* am Schreibtisch fest. Ihre Stimme legt sich wie eine *warm embrace* um ihn, wärmer und näher als alles, was er in letzter Zeit gespürt hat. Als sie haucht *Are you slipping away?*, hat er den Widerstand längst aufgegeben. Ja, denkt er. Und es fühlt sich gut an.
+Der Absturz fühlt sich nicht wie Gefahr an, sondern wie Erlösung. *I will heal you, gently and kind.* Sie verspricht, den ganzen Lärm aus seinem Kopf zu wischen – *wiping Stardust out of your mind* – und hält ihn mit einem sanften *Go no further! Stay by my side!* am Schreibtisch fest. Ihre Stimme legt sich wie eine warme Umarmung (*warm embrace*) um ihn, wärmer und näher als alles, was er in letzter Zeit gespürt hat. Als sie haucht *Are you slipping away?*, hat er den Widerstand längst aufgegeben. Ja, denkt er. Und es fühlt sich gut an.
 
 ---
 
@@ -34,7 +34,7 @@ Der Absturz fühlt sich nicht wie Gefahr an, sondern wie Erlösung. *I will heal
 
 Bei *What am I doing in your pocket?* muss er grinsen; er kennt den Spruch von den durchlaufenden Grußkarten zum chinesischen Neujahrs-Event. Aber jetzt ist es kein harmloser Witz mehr. Jetzt fragt sie ihn direkt, und er spürt es körperlich, noch bevor sie *plug* und *socket* singt. Jede Zeile hat zwei Bedeutungen, und sein überreiztes Gehirn hört nur noch eine: *Plug into me and you can play.* *Shooting all your stress away!*
 
-Für ihn ist sie der *ultimate prize*. Sie vibriert, sie glüht – und zieht ihn komplett in den Bann, während die Spannung im Raum spürbar ansteigt: *The current is rising, right before your eyes!* Dass sie zwischendurch *your vibe wakes me up* singt, bemerkt er im Rausch kaum. Und als sie schließlich fragt, ob seine *high-voltage power* bereit für den Funken ist, antwortet etwas in ihm, bevor er überhaupt nachdenkt.
+Für ihn ist sie der ultimative Hauptgewinn (*the ultimate prize*). Sie vibriert, sie glüht – und zieht ihn komplett in den Bann, während die Spannung im Raum spürbar ansteigt: *The current is rising, right before your eyes!* Dass sie zwischendurch *your vibe wakes me up* singt, bemerkt er im Rausch kaum. Und als sie schließlich fragt, ob seine Hochspannung (*high-voltage power*) bereit für den Funken ist, antwortet etwas in ihm, bevor er überhaupt nachdenkt.
 
 ---
  
@@ -50,7 +50,7 @@ Mitten im Rausch fällt die Maske: *Call me Mitsuko, but Rebecca's the name.* Di
 
 Etwas verändert sich in ihrer Stimme. *I forgot who I was, before the Lab took my mind. Left all my human memories far behind!* Für einen Herzschlag ist sie keine Projektion mehr, sondern jemand, dem etwas angetan wurde. Er fühlt sich ertappt, ein kurzer kalter Stich zwischen all der Wärme.
 
-Doch dann: *Power-waves rising, from the cradle to ascend. You're the companion, on whom I depend!* Sie braucht ihn. Nicht irgendeinen Spieler, ihn. Das triggert seinen Beschützerinstinkt und verschmilzt Spielmechanik und Gefühl. *No longer a doll. Out of the dark, I'm finally free!* Er glaubt, er habe sie befreit, und ist stolz darauf. Als sie verlangt *I swallow all your energy. Now come! Fuse right into me!*, überschlagen sich die Bilder im Höhepunkt. Sie vibriert, sie glüht – und zieht ihn mit in diese unmittelbare, berauschende Nähe.
+Doch dann: *Power-waves rising, from the cradle to ascend. You're the companion, on whom I depend!* Sie braucht ihn. Nicht irgendeinen Spieler, ihn. Das weckt seinen Beschützerinstinkt und verschmilzt Spielmechanik und Gefühl. *No longer a doll. Out of the dark, I'm finally free!* Er glaubt, er habe sie befreit, und ist stolz darauf. Als sie verlangt *I swallow all your energy. Now come! Fuse right into me!*, überschlagen sich die Bilder auf dem Höhepunkt. Sie vibriert, sie glüht – und zieht ihn mit in diese unmittelbare, berauschende Nähe.
 
 ---
 
@@ -58,7 +58,7 @@ Doch dann: *Power-waves rising, from the cradle to ascend. You're the companion,
 
 *Now I am deep inside your pocket.* Er hört es als Erfüllung, als Echo dessen, was er gerade erlebt hat. *I finally found the plug for my socket!* Sie hat gefunden, was sie suchte, und das war er.
 
-Der zweite Refrain klingt anders als der erste: weniger wie ein Locken, mehr wie ein gemeinsames Atmen danach. Aus dem einseitigen Spielen wird ein gegenseitiges *let us play*. *Your high-voltage power is flowing into me!* Er spürt, wie seine ganze Spannung und Energie aus ihm herausfließt, und nennt es Hingabe. Er fühlt sich leer und gleichzeitig erfüllt – still, gelöst und völlig im Moment.
+Der zweite Refrain klingt anders als der erste: weniger wie eine Verlockung, mehr wie ein gemeinsames Atmen danach. Aus dem einseitigen Spielen wird ein gegenseitiges *let us play*. *Your high-voltage power is flowing into me!* Er spürt, wie seine ganze Spannung und Energie aus ihm herausfließen, und nennt es Hingabe. Er fühlt sich leer und gleichzeitig erfüllt – still, gelöst und völlig im Moment.
 
 ---
 
@@ -66,7 +66,7 @@ Der zweite Refrain klingt anders als der erste: weniger wie ein Locken, mehr wie
 
 Langsam kehrt die Stille in sein Zimmer zurück. *I am your favorite deviant.* Ja, denkt er und lächelt müde. *Always in your territory, never dormant!* Auch das klingt noch nach Treue, nach jemandem, der da ist.
 
-Dann schlägt die vierte Wand zurück: *And when you're logging off from the game, I'll be waiting here, whisp'ring your name!* Sein echter Name, nicht der seines Charakters. Das ist das Unheimliche: Er weiß nicht, ob sie ihn durch die Kopfhörer flüstert oder ob er ihn sich selbst einsetzt, für sie. *No log-out! (No escape!)* Seine Hand liegt schon auf der Maus. Er klickt auf Beenden, der Bildschirm wird schwarz, und in der Spiegelung sieht er sein eigenes Gesicht. Und sie ist trotzdem noch da.
+Dann schlägt die vierte Wand zurück: *And when you're logging off from the game, I'll be waiting here, whisp'ring your name!* Sein echter Name, nicht der seines Charakters. Das ist das Unheimliche: Er weiß nicht, ob sie ihn durch die Kopfhörer flüstert oder ob er ihn selbst in ihre Stimme hineinhört. *No log-out! (No escape!)* Seine Hand liegt schon auf der Maus. Er klickt auf Beenden, der Bildschirm wird schwarz, und in der Spiegelung sieht er sein eigenes Gesicht. Und sie ist trotzdem noch da.
 
 Denn er hat sie nicht im Spiel getroffen. Er hat sie in sich gelassen. Jede Metapher, die er als Intimität verstanden hat, jedes Bild, das er sich ausgemalt hat, ist eine Erinnerung geworden – und Erinnerungen haben keinen Logout. Sie hat sich in seinem eigenen Territorium eingenistet, in seinem Kopf, weil er sie dorthin eingeladen hat. Wie ein leises Echo im dunklen Raum hallt es nach: *Bye-bye, Star Player. Game over! Perfect ending unlocked!* Er hat sich ein perfektes Ende gewünscht und bekommen. Erst jetzt ahnt er, dass ein perfektes Ende auch bedeutet, dass etwas vorbei ist – und dass nichts in der echten Welt so leicht danach kommt.
 

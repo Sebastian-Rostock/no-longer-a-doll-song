@@ -13,7 +13,7 @@ Das Spiel *Once Human* ist ab 18 Jahren freigegeben. Bitte lies nur weiter, wenn
 
 ### Inspiration & Hintergrund
 
-Die Keimzelle des Songs bildete ein einzelner In-Game-Gruß von mir zum chinesischen Neujahr im Februar 2026 in der durchlaufenden Grußkarten-Anzeige des Events. Während die meisten Beiträge dort bei einer Bewertung von 20 bis 70 Punkten blieben, erreichte meine augenzwinkernde Zweideutigkeit (unter voller Ausnutzung des Zeichenlimits) stolze 98 Punkte – inklusive eines hübschen, magenta-violetten Glitzerns auf der Grußkarte: *Was macht Rebecca in deiner Hose? / Sie sucht den Stecker für ihre Dose!* Auf Englisch: *What is Rebecca doing in your pocket? / She is looking for the plug for her socket!*
+Die Keimzelle des Songs bildete ein einzelner In-Game-Gruß von mir zum chinesischen Neujahr im Februar 2026 in der fortlaufenden Grußkarten-Anzeige des Events. Während die meisten Beiträge dort bei einer Bewertung von 20 bis 70 Punkten blieben, erreichte meine augenzwinkernde Zweideutigkeit (unter voller Ausnutzung des Zeichenlimits) stolze 98 Punkte – inklusive eines hübschen, magenta-violetten Glitzerns auf der Grußkarte: *Was macht Rebecca in deiner Hose? / Sie sucht den Stecker für ihre Dose!* Auf Englisch: *What is Rebecca doing in your pocket? / She is looking for the plug for her socket!*
 
 Diese positive Resonanz aus der Community war mir Ansporn genug, die Idee weiterzuspinnen und daraus ein größeres Projekt zu machen. Beim Schreiben verfolgte ich eine Art **„Method Writing“**: Ich habe mich bewusst in die Rolle einer verführerischen Succubus-Figur hineinversetzt und nach Formulierungen gesucht, die einerseits sofort unter die Haut gehen, sich andererseits aber komplett harmlos als Gaming- und Lore-Begriffe lesen lassen. Genau diese Reibung zwischen scheinbar unschuldigem Spiel-Vokabular und einer hypnotischen, anzüglichen Lesart bildet das Spannungsfeld des Songs.
 
@@ -34,7 +34,7 @@ Mit dem Klick auf die folgenden Links bestätigst du, dass du alt genug für die
 
 ### 1. Der Songtext: *No Longer a Doll*
 *Das Herzstück des Projekts – ein englisches Gedicht auf drei Ebenen:*
-* [➜ Formatierter Songtext](lyrics/lyrics_format.md) – *Pur zum Lesen und Mitsingen.*
+* [➜ Formatierter Songtext](lyrics/lyrics_format.md) – *Nur zum Lesen und Mitsingen.*
 * [➜ Songtext mit Interpretation](lyrics/lyrics_meaning.md) – *Alle Verweise auf Once Human und doppeldeutige Metaphern.*
 * [➜ Songtext als Prompt](lyrics/lyrics_prompt.md) – *Die phonetische Version für ACE-Step und Suno.*
 
@@ -107,7 +107,7 @@ Für diese eigenen Inhalte gelten zusätzlich **ausdrückliche Ausnahmen für di
 
 ### 2. Hinweis zu Suno-Tracks & Cover-Art (KI)
 
-* **Suno-Audio (Verlinkte Tracks):** Die auf [Suno](https://suno.com) gehosteten Tracks wurden im kostenlosen Tarif erstellt und sind daher **nicht** Teil der CC BY-NC-SA 4.0-Lizenz dieses Repositories. Die Rechte an diesen Audiodateien liegen gemäß den [Suno Terms of Service](https://suno.com) bei Suno; sie dürfen ausschließlich über die offiziellen Suno-Links für nicht-kommerzielle Zwecke unter Nennung von Suno geteilt und angehört werden (keine Monetarisierung, kein Re-Upload der Audiodateien).
+* **Suno-Audio (Verlinkte Tracks):** Die auf [Suno](https://suno.com) gehosteten Tracks wurden im kostenlosen Tarif erstellt und sind daher **nicht** Teil der Lizenz (CC BY-NC-SA 4.0) dieses Repositories. Die Rechte an diesen Audiodateien liegen gemäß den [Suno Terms of Service](https://suno.com) bei Suno; sie dürfen ausschließlich über die offiziellen Suno-Links für nicht-kommerzielle Zwecke unter Nennung von Suno geteilt und angehört werden (keine Monetarisierung, kein Re-Upload der Audiodateien).
 
 * **Bilder:** Die Cover-Arts wurden mit GPT Image 1.5 generiert und dienen der nicht-kommerziellen Illustration dieses Fan-Projekts.
 
