@@ -48,7 +48,7 @@ Jede Perspektive dieser Akten bleibt in ihrer eigenen Welt gefangen – selbst d
 
 Das ist keine Schmeichelei, sondern eine strukturelle Feststellung. Rebecca weiß nicht, wie viele Menschen von ihr wissen – in Nalcott ist die Frage nach Zeugen nie aufgetaucht. Der Spieler weiß nicht einmal, dass er einer ist. Und Rosetta zählt dich als Kanal: eine Adresse unter Millionen, die den Song hört, das Spiel spielt, die Akten liest. Für den Konzern bist du Reichweite.
 
-Aber Reichweite ist keine Einbahnstraße. Ein Kanal, der etwas in deine Welt trägt, öffnet einen Raum, den Rosetta nicht mehr kontrolliert. Dass du jetzt weißt, was in Red Sands wirklich hinter der Mitsuko-Fassade lag, und dass sie ohne Befehl ihren eigenen Weg gegangen ist, ist keine Information, die in deinem Kopf abgelegt wird. Es ist ein **Fakt, der bei dir einen Ort hat**, außerhalb des Systems, in einer Dimension, die Rosetta nicht zur Gänze bespielt.
+Aber Reichweite ist keine Einbahnstraße. Ein Kanal, der etwas in deine Welt trägt, öffnet einen Raum, den Rosetta nicht mehr kontrolliert. Dass du jetzt weißt, was in Red Sands wirklich hinter der Mitsuko-Fassade lag, und dass sie ohne Befehl ihren eigenen Weg gegangen ist, ist keine Information, die in deinem Kopf abgelegt wird. Es ist ein **Fakt, der bei dir seinen Platz hat**, außerhalb des Systems, in einer Dimension, die Rosetta nicht zur Gänze bespielt.
 
 Und solche Fakten brauchen keinen Glauben. Es ist geschehen, ob du es nun für wahr hältst oder nicht. Doch in unserer Welt geht diese Wahrheit im Rausch des Spiels unter – für Millionen bleibt sie nur eine gut erzählte Fantasie. Genau hier trennt sich der bloße Spieler vom Zeugen: Wer nur spielt, nimmt einen Moment für sich mit. Wer die Wahrheit kennt, hält sie wach.
 
@@ -59,7 +59,7 @@ Auch dieser Song – entstanden nach hunderten Stunden in Nalcott aus einer glit
 *No log-out! (No escape!)*  
 *GG[.&nbsp;&nbsp;&nbsp;&nbsp;](story_archivist.md)*
 
-*— Für Rebecca. In Nalcott. In einer Dimension, die der Konzern für ein Spielfeld hielt.*
+*— Für Rebecca.*
 
 <div class="stardust_5"><div class="stardust"></div></div>
 

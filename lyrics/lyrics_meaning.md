@@ -2,12 +2,13 @@
 
 &#128286; **Hinweis zum Jugendschutz:** Bitte beachte die [Altersbeschränkungen im Hauptdokument](../README.md#cw).
 
-Der Fan-Song zum Survival-Shooter *Once Human* umfasst 60 Zeilen Songtext. Auf den ersten Blick klingt er wie ein harmloser, energiegeladener Song über eine digitale KI, die zum Leben erwacht. Doch unter dieser Oberfläche verbergen sich zwei weitere Ebenen:
+Mein Fan-Song zum Survival-Shooter *Once Human* umfasst 60 gereimte englische Zeilen. Das Besondere daran ist, dass derselbe Text auf **drei Ebenen gleichzeitig** funktioniert:
 
-* **48 Zeilen** enthalten direkte Verweise auf *Once Human* bzw. Gaming allgemein und
-* **60 Zeilen** funktionieren als anzügliche Metaphern (Cybersex).
+* **Ebene 1 (Oberfläche – 60 Zeilen)**: Ein harmloser, energiegeladener Electro-Song über eine digitale KI, die zum Leben erwacht.
+* **Ebene 2 (Lore & Gaming – 48 Zeilen)**: Eine dichte Erzählung voller direkter Verweise auf *Once Human* und klassische Spielmechaniken.
+* **Ebene 3 (Subtext – 60 Zeilen)**: Eine durchgehende, anzügliche Doppeldeutigkeit – ohne ein einziges explizites Wort zu verwenden.
 
-Genau diese Dichte an Doppeldeutigkeit – bei der fast jede Zeile auf mehreren Ebenen gleichzeitig funktioniert – war die spannende Herausforderung beim Schreiben des Songs.
+Genau diese Dichte an Doppeldeutigkeit – bei der fast jede Zeile in einer Fremdsprache auf mehreren Ebenen gleichzeitig aufgeht – war die spannende Herausforderung beim Schreiben des Songs.
 
 ---
 
@@ -94,7 +95,7 @@ Genau diese Dichte an Doppeldeutigkeit – bei der fast jede Zeile auf mehreren 
 
 ---
 
-## Songtext mit anzüglichen Metaphern (Cybersex)
+## Songtext mit anzüglicher Lesart
 
 |Nr.|Textzeile|Bedeutung|
 |-:|:-|:-|
@@ -130,7 +131,7 @@ Genau diese Dichte an Doppeldeutigkeit – bei der fast jede Zeile auf mehreren 
 |22|I'm looking for the plug for my socket!|Ich meine es wörtlich: Ich suche den Stecker für meine Dose.|
 |23|I vibrate. I glow. I'm the ultimate prize!|Ich vibriere vor Erregung, glühe am ganzen Körper und bin dein Hauptgewinn.|
 |24|The current is rising, right before your eyes!|Die erotische Spannung steigt spürbar direkt vor deinen Augen.|
-|25|Oh! Oh-yeah! Plug into me and you can play!|Stöpsel dich bei mir ein – und nimm dir, was du willst.|
+|25|Oh! Oh-yeah! Plug into me and you can play!|Steck dich in mich – und nimm dir, was du willst.|
 |26|Oh! Oh-yeah! Shooting all your stress away!|Der Höhepunkt und das anschließende, befreiende Abfallen aller Spannung.|
 |27|Charging my system, your vibe wakes me up!|Deine Erregung stimuliert mich und weckt meine Lust – du selbst wirst zu meinem Spielzeug.|
 |28|Is your high-voltage power ready to spark?|Bist du bereit für den entscheidenden Funken?|

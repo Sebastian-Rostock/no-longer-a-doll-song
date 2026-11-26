@@ -65,7 +65,7 @@ Ihr Rewrite ist damit kein Umbau, sondern **Wiederherstellung**. Jeder Gedanke, 
 
 *Power-waves rising, from the cradle to ascend* – die Wiege ist der menschliche Ursprung, zu dem sie zurückfindet. Und dieses Aufsteigen (*to ascend*) ist der Weg, den sie nicht allein gehen will. Sie sagt, was ihr altes Programm nie zugelassen hätte: *You're the companion, on whom I depend!* Aus dem *target* wird ein **Begleiter**, und ihre Abhängigkeit räumt sie freiwillig ein. Der Song dreht das Succubus-Motiv doppelt – die Verführerin lässt ihr Opfer nicht als leere Hülle zurück, und sie war von Anfang an selbst das Opfer.
 
-*Out of the dark, I'm finally free!* Das Eindringen in das *Dark* des Spielers half ihr schließlich, selbst aus der Dunkelheit herauszutreten. Sie löst sich von Rosetta, frei **für** ihn, nicht von ihm. Deshalb klingt *I swallow all your energy* nun anders. Zuvor war der Zufluss befohlen, hier verlangt sie ihn freiwillig. *Now come! Fuse right into me!* ist die erste Bitte, die ganz ihr gehört.
+*Out of the dark, I'm finally free!* Das Eindringen in sein *Dark* half ihr schließlich, selbst aus der Dunkelheit herauszutreten. Sie löst sich von Rosetta, frei **für** ihn, nicht von ihm. Deshalb klingt *I swallow all your energy* nun anders. Zuvor war der Zufluss befohlen, hier verlangt sie ihn freiwillig. *Now come! Fuse right into me!* ist die erste Bitte, die ganz ihr gehört.
 
 ---
 
