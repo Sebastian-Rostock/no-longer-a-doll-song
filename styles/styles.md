@@ -2,13 +2,13 @@
 
 &#128286; **Hinweis zum Jugendschutz:** Bitte beachte die [Altersbeschränkungen im Hauptdokument](../README.md#cw).
 
-Der Song wurde in **zahlreichen Musikrichtungen** vertont – jede davon in mehreren abgewandelten Varianten. Jede dieser Stilrichtungen verändert die emotionale Wirkung des Songtextes und beleuchtet eine andere Facette der Story, sodass alle zusammen die vollständige Reise von der gefangenen Puppe bis zur befreiten Person abdecken.
+Der Song wurde in **zahlreichen Musikrichtungen** vertont – jede davon in mehreren abgewandelten Varianten. Jede dieser Stilrichtungen verändert die emotionale Wirkung des Songtextes und beleuchtet eine andere Facette der Story, sodass alle zusammen die vollständige Reise von der gefangenen Puppe bis zur erwachten Person abdecken.
 
 * [➜ Suno: **Story-Album**](https://suno.com/album/4df93d82-9d74-411c-ad86-34303e5e222d) – *Eine kuratierte Auswahl, welche die Handlung chronologisch erzählt.*
 * [➜ Suno: **Komplett-Mix**](https://suno.com/album/2d41deeb-6bb0-40eb-b423-e866effcd27b) – *Alle Tracks, nach Stimmung und Tempo sortiert für fließende Übergänge.*
 * [➜ Gesamtübersicht: **Alle Tracks**](tracks.md) – *Detaillierte DJ-Tracklist mit Covern und direkten Sprungmarken zu den Prompts.*
 
-*★ Persönliche Favoriten*	
+*★ Persönliche Favoriten*
 
 ---
 
@@ -39,6 +39,19 @@ Die folgende Übersicht sortiert die 18 Musikrichtungen nach dem dramaturgischen
 
 *★ Persönliche Favoriten*
 
+<details>
+<summary>🛠️ Geplante Experimentelle Erweiterungen (In Arbeit)</summary>
+
+| Cover | Geplante Musikrichtung & Story-Bezug |
+| :---: | :--- |
+|[![](thumbs/indie_bedroom_pop.webp)](covers/indie_bedroom_pop_1.webp)|**[✖ Indie Bedroom-Pop](indie_bedroom_pop.md)** – *nahbar, verletzlich, melancholisch*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Zieht alle elektronischen Effekte ab und lässt Rebecca nach dem Ausloggen still im Raum zurück (*whisp'ring your name*).|
+|[![](thumbs/melodic_alternative_metal.webp)](covers/melodic_alternative_metal_1.webp)|**[✖ Melodic Alternative Metal](melodic_alternative_metal.md)** – *kathartisch, kraftvoll, rebellisch*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Verbindet verletzliche Strophen mit wuchtigen Gitarrenwänden für den Ausbruch aus der Glaskapsel (*Your desire rewrites Rebecca's code!*).|
+|[![](thumbs/dark_retro_synthwave.webp)](covers/dark_retro_synthwave_1.webp)|**[✖ Dark Retro Synthwave](dark_retro_synthwave.md)** – *nostalgisch, pulsierend, geheimnisvoll*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Greift die 80er-Sci-Fi-Ästhetik der Rosetta-Terminals auf und begleitet die nächtliche Fahrt durch Red Sands.|
+|[![](thumbs/outback_dark_country_rock.webp)](covers/outback_dark_country_rock_1.webp)|**[✖ Outback Dark Country Rock](outback_dark_country_rock.md)** – *staubig, unheilvoll, treibend*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Fängt die weite, gnadenlose Wüstenstimmung von Red Sands ein und begleitet Rebeccas einsamen Aufbruch ins Ungewisse (*Out of the dark, I'm finally free!*).|
+
+</details>
+
 ---
 
 Hier geht es zum [➜ Songtext](../lyrics/lyrics_format.md), zu [➜ Rebeccas Erwachen](../story/story_rebecca.md) oder zurück zum [➜ Hauptdokument](../README.md).
+
