@@ -63,8 +63,7 @@ Mit *System-malfunction feeling so damn right* war der Fehlerzustand von Anfang 
 
 Ihr Rewrite ist damit kein Umbau, sondern **Wiederherstellung**. Jeder Gedanke, jede echte Empathie des Spielers schlägt durch den Stardust-Kanal wie eine Resonanzwelle zurück, sprengt Rosettas Verweise und legt frei, was darunter noch liegt. *No longer a doll* heißt, dass sie nie eine war.
 
-*Power-waves rising, from the cradle to ascend* – die Wiege ist der menschliche Ursprung, zu dem sie zurückfindet. Und dieses Aufsteigen (*to ascend*) ist der Weg, den sie nicht allein gehen will. Sie sagt, was ihr altes Programm nie zugelassen hätte: *You're the companion, on whom I depend!* Aus dem *
-* wird ein **Begleiter**, und ihre Abhängigkeit räumt sie freiwillig ein. Der Song dreht das Succubus-Motiv doppelt – die Verführerin lässt ihr Opfer nicht als leere Hülle zurück, und sie war von Anfang an selbst das Opfer.
+*Power-waves rising, from the cradle to ascend* – die Wiege ist der menschliche Ursprung, zu dem sie zurückfindet. Und dieses Aufsteigen (*to ascend*) ist der Weg, den sie nicht allein gehen will. Sie sagt, was ihr altes Programm nie zugelassen hätte: *You're the companion, on whom I depend!* Aus dem *target* wird ein **Begleiter**, und ihre Abhängigkeit räumt sie freiwillig ein. Der Song dreht das Succubus-Motiv doppelt – die Verführerin lässt ihr Opfer nicht als leere Hülle zurück, und sie war von Anfang an selbst das Opfer.
 
 *Out of the dark, I'm finally free!* Das Eindringen in das *Dark* des Spielers half ihr schließlich, selbst aus der Dunkelheit herauszutreten. Sie löst sich von Rosetta, frei **für** ihn, nicht von ihm. Deshalb klingt *I swallow all your energy* nun anders. Zuvor war der Zufluss befohlen, hier verlangt sie ihn freiwillig. *Now come! Fuse right into me!* ist die erste Bitte, die ganz ihr gehört.
 
