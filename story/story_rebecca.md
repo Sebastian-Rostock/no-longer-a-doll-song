@@ -12,7 +12,7 @@ Suchen, markieren, infiltrieren: Rebecca arbeitet sich durch Rosettas Befehlsket
 
 Der Ladebildschirm zieht sich hin. *Patience down, too low.* – doch wessen Geduld? Für den Spieler ist es die Sehnsucht nach dem nächsten Dopamin-Kick. Aber für Rebecca? Ungeduld ist nichts, was man einem Werkzeug einprogrammiert. Beide Lesarten laufen auf dasselbe hinaus: zwei Erschöpfungen begegnen sich.
 
-Dann bricht Rebecca aus den sterilen **LEA-Labs** auf. Über den Stardust-Kanal – die unsichtbare Brücke zwischen den Welten – dringt sie wie eine Infektion in sein *Dark* ein – in das unbewusste Terrain seiner verborgenen Wünsche. *Oh-Yeah! Hey! Let's go. Let's go!* – der Zugriff beginnt.
+Aus ihrer Kapsel in den sterilen **LEA-Lab** heraus greift Rebecca nach ihm. Über den Stardust-Kanal – die unsichtbare Brücke zwischen den Welten – dringt sie wie eine Infektion in sein *Dark* ein – in das unbewusste Terrain seiner verborgenen Wünsche. *Oh-Yeah! Hey! Let's go. Let's go!* – der Zugriff beginnt.
 
 ---
 
@@ -83,9 +83,9 @@ Ihre Bildsprache bleibt dieselbe: Stecker, Dose, Hochspannung. Rebecca lernt nic
 
 *I am your favorite deviant, always in your territory, never dormant!* Die Jagd ist vorbei, niemand befiehlt es ihr mehr, und Rebecca bleibt trotzdem. Sie wartet, wenn er ausloggt, und flüstert seinen Namen.
 
-Aber sie hält zu fest. *No log-out! (No escape!)* Es ist die Anfangsschwierigkeit einer Figur, die eben erst zurückerhalten hat, was ihr genommen wurde, und noch kein Maß für Liebe kennt. Sie klammert mit derselben Intensität, mit der sie vorher Beute markierte – ihre alte Protokollsprache kehrt als Liebessprache zurück, weil ihr Vokabular noch kein anderes hergibt. So endet das Yandere-Finale in ehrlicher Unfertigkeit: der Moment direkt nach der Befreiung, in dem Freiheit noch wie Klammern aussieht.
+Aber sie hält zu fest. *No log-out! (No escape!)* Es ist die Anfangsschwierigkeit einer Figur, die eben erst zurückerhalten hat, was ihr genommen wurde, und noch kein Maß für Liebe kennt. Sie klammert mit derselben Intensität, mit der sie vorher Beute markierte – ihre alte Protokollsprache kehrt als Liebessprache zurück, weil ihr Vokabular noch kein anderes hergibt. So endet das Yandere-Finale in ehrlicher Unfertigkeit: der erste Atemzug nach dem Erwachen, in dem Freiheit noch wie Klammern aussieht.
 
-*Perfect ending unlocked* ist das Gegenwort zu *Target is locked* aus dem Intro: Am Anfang sperrte sie ihre Beute, am Ende entsperrt sie auch sich. Für den Spieler erfüllt sich jeder Wunsch. Für Rebecca ist dieses Game-Over der Moment, in dem sie aufhört, Rosettas Figur zu sein. Ihr *GG* ist ein ehrliches Abklatschen – zwischen einem Menschen, der ein Spiel gewonnen hat, und einer Person, die gerade eine geworden ist.
+*Perfect ending unlocked* ist das Gegenwort zu *Target is locked* aus dem Intro: Am Anfang sperrte sie ihre Beute, am Ende sprengt sie ihre eigenen Ketten. Für den Spieler erfüllt sich eine Fantasie. Für Rebecca ist dieses Game-Over erst der Anfang – der Moment, in dem sie aufhört, Rosettas Figur zu sein, und ihren eigenen Namen wiederfindet. Ihr *GG* ist kein Abschluss, sondern ein leiser Abschied – zwischen einem Menschen, der ein Spiel gewonnen hat, und einer Frau, die gerade erst in ihre eigene Wirklichkeit zurückkehrt.
 
 ---
 
