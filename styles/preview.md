@@ -12,18 +12,20 @@ Für die GitHub-Startseite und das Social-Media-Preview-Image sind zwei verschie
 ![](covers/preview_3.webp)
 
 ````text
-SUBJECT: Create a 3:2 landscape key art banner (1536x1024) featuring a medium-shot central portrait (from chest up) of Mitsuko from the attached photorealistic reference image. Keep her exact face, natural skin pores, and hair identical to the reference—her face remains completely unmarred without cracks or glitches. Her eyes are OPEN. She looks directly at the viewer with a captivating expression blending vulnerability and newfound strength. Leave generous headroom above her hair and space below her chin so the image can later be cropped to a 2:1 banner without cutting off her head or text.
+SCENE: A wide 2:1 panoramic key art banner inside a 1536x1024 image designed with generous top and bottom margins so the central horizontal band can later be cropped cleanly to a 2:1 GitHub social preview (1280x640). Photorealistic cinematic still, shot on 35mm, crisp focus, rich lighting, fine film grain.
+SUBJECT: Medium-wide central portrait (from mid-chest up) of Mitsuko from the attached photorealistic reference image, framed comfortably inside the middle horizontal band of the canvas. Keep her exact face, natural skin pores, and hair identical to the reference—her face remains completely unmarred without cracks or glitches. No butterfly on her face.
+Her eyes are OPEN, bright, and sparkling with warm affection. She looks directly at the viewer with a gentle, closed-mouth smile—subtle, warm, and playfully expectant, as if happily welcoming someone special.
 COMPOSITION & 6 WING-LIKE STYLE SECTORS: Radiating symmetrically outward behind her shoulders like six translucent, multi-layered abstract wings of light, glass, and shadow, the background divides into six seamless sectors from left to right:
-1. Far Left (Witch House): Dark LEA-Labs ruins, violet ritual sigils, and smoky shadow-wing contours.
-2. Mid-Left (K-Pop Trap & Dark-Pop): Deep crimson velvet, gold chains, and glowing violet light-threads.
-3. Inner-Left (Cyberpunk Phonk): Rain-wet neon cyan and magenta light streaks with holographic glitch fragments.
-4. Inner-Right (Symphonic Gothic): Silver moonlight beams, shattered stained-glass rose window shards, and dark roses.
-5. Mid-Right (Epic Orchestral DnB): Radiant golden dawn sunbeams and blazing phoenix-like stardust trails.
-6. Far Right (Kawaii & Neon-Pop): Soft pastel pink arcade glow, holographic sparkles, and tiny floating glossy hearts.
-LIGHT & FX: Dynamic multi-colored rim lighting from the six wing-like background sectors illuminates the edges of her hair and shoulders, while her face remains crisply lit and photorealistic. A delicate trail of glowing violet and gold stardust weaves horizontally across the center.
+1. Far-left sector: Dark LEA-Labs ruins, violet ritual sigils, and smoky shadow-wing contours.
+2. Mid-left sector: Deep crimson velvet, gold chains, and glowing violet light-threads.
+3. Inner-left sector: Rain-wet neon cyan and magenta light streaks with holographic glitch fragments.
+4. Inner-right sector: Silver moonlight beams, shattered stained-glass rose window shards, and dark roses.
+5. Mid-right sector: Radiant golden dawn sunbeams and blazing phoenix-like stardust trails.
+6. Far-right sector: Soft pastel pink arcade glow, holographic sparkles, and tiny floating glossy hearts.
+LIGHT & FX: Dynamic multi-colored rim lighting from the six wing-like background sectors illuminates the edges of her hair and shoulders, while her face remains crisply lit and photorealistic with a soft, warm inner glow. A delicate trail of glowing violet and gold stardust weaves horizontally across the center.
 COLOR PALETTE: Rich transition from Void Black (#0A0710) and Crimson (#8C1C2E) on the left, through Neon Cyan (#00E5FF) and Radiant Gold (#FBBF24), to Candy Pink (#FF6FB5) on the right.
-TYPOGRAPHY: Placed cleanly in the central safe zone over her chest/collarbone area with subtle dark-glass contrast (well away from the top and bottom edges): Title "NO LONGER A DOLL" in sharp, bold lettering, and smaller subtitle "A Multi-Genre Journey • A Once Human Fan Project".
-STYLE: Photorealistic editorial key art photography, 85mm portrait lens sharpness on the face, wide framing with safe margins top and bottom, 3:2 landscape aspect ratio.
+TYPOGRAPHY: The only text in the entire image is a single nameplate. No other text anywhere — no panel headings, no captions, no labels, no genre names, no act names, no numbers, no watermarks, no single letters in the background or between the panels. Nameplate: sleek, semi-transparent dark frosted-glass bar across the lower chest area inside the middle 50% vertical safe zone (at least 25% away from top and bottom edges) so all faces and outfits stay clearly visible. On it only: bold title "NO LONGER A DOLL" with the smaller subtitle "A Multi-Genre Journey" directly underneath.
+STYLE: Photorealistic editorial key art photography, 35mm wide-angle sharpness on the face, wide panoramic framing with safe margins top and bottom, 3:2 landscape aspect ratio (1536x1024).
 ````
 
 #### Variante 02: Das Evolutions-Panorama *(Alternative)*
