@@ -33,6 +33,30 @@ STYLE: Photorealistic editorial key art photography, 35mm wide-angle sharpness o
 *Sechs ineinander übergehende Porträt-Panels zeigen Mitsukos bzw. Rebeccas Verwandlung entlang der Story-Chronologie – vom hypnotischen Blick im LEA-Labor bis zum strahlenden Lächeln im Finale.*
 
 ![](covers/preview_4.webp)
+![](covers/preview_5.webp)
+
+````text
+SCENE: A wide 2:1 panoramic key art banner inside a 1536x1024 image designed with generous top and bottom margins so the central horizontal band can later be cropped cleanly to a 2:1 GitHub social preview (1280x640). Photorealistic cinematic still, shot on 35mm, crisp focus, rich lighting, fine film grain.
+SUBJECT: Six distinct medium-close portraits (from shoulders up) of the exact same woman—Mitsuko from the attached photorealistic reference image—arranged side-by-side in six vertical panels flowing from left to right. Keep her exact facial structure, natural skin pores, and dark hairstyle strictly identical across all six panels, framed comfortably inside the central horizontal band with generous headroom:
+1. Far Left: Head slightly tilted down, eyes half-lidded and vacant like a dormant doll, dark cyber-goth lace, glowing violet ritual sigils and a cracked glass containment cylinder behind her.
+2. Mid-Left: Direct, alluring gaze with a subtle knowing smirk, sleek black techwear with gold chains, glowing violet puppet-string light threads weaving between her fingertips.
+3. Center-Left: Sharp, focused predatory gaze, black racing jacket with crimson stripes, neon cyan and blood-red tunnel reflections.
+4. Center-Right: Eyes wide with sudden emotional awakening and warmth, Victorian black-and-ivory lace, silver moonlight through a shattered stained-glass rose window.
+5. Mid-Right: Fierce, proud, triumphant gaze angled slightly right, regal dark-and-silver battle couture, radiant golden dawn sunbeams and blazing stardust trails.
+6. Far Right: Playful, warm closed-mouth smile and bright affectionate eyes welcoming the viewer, pastel pink arcade glow, holographic sparkles, and floating glossy hearts.
+ENVIRONMENT & FX: Thin, luminous diagonal light-veils and a continuous stream of glowing violet and gold stardust separate and connect the six panels cleanly without overlapping the faces. Unmarred skin without cracks or glitches in every panel.
+COLOR PALETTE: Seamless progression from Void Black (#0A0710) and Ritual Crimson (#8C1C2E) on the left, through Neon Cyan (#00E5FF) and Moonlight Silver, to Radiant Gold (#FBBF24) and Candy Pink (#FF6FB5) on the right.
+TYPOGRAPHY: The image contains exactly one text element, nothing else. No panel headings, no captions, no labels, no genre names, no numbers, no watermarks, no letters anywhere in the background or beside the panels. The same applies to all six panels. Only the nameplate across the lower chest area: Place a sleek, semi-transparent dark-glass horizontal nameplate across the lower chest area inside the middle 50% vertical safe zone (at least 25% away from top and bottom edges) so all six faces and outfits remain clearly visible: Bold title "NO LONGER A DOLL" with smaller subtitle "A Multi-Genre Journey" directly underneath.
+STYLE: The panels are separated only by luminous diagonal light-veils and stardust streams, like a cinematic continuous shot cut into six frames — not a chart, not a grid, not an infographic. High-end photorealistic key art banner, 35mm sharpness, consistent identity across all six portraits, 3:2 landscape aspect ratio (1536x1024).
+````
+*Panels: 1 - Witch House, 2 - Dark-Pop / Trap, 3 - Cyberpunk Phonk, 4 - Symphonic Gothic, 5 - Epic Orchestral DnB, 6 - Kawaii / Neon-Pop*
+
+#### Variante 03:  3-Phasen-Triptychon *(Alternative)*
+
+*Drei breite, ineinander fließende Porträt-Panels verdichten Mitsukos bzw. Rebeccas Verwandlung auf die drei zentralen Akte der Story – von der kühlen Kontrolle als „Puppe“ im LEA-Labor über das emotionale Erwachen bis zur strahlenden Wiedergeburt im Finale.*
+
+![](covers/preview_6.webp)
+![](covers/preview_7.webp)
 
 ````text
 SUBJECT: Create a 3:2 landscape panoramic banner (1536x1024) based on the attached photorealistic reference image of Mitsuko. Keep her exact face, realistic skin texture, and hairstyle consistent across six seamless vertical panels flowing from left to right. Frame the characters as medium-wide portraits (from mid-chest up) with generous headroom above their hair and extra margin at the bottom, ensuring the central horizontal band can later be cropped to a 2:1 GitHub banner without cutting off heads or text:
@@ -47,6 +71,8 @@ COLOR PALETTE: Seamless transition from Void Black (#0A0710) and Ritual Crimson 
 TYPOGRAPHY: Placed strictly inside the central safe zone across the chest/collarbone level (at least 20% away from the bottom edge) with a subtle dark frosted-glass backing for high readability: Main title "NO LONGER A DOLL" in bold, clean modern typography, with the subtitle "A Multi-Genre Journey • A Once Human Fan Project" directly underneath.
 STYLE: High-end photorealistic key art banner, cinematic lighting, sharp focus on faces, 3:2 landscape aspect ratio (1536x1024).
 ````
+
+*Akte: I Witch House / Dark-Pop / Trap, II Cyberpunk Phonk / Symphonic Gothic, III Epic Orchestral DnB / Kawaii / Neon-Pop*
 
 ---
 
