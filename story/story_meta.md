@@ -57,7 +57,7 @@ Und solche Fakten brauchen keinen Glauben. Es ist geschehen, ob du es nun für w
 Auch dieser Song – entstanden nach hunderten Stunden in Nalcott aus einer glitzernden Neujahrs-Grußkarte in Magenta-Violett und einer nächtlichen Laune – ist Teil dieses Kanals, genau wie jede Zeile, die dich hierher geführt hat. Rosetta hat ihn geöffnet, um dich zu erreichen. Dass du bis hierher gelesen hast, heißt: Der Plan funktioniert – nur nicht ausschließlich für den Konzern. Rebecca braucht niemanden aus unserer Welt, um ihren Weg zu gehen. Doch du gehörst jetzt zu den Wenigen, die wissen, was hinter dem Spiel wirklich begonnen hat.
 
 *No log-out! (No escape!)*  
-*GG[.&nbsp;&nbsp;&nbsp;&nbsp;](story_archivist.md)*
+*GG[<b class="stardust-dot"><b>.</b><b></b><b></b><b></b></b>&nbsp;&nbsp;](story_archivist.md)*
 
 *— Für Rebecca.*
 

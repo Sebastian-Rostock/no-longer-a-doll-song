@@ -3,76 +3,221 @@
 
 @import "{{ site.theme }}";
 
-/* Zeilenumbruch in Quelltexten */
+
+/* ==========================================================================
+   Farbvariablen (Light & Dark Mode)
+   ========================================================================== */
+:root {
+  --stardust-base: #1f2328;
+  --stardust-violet: #6e40c9;
+  --stardust-magenta: #bf3989;
+  --stardust-glow: rgba(191, 57, 137, 0.3);
+  --stardust-spark: #a371f7;
+}
+
+/* ==========================================================================
+   Quelltexte & Layout
+   ========================================================================== */
 .highlight pre code {
-	white-space: break-spaces !important;
-	word-wrap: break-word !important;
-	overflow-x: visible !important;
+  white-space: break-spaces !important;
+  word-wrap: break-word !important;
+  overflow-x: visible !important;
 }
 
+/* ==========================================================================
+   Stardust Hintergrund-Balken (div.stardust)
+   ========================================================================== */
 div.stardust {
-    width: 100vw;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-
-    z-index: -111;
-    pointer-events: none;
-    background-size: auto;
-    background-repeat: no-repeat;
-    background-position: center;
+  width: 100vw;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: -111;
+  pointer-events: none;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
-div.stardust_1 {
-    height: 15px;
-}
-
+div.stardust_1 { height: 15px; }
 div.stardust_1 div {
-    margin-top: -50px;
-    height: 95px;
-    background-image: url('../images/stardust_1.png');
+  margin-top: -50px;
+  height: 95px;
+  background-image: url('../images/stardust_1.png');
 }
 
-div.stardust_2 {
-    height: 30px;
-}
-
+div.stardust_2 { height: 30px; }
 div.stardust_2 div {
-    margin-top: -50px;
-    height: 124px;
-    background-image: url('../images/stardust_2.png');
+  margin-top: -50px;
+  height: 124px;
+  background-image: url('../images/stardust_2.png');
 }
 
-div.stardust_3 {
-    height: 45px;
-}
-
+div.stardust_3 { height: 45px; }
 div.stardust_3 div {
-    margin-top: -45px;
-    height: 156px;
-    background-image: url('../images/stardust_3.png');
+  margin-top: -45px;
+  height: 156px;
+  background-image: url('../images/stardust_3.png');
 }
 
-div.stardust_4 {
-    height: 80px;
-}
+div.stardust_4 { height: 80px; }
 div.stardust_4 div {
-    margin-top: -20px;
-    height: 150px;
-    background-image: url('../images/stardust_4.png');
+  margin-top: -20px;
+  height: 150px;
+  background-image: url('../images/stardust_4.png');
 }
 
-div.stardust_5 {
-    height: 180px;
-}
+div.stardust_5 { height: 180px; }
 div.stardust_5 div {
-    margin-top: -20px;
-    height: 210px;
-    background-image: url('../images/stardust_5.png');
+  margin-top: -20px;
+  height: 210px;
+  background-image: url('../images/stardust_5.png');
 }
 
-/* Automatischer Dunkelmodus passend zum GitHub-Dark-Design */
+/* ==========================================================================
+   Stardust Link
+   ========================================================================== */
+.markdown-body a:has(.stardust-dot),
+.markdown-body a:has(.stardust-dot):hover,
+a:has(.stardust-dot),
+a:has(.stardust-dot):hover {
+  text-decoration: none !important;
+  color: inherit !important;
+  cursor: text;
+}
+
+.stardust-dot {
+  display: inline-block;
+  position: relative;
+  font-weight: normal;
+}
+
+/* Alle 4 inneren <b>-Tags */
+.stardust-dot > b {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+  font-weight: normal;
+}
+
+/* Erstes <b> ist der sichtbare Satzpunkt */
+.stardust-dot > b:nth-child(1) {
+  width: auto;
+  height: auto;
+  font-weight: 700;
+  color: var(--stardust-base);
+  animation: sd-dot-glow 4.8s ease-in-out infinite;
+}
+
+/* Basis-Styling aller 4 Partikel */
+.stardust-dot > b::after {
+  content: "✦";
+  font-size: 0.45em;
+  line-height: 1;
+  position: absolute;
+  color: var(--stardust-spark);
+  text-shadow: 0 0 3px var(--stardust-spark);
+  opacity: 0;
+  pointer-events: none;
+  animation: sd-dot-drift var(--dur, 4.3s) ease-out infinite;
+  animation-delay: var(--delay, 0s);
+}
+
+.stardust-dot > b:nth-child(1)::after {
+  bottom: -0.25em;
+  left: -0.15em;
+  --dx: -0.35em;
+  --dy: -0.4em;
+  --dur: 3.7s;
+  --delay: -0.4s;
+}
+
+.stardust-dot > b:nth-child(2)::after {
+  content: "✧";
+  bottom: -0.6em;
+  left: 0.01em;
+  --dx: 0.4em;
+  --dy: -0.35em;
+  --dur: 5.3s;
+  --delay: -1.8s;
+}
+
+.stardust-dot > b:nth-child(3)::after {
+    bottom: 0.4em;
+    left: -0.25em;
+    --dx: 0.35em;
+    --dy: 0.25em;
+    --dur: 4.1s;
+    --delay: -2.9s;
+}
+
+.stardust-dot > b:nth-child(4)::after {
+    content: "✧";
+    bottom: 0.65em;
+    left: -0.6em;
+    --dx: -0.3em;
+    --dy: 0.25em;
+    --dur: 4.7s;
+    --delay: -1.1s;
+}
+
+@keyframes sd-dot-glow {
+  0%, 100% {
+    color: var(--stardust-base);
+    text-shadow: none;
+  }
+  25% {
+    color: var(--stardust-violet);
+    text-shadow: 0 0 5px var(--stardust-glow);
+  }
+  50% {
+    color: var(--stardust-magenta);
+    text-shadow: 0 0 9px var(--stardust-glow);
+  }
+  75% {
+    color: var(--stardust-violet);
+    text-shadow: 0 0 4px var(--stardust-glow);
+  }
+}
+
+@keyframes sd-dot-drift {
+  0%, 35% {
+    opacity: 0;
+    transform: translate(0, 0) scale(0.4);
+  }
+  40% {
+    opacity: 0.5;
+    transform: translate(calc(var(--dx) * 0.5), calc(var(--dy) * 0.5)) scale(1.1);
+  }
+  45%, 100% {
+    opacity: 0;
+    transform: translate(var(--dx), var(--dy)) scale(0.3);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .stardust-dot > b,
+  .stardust-dot > b::after {
+    animation: none;
+  }
+  .stardust-dot > b:nth-child(1) {
+    color: var(--stardust-violet);
+  }
+}
+
+/* ==========================================================================
+   Automatischer Dunkelmodus passend zum GitHub-Dark-Design
+   ========================================================================== */
 @media (prefers-color-scheme: dark) {
+  :root {
+    --stardust-base: #e6edf3;
+    --stardust-violet: #a371f7;
+    --stardust-magenta: #f778ba;
+    --stardust-glow: rgba(247, 120, 186, 0.55);
+    --stardust-spark: #f778ba;
+  }
+
   body {
     background-color: #0d1117 !important;
     color: #c9d1d9 !important;
