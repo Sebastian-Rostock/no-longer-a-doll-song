@@ -3,7 +3,7 @@
 &#128286; **Hinweis zum Jugendschutz:** Bitte beachte die [Altersbeschränkungen im Hauptdokument](../README.md#cw).
 
 **Stimmung & Bezug zur Story:**  
-Staubig, unheilvoll, ungezähmt und treibend. Mit schwerem Stampfen, trockener Slide-Gitarre und fernen Gewittern fängt dieser Stil die gnadenlose Wüstenstimmung von **Red Sands** ein – und begleitet Rebeccas einsamen Aufbruch ins Ungewisse nach ihrem Ausbruch aus den LEA-Labs (*Out of the dark, I'm finally free!*).
+Staubig, unheilvoll, ungezähmt und treibend. Mit schwerem Stampfen, trockener Slide-Gitarre und fernen Gewittern fängt dieser Stil die gnadenlose Wüstenstimmung von **Red Sands** ein – und begleitet Rebeccas einsamen Aufbruch ins Ungewisse nach ihrem Ausbruch aus den LEA-Labs (*Out of the dark, I'm finally free!*).  
 
 ---
 
@@ -11,10 +11,18 @@ Staubig, unheilvoll, ungezähmt und treibend. Mit schwerem Stampfen, trockener S
 
 #### Variante 01
 
-[➜ 22 - No Longer a Doll (Outback Dark Country Rock)](https://suno.com) *(Link folgt)*
+[➜ 22 - No Longer a Doll (Outback Dark Country Rock)](https://suno.com/s/z0QkBHJwS2mUO2vJ)
 
 ````text
-Outback Dark Country Rock, Gothic Americana, 96 BPM heavy stomping pulse; dry close-miked guitar amp with a tight, clean vocal pocket; gritty slide resonator guitar leads over boot percussion, heavy 808 sub-bass, and dry lightning cracks; the user's own recorded voice, clean and centered.
+Outback Dark Country Rock, Gothic Americana; dry close-miked guitar amp and gritty slide resonator leads over boot percussion, heavy 808 sub-bass, and sharp lightning cracks; heavy stomping 96 BPM pulse; female vocals in a dark lower register, hushed and close-miked; dry guitar texture with a tight, clean vocal pocket.
+````
+
+#### Variante 02
+
+[➜ 22_02 - No Longer a Doll (Outback Dark Country Rock)](https://suno.com/s/0SvHtSMowdMGcatX)
+
+````text
+Outback Dark Country Rock, Gothic Americana: gritty slide resonator guitar leads over dry close-miked amp, boot-stomp percussion, heavy 808 sub-bass and sharp lightning-crack accents; tight clean vocal pocket, dark 96 BPM stomping pulse; female voice with a wide range, climbing to powerful full-voice high-note belts
 ````
 
 ---
@@ -24,6 +32,7 @@ Outback Dark Country Rock, Gothic Americana, 96 BPM heavy stomping pulse; dry cl
 #### Variante 01
 
 ![](covers/outback_dark_country_rock_1.webp)
+![](covers/outback_dark_country_rock_2.webp)
 
 ````text
 SUBJECT: Mitsuko from Once Human — use the attached reference image for face and hairstyle (restyled in rugged Gothic Americana fashion: worn matte-black leather duster coat over dark denim, silver bolo tie, dusty weathered leather boots, subtle silver rings). Her eyes are OPEN, calm, resolute and fiercely magnetic, gazing directly toward the viewer with a quiet, untamed half-smile. Three-quarter low-angle hero framing, standing beside an old weathered wooden fence post along an empty desert road, one thumb hooked casually into her belt. No microphone.
@@ -36,7 +45,8 @@ STYLE: Outback Dark Country Rock / Gothic Americana single cover, square 1:1, gr
 
 #### Variante 02
 
-![](covers/outback_dark_country_rock_2.webp)
+![](covers/outback_dark_country_rock_3.webp)
+![](covers/outback_dark_country_rock_4.webp)
 
 ````text
 SUBJECT: Mitsuko from Once Human — use the attached reference image for face and hairstyle (wearing a dark vintage lace-trimmed blouse under a dusty black suede vest, worn silver jewelry). Her eyes are OPEN, half-lidded, alluring and knowing, leaning back on a weathered wooden porch chair with a vintage tarnished chrome resonator guitar resting casually across her lap, one hand poised near the steel strings. No microphone.
@@ -49,4 +59,4 @@ STYLE: Gothic Americana / Dark Country Rock album cover, square 1:1, moody atmos
 
 ---
 
-Hier geht es weiter zum [➜ Songtext als Prompt](../lyrics/lyrics_prompt.md), zurück zu den [➜ Musikrichtungen](styles.md) oder zurück zum [➜ Hauptdokument](../README.md).
+Hier geht es zurück zu den [➜ Musikrichtungen](styles.md) oder zurück zum [➜ Hauptdokument](../README.md).
