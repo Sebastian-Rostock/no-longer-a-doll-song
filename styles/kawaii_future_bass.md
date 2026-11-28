@@ -47,7 +47,7 @@ bright kawaii future bass, cheerful neon-pop, uplifting symphonic elements, swee
 ![](covers/kawaii_future_bass_3.webp)
 
 ```text
-SUBJECT: Mitsuko from Once Human. Use the attached reference image for face, hairstyle and complete outfit; kawaii-goth pastel twist. Eyes OPEN, playful flirty wink, finger raised in a teasing "stop" gesture. Subtle succubus hints in cute form: tiny bat-wing hair clips and a small heart-tipped tail charm on her belt. Adorable, sweet, clearly lovable.
+SUBJECT: Rebecca from Once Human. Use the attached reference image for face, hairstyle and complete outfit; kawaii-goth pastel twist. Eyes OPEN, playful flirty wink, finger raised in a teasing "stop" gesture. Subtle succubus hints in cute form: tiny bat-wing hair clips and a small heart-tipped tail charm on her belt. Adorable, sweet, clearly lovable.
 ENVIRONMENT: Pastel dream room with floating hearts, a giant cute "STOP" sign bubble, sparkling symphonic confetti.
 LIGHT & FX: Pink-violet glow, sparkle chimes, heart particles drifting toward her.
 COLOR PALETTE: Candy pink #FF6FB5, plum #8E4FBF, cream #FFF4E6, soft black #2B1E33, cherry #FF3D6E.
@@ -57,4 +57,4 @@ STYLE: Kawaii anime pop illustration, cute-mischievous, polished, 1:1.
 
 ---
 
-Hier geht es zurück zu den [➜ Musikrichtungen](styles.md) oder zurück zum [➜ Hauptdokument](../README.md).
+Hier geht es weiter zum [➜ Songtext als Prompt](../lyrics/lyrics_prompt.md), zurück zu den [➜ Musikrichtungen](styles.md) oder zurück zum [➜ Hauptdokument](../README.md).

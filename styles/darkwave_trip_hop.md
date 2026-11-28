@@ -44,7 +44,7 @@ Darkwave with a trip-hop pulse: lurching industrial backbeat, trip-hop drums and
 ![](covers/darkwave_trip_hop_1.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human, use the reference image for face, hairstyle and complete outfit. Eyes OPEN, intense and tender at once, reaching one hand toward the viewer as if pulling them closer.
+SUBJECT: Rebecca from Once Human, use the reference image for face, hairstyle and complete outfit. Eyes OPEN, intense and tender at once, reaching one hand toward the viewer as if pulling them closer.
 ENVIRONMENT: Dark lab corridor, metal grates, a red warning light rotating slowly.
 LIGHT & FX: Faint violet aura flowing from the viewer's direction into her open palm, subtle wing-shaped light reflections on the wet floor.
 COLOR PALETTE: Black #0C0C10, warning red #B3202C, violet #6B3FA0, steel #5C626B.
@@ -57,7 +57,7 @@ STYLE: Tense, alluring darkwave cover, cinematic grain, protective and possessiv
 ![](covers/darkwave_trip_hop_2.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human, use the reference image for face, hairstyle and complete outfit. Eyes OPEN, slow seductive glance from under her lashes, sitting on a rusted metal staircase.
+SUBJECT: Rebecca from Once Human, use the reference image for face, hairstyle and complete outfit. Eyes OPEN, slow seductive glance from under her lashes, sitting on a rusted metal staircase.
 ENVIRONMENT: Industrial machine room with pipes and metal chains, steam in the air.
 LIGHT & FX: Dark smoke tendrils curl around her and reach gently toward the viewer, faint dusky red glow in her irises, echo trails in the smoke.
 COLOR PALETTE: Black #0B0B0D, oxblood #5A1A22, gunmetal #3A3F45, muted rose #B56576.
@@ -70,7 +70,7 @@ STYLE: Sensual, smoky darkwave cover, grainy film, attractive and enigmatic, 1:1
 ![](covers/darkwave_trip_hop_3.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human — use the attached reference image for face and hairstyle (wearing an oversized dark vintage trench coat with an upturned collar over dark layered fabric). Her eyes are CLOSED, serene, melancholic and dreaming, lips slightly parted as if whispering. Close-up profile-to-three-quarter framing, resting her forehead and one pale hand gently against the inside of a rain-streaked glass window. No microphone.
+SUBJECT: Rebecca from Once Human — use the attached reference image for face and hairstyle (wearing an oversized dark vintage trench coat with an upturned collar over dark layered fabric). Her eyes are CLOSED, serene, melancholic and dreaming, lips slightly parted as if whispering. Close-up profile-to-three-quarter framing, resting her forehead and one pale hand gently against the inside of a rain-streaked glass window. No microphone.
 ENVIRONMENT: A moody nocturnal cityscape seen through wet, condensation-covered window glass; blurred amber and indigo street reflections blend subtly with the distant, misty silhouette of towering monolithic spires on the horizon.
 LIGHT & FX: Soft 90s analog film lighting with cool slate-indigo ambient light and muted street-amber reflections across her cheek. Drifting pale smoke and violet stardust haze curl behind her shoulders in the faint, ambiguous contour of shadowy wings. Subtle tape-echo double-exposure trails and analog halation.
 COLOR PALETTE: Midnight Indigo #0D1021, Rain Slate #2E3B4E, Muted Street Amber #C88A36, Stardust Lavender #B388FF, Porcelain #EDE4E1.

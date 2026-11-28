@@ -54,7 +54,7 @@ Cyberpunk phonk, aggressive drift phonk, distorted 808 bass, dark cowbell melody
 ![](covers/drift_cyberpunk_phonk_2.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human — use the attached reference image for face and hairstyle (styled with a street-racing edge: cropped matte-black racing jacket with crimson stripes, dark cargo details, fingerless gloves). Her eyes are OPEN, narrow, predatory and confident, with a slight smirk directly toward the viewer. Aggressive low-angle hero shot, leaning back against the front fender of a slammed widebody JDM drift sports car, one boot braced forward. No microphone.
+SUBJECT: Rebecca from Once Human — use the attached reference image for face and hairstyle (styled with a street-racing edge: cropped matte-black racing jacket with crimson stripes, dark cargo details, fingerless gloves). Her eyes are OPEN, narrow, predatory and confident, with a slight smirk directly toward the viewer. Aggressive low-angle hero shot, leaning back against the front fender of a slammed widebody JDM drift sports car, one boot braced forward. No microphone.
 ENVIRONMENT: An empty, rain-slicked desert highway in the Red Sands at night, long black tire marks curving around her, a weathered roadside sign reading "RED SANDS" half-obscured in the background haze, distant neon highway lights.
 LIGHT & FX: Harsh blood-red taillight glow from behind cutting through dense tire smoke, bright white headlight flare, and glowing violet underglow beneath the car that illuminates the swirling magenta-tinted smoke behind Rebecca like fierce, billowing wings. Heavy analog film grain and subtle chromatic aberration.
 COLOR PALETTE: Asphalt Black #0A0A0E, Blood Red #B3001B, Tire Smoke Grey #423F4D, Stardust Neon Purple #BF00FF, Chrome Silver #C9CED6.
@@ -68,7 +68,7 @@ STYLE: Cyberpunk drift phonk album cover, square 1:1, gritty underground night c
 ![](covers/drift_cyberpunk_phonk_4.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human (use reference image for face, hairstyle and complete outfit; may add a cyber-street layer: reflective visor pushed into her hair). Eyes OPEN, menacing focus, a red target reticle reflected in her irises. Close-up shot from the shoulders upward, leaning slightly toward the viewer.
+SUBJECT: Rebecca from Once Human (use reference image for face, hairstyle and complete outfit; may add a cyber-street layer: reflective visor pushed into her hair). Eyes OPEN, menacing focus, a red target reticle reflected in her irises. Close-up shot from the shoulders upward, leaning slightly toward the viewer.
 ENVIRONMENT: Rain-wet underground tunnel with neon strips, a blurred drift car streaking past behind her, puddles reflecting neon.
 LIGHT & FX: Hard cyan side light against blood-red back light, glitch slices across the frame, rain streaks, motion trails, heavy grain.
 COLOR PALETTE: Neon Cyan #00E5FF, Blood Red #C3002F, Gunmetal #2A2D34, Tunnel Black #050608, Wet Chrome #B8C2CC.
@@ -82,7 +82,7 @@ NEGATIVE: no explicit content.
 ![](covers/drift_cyberpunk_phonk_5.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human (use reference image for face, hairstyle and complete outfit; may add a cyber-street layer: reflective visor pushed into her hair). Eyes OPEN, menacing focus, a red target reticle reflected in her irises. Close-up shot from the shoulders upward, leaning slightly toward the viewer.
+SUBJECT: Rebecca from Once Human (use reference image for face, hairstyle and complete outfit; may add a cyber-street layer: reflective visor pushed into her hair). Eyes OPEN, menacing focus, a red target reticle reflected in her irises. Close-up shot from the shoulders upward, leaning slightly toward the viewer.
 ENVIRONMENT: Rain-wet underground tunnel with neon strips, a blurred drift car streaking past behind her, puddles reflecting neon.
 LIGHT & FX: Hard cyan side light against blood-red back light, glitch slices across the frame, rain streaks, motion trails, heavy grain.
 COLOR PALETTE: Neon Cyan #00E5FF, Blood Red #C3002F, Gunmetal #2A2D34, Tunnel Black #050608, Wet Chrome #B8C2CC.

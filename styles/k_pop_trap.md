@@ -55,7 +55,7 @@ K-pop trap, confident female warm mid-range vocals, rapid-fire rap shifting to s
 ![](covers/k_pop_trap_2.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human, use the reference image for face, hairstyle and complete outfit as inspiration, restyled as a K-pop trap idol: cropped black techwear jacket with gold hardware, high-waist cargo pants, chunky platform boots, layered chains, fingerless gloves. Low-angle hero shot, confident power stance, one hand raised in a "locked target" finger-gun gesture toward the viewer. Eyes OPEN, sharp, dominant, a slight smirk. Flawless porcelain skin with a subtle sheen.
+SUBJECT: Rebecca from Once Human, use the reference image for face, hairstyle and complete outfit as inspiration, restyled as a K-pop trap idol: cropped black techwear jacket with gold hardware, high-waist cargo pants, chunky platform boots, layered chains, fingerless gloves. Low-angle hero shot, confident power stance, one hand raised in a "locked target" finger-gun gesture toward the viewer. Eyes OPEN, sharp, dominant, a slight smirk. Flawless porcelain skin with a subtle sheen.
 ENVIRONMENT: Concrete underground parking deck turned into a music-video set, wet floor reflecting light, smoke haze, a lowrider silhouette in the background, scattered brass instruments on stands as a nod to the brass-heavy chorus.
 LIGHT & FX: Hard red backlight rim, cold white key light from above, a glowing red HUD targeting reticle hovering over the viewer's side of the frame, faint sub-bass shockwave rings rippling across the floor, lens flare streaks.
 COLOR PALETTE: Jet black #0A0A0C, blood red #C8102E, concrete grey #5A5A5E, chrome #D6D8DC, brass accent #B5893B
@@ -70,7 +70,7 @@ NEGATIVE: No explicit nudity.
 ![](covers/k_pop_trap_4.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human — use the attached reference image for face and hairstyle (restyled as a high-fashion K-pop trap icon: cropped matte-black luxury techwear jacket with gold hardware, layered metallic chains, fingerless gloves). Her eyes are OPEN, sharp, commanding and slightly narrowed with a bold, sassy smirk. Low-angle power shot seated gracefully on a sleek obsidian architectural throne, legs crossed, one hand raised with fingers poised as if controlling invisible threads. No microphone.
+SUBJECT: Rebecca from Once Human — use the attached reference image for face and hairstyle (restyled as a high-fashion K-pop trap icon: cropped matte-black luxury techwear jacket with gold hardware, layered metallic chains, fingerless gloves). Her eyes are OPEN, sharp, commanding and slightly narrowed with a bold, sassy smirk. Low-angle power shot seated gracefully on a sleek obsidian architectural throne, legs crossed, one hand raised with fingers poised as if controlling invisible threads. No microphone.
 ENVIRONMENT: A minimalist, dark brutalist concrete music-video stage with glossy black mirror flooring, dramatic overhead light rigs, and subtle golden brass reflections in the hazy background.
 LIGHT & FX: Sharp, high-contrast editorial spotlighting with a cool cyan rim light; delicate, glowing violet light-threads weave gracefully between her fingertips like luminous puppet strings, while her sharp shadow cast onto the concrete wall behind her forms the distinct silhouette of pointed demonic wings.
 COLOR PALETTE: Jet Black #09090B, Luxury Gold #D97706, Concrete Grey #27272A, Neon Purple #A855F7, Porcelain #F3EEE8.

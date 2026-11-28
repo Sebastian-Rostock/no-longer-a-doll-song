@@ -94,7 +94,7 @@ warm mid-range ghost vocals, hushed and close-mic;
 
 ````text
 SUBJECT:
-Mitsuko from Once Human — use the attached reference image for face, hairstyle and complete outfit (outfit styled darker in cyber-goth fashion: matte black latex accents, sheer black mesh layers, silver occult chain jewelry). Her eyes are OPEN, half-lidded and hypnotic, staring directly into the viewer with a calm, predatory-playful confidence and a faint knowing smile. Upper body and face centered, slight head tilt, one hand raised at chest height with fingers spread as if casting a quiet hex. No microphone.
+Rebecca from Once Human — use the attached reference image for face, hairstyle and complete outfit (outfit styled darker in cyber-goth fashion: matte black latex accents, sheer black mesh layers, silver occult chain jewelry). Her eyes are OPEN, half-lidded and hypnotic, staring directly into the viewer with a calm, predatory-playful confidence and a faint knowing smile. Upper body and face centered, slight head tilt, one hand raised at chest height with fingers spread as if casting a quiet hex. No microphone.
 
 ENVIRONMENT:
 A nocturnal Red Sands desert merging into the decaying concrete ruins of LEA Labs under a black-violet sky. Behind her floats a giant glitching ritual circle made of inverted triangles (▼), sigils and sci-fi targeting HUD brackets, alongside a cracked glass containment cylinder half-buried in the dark sand. Faint sand dust drifts through the air.
@@ -120,7 +120,7 @@ Witch house / cyber goth single cover, square 1:1, dark ritual club aesthetic, c
 
 ````text
 SUBJECT:
-Mitsuko from Once Human — use the attached reference image for face, hairstyle and complete outfit (outfit may be styled darker in cyber-goth fashion: matte black latex accents, sheer black mesh layers, silver occult chain jewelry). Her eyes are OPEN, half-lidded and hypnotic, staring directly into the viewer with a calm, predatory-playful confidence and a faint knowing smile. Upper body and face centered, slight head tilt, one hand raised at chest height with fingers spread as if casting a targeting spell.
+Rebecca from Once Human — use the attached reference image for face, hairstyle and complete outfit (outfit may be styled darker in cyber-goth fashion: matte black latex accents, sheer black mesh layers, silver occult chain jewelry). Her eyes are OPEN, half-lidded and hypnotic, staring directly into the viewer with a calm, predatory-playful confidence and a faint knowing smile. Upper body and face centered, slight head tilt, one hand raised at chest height with fingers spread as if casting a targeting spell.
 
 ENVIRONMENT:
 A nocturnal Red Sands desert under a black-violet sky. Behind her floats a giant glitching ritual circle made of inverted triangles, sigils and sci-fi targeting HUD brackets, merging occult and tech. Faint sand dust drifts through the air.

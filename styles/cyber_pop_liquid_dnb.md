@@ -53,7 +53,7 @@ Futuristic cyber-pop, mesmerizing synth-wave, liquid drum and bass elements, eup
 ![](covers/cyber_pop_liquid_dnb_1.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human. Use the attached reference image for face, hairstyle and complete outfit; light, airy white-and-pastel variant. Eyes CLOSED, serene and blissful smile, floating weightlessly upward, arms softly open.
+SUBJECT: Rebecca from Once Human. Use the attached reference image for face, hairstyle and complete outfit; light, airy white-and-pastel variant. Eyes CLOSED, serene and blissful smile, floating weightlessly upward, arms softly open.
 ENVIRONMENT: Dawn synthwave sky, endless pastel grid below, translucent digital clouds, rising soundwave rings beneath her.
 LIGHT & FX: Soft pastel halo, shimmering arpeggio particles spiraling upward, gentle bloom, dreamy haze. No cables, plugs or sockets.
 COLOR PALETTE: Baby blue #A8E6FF, lavender #C7B8FF, peach glow #FFC4A8, soft pink #FFB3D9, pearl white #FAF8FF.
@@ -66,7 +66,7 @@ STYLE: Ethereal angelic cyber-pop artwork, soft painterly-digital, uplifting, 1:
 ![](covers/cyber_pop_liquid_dnb_2.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human — use the attached reference image for face and hairstyle (wearing a weightless, translucent iridescent synthwave jacket and flowing sheer dress). Her eyes are OPEN, calm, deep and magnetic, gazing serenely toward the viewer. Full-to-three-quarter shot standing knee-deep in a mirror-like lake of flowing liquid light, her hair and sheer fabric drifting effortlessly as if suspended in a gentle underwater current. No microphone.
+SUBJECT: Rebecca from Once Human — use the attached reference image for face and hairstyle (wearing a weightless, translucent iridescent synthwave jacket and flowing sheer dress). Her eyes are OPEN, calm, deep and magnetic, gazing serenely toward the viewer. Full-to-three-quarter shot standing knee-deep in a mirror-like lake of flowing liquid light, her hair and sheer fabric drifting effortlessly as if suspended in a gentle underwater current. No microphone.
 ENVIRONMENT: A vast, surreal nocturnal synthwave horizon where a glowing retro grid dissolves into bioluminescent mist, rising light bubbles, and distant starry sky.
 LIGHT & FX: Rippling arpeggiated light waves spreading across the luminous water surface; in her crisp reflection on the glowing water below, faint ethereal light-wings unfold behind her shoulders, while fine streams of violet stardust swirl from her temples into the water like a silent mental link.
 COLOR PALETTE: Abyssal Teal #042F2E, Bioluminescent Cyan #2DD4BF, Deep Midnight #090D16, Stardust Lavender #C084FC, Soft Sunset Rose #FF7AA8.
@@ -79,7 +79,7 @@ STYLE: Liquid drum-and-bass cyber-pop album cover, square 1:1, surreal fine-art 
 ![](covers/cyber_pop_liquid_dnb_3.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human. Use the attached reference image for face, hairstyle and complete outfit; deep-teal glossy variant. Eyes OPEN, seductive yet gentle side glance over her shoulder, playful smile. Subtle succubus hint: her reflection in the liquid surface below shows faint light-wings and a slender heart-tipped tail silhouette that she herself does not have. Charming, never threatening.
+SUBJECT: Rebecca from Once Human. Use the attached reference image for face, hairstyle and complete outfit; deep-teal glossy variant. Eyes OPEN, seductive yet gentle side glance over her shoulder, playful smile. Subtle succubus hint: her reflection in the liquid surface below shows faint light-wings and a slender heart-tipped tail silhouette that she herself does not have. Charming, never threatening.
 ENVIRONMENT: Dark liquid-light lake at night, synthwave grid fading into mist, stardust floating in warm air.
 LIGHT & FX: Teal and magenta glow, glittering stardust drifting from the viewer toward her, heat-haze shimmer, ripple distortions. No cables, plugs or sockets.
 COLOR PALETTE: Deep teal #014F5C, magenta #E0218A, warm violet #5D1F7A, stardust gold-white #FFF1C9, black water #05080F.

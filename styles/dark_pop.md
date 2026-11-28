@@ -43,7 +43,7 @@ A sleek, mid-tempo futuristic dark-pop track with a heavy, pulsating synth-bassl
 ![](covers/dark_pop_1.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human, use the reference image for face, hairstyle and complete outfit. Eyes OPEN but half-lidded, alluring, playful gaze over her shoulder. Graceful and attractive, never menacing.
+SUBJECT: Rebecca from Once Human, use the reference image for face, hairstyle and complete outfit. Eyes OPEN but half-lidded, alluring, playful gaze over her shoulder. Graceful and attractive, never menacing.
 ENVIRONMENT: Dark club corridor with glossy black panels, blurred dance-floor lights in the background.
 LIGHT & FX: Thin violet light threads drift from the foreground toward her fingertips, a subtle hint of absorbed energy. Her backlight casts a soft shadow on the wall that faintly resembles wings, ambiguous and elegant.
 COLOR PALETTE: Black #08070C, plum #4B1248, violet #7B3FE4, soft pink highlight #FF7AC6.
@@ -56,7 +56,7 @@ STYLE: Seductive but tasteful dark-pop cover, cinematic photography, shallow dep
 ![](covers/dark_pop_2.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human, use the reference image for face, hairstyle and complete outfit. Eyes OPEN, mysterious, calm gaze. She stands half-hidden behind a frosted glass door, one hand pressed against the glass.
+SUBJECT: Rebecca from Once Human, use the reference image for face, hairstyle and complete outfit. Eyes OPEN, mysterious, calm gaze. She stands half-hidden behind a frosted glass door, one hand pressed against the glass.
 ENVIRONMENT: Dim futuristic penthouse hallway, frosted glass, soft city lights blurred far behind.
 LIGHT & FX: Diffused purple backlight through the frosted glass, her silhouette partially sharp where her hand touches the glass, light condensation droplets.
 COLOR PALETTE: Midnight blue #0D1027, smoky purple #3C2A5E, lilac #B79CFF, pale skin highlight #F4E6EE.
@@ -69,7 +69,7 @@ STYLE: Moody, enchanting dark-pop cover, soft cinematic grain, 1:1.
 ![](covers/dark_pop_3.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human — use the attached reference image for face and hairstyle (outfit styled in sleek black silk editorial eveningwear with subtle matte-black satin accents). Her eyes are OPEN, half-lidded and alluring, looking back over her shoulder with a sultry, knowing smile. Waist-up three-quarter pose, leaning gracefully against a doorframe in dim half-shadow, one hand raised lightly near her lips as if about to whisper a secret. No microphone.
+SUBJECT: Rebecca from Once Human — use the attached reference image for face and hairstyle (outfit styled in sleek black silk editorial eveningwear with subtle matte-black satin accents). Her eyes are OPEN, half-lidded and alluring, looking back over her shoulder with a sultry, knowing smile. Waist-up three-quarter pose, leaning gracefully against a doorframe in dim half-shadow, one hand raised lightly near her lips as if about to whisper a secret. No microphone.
 ENVIRONMENT: A minimalist luxury apartment hallway at night with a glossy black reflective floor and a single heavy door slightly ajar, casting a sharp vertical beam of warm-violet light across the dark wall.
 LIGHT & FX: Chiaroscuro low-key studio lighting with a soft magenta rim light and warm bronze fill. Fine magenta stardust particles float lazily in the doorway beam. Only in her reflection on the glossy black floor do two curved wisps of her hair form faint horn-like silhouettes and a subtle violet glint in her irises. Subtle 35mm film grain and soft halation.
 COLOR PALETTE: Deep Obsidian #0B090E, Warm Shadow Bronze #2B1E1A, Satin Black #16141C, Neon Magenta #FF2A85, Soft Rose Highlight #FF7AC6.

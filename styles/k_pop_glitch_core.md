@@ -44,7 +44,7 @@ K-pop glitch-core, 160 bpm in D major with a high-energy, frantic pulse; bright 
 ![](covers/k_pop_glitch_core_2.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human — use the attached reference image for face and hairstyle (wearing an edgy asymmetric cyber-street outfit with holographic vinyl panels and neon-lime accents). Her eyes are OPEN, wide, mischievous and hyper-alive, sitting playfully cross-legged inside a giant, cracked holographic smartphone screen window as if she lives right inside the device, one finger pressed playfully near her lips with a sly smirk. No microphone.
+SUBJECT: Rebecca from Once Human — use the attached reference image for face and hairstyle (wearing an edgy asymmetric cyber-street outfit with holographic vinyl panels and neon-lime accents). Her eyes are OPEN, wide, mischievous and hyper-alive, sitting playfully cross-legged inside a giant, cracked holographic smartphone screen window as if she lives right inside the device, one finger pressed playfully near her lips with a sly smirk. No microphone.
 ENVIRONMENT: A fractured digital cyber-space floating in a dark void, surrounded by shattered floating UI popups, corrupted pixel blocks, RGB datamosh streaks, and faint distorted system error tags reading "ERR_OWNER_NONE" and "LEA-7".
 LIGHT & FX: Cool screen-glow uplight illuminating her face, chaotic RGB color-split aberration, neon magenta and cyan glitch slices cutting around the screen frame, and high-voltage violet stardust sparks bursting from the cracked glass edges.
 COLOR PALETTE: Glitch Black #09070F, Cyber Magenta #FF007F, Error Cyan #00F0FF, Electric Lime #FFC83D, Stardust Violet #8B5CF6.
@@ -58,7 +58,7 @@ STYLE: Hyper-energetic K-pop glitch-core single cover, square 1:1, maximalist Y2
 ![](covers/k_pop_glitch_core_3.webp)
 
 ````text
-SUBJECT: Mitsuko (reference image for face, hairstyle, complete outfit, hyper-pop restyled). EYES OPEN, half-lidded and mischievous, a knowing smirk. She sits cross-legged inside a giant glowing smartphone screen as if she lives inside the device. Subtle succubus hints: tiny glitch-pixel horns flickering in and out of her hair, a thin heart-tipped tail made of pixels. Cute, not menacing.
+SUBJECT: Rebecca (reference image for face, hairstyle, complete outfit, hyper-pop restyled). EYES OPEN, half-lidded and mischievous, a knowing smirk. She sits cross-legged inside a giant glowing smartphone screen as if she lives inside the device. Subtle succubus hints: tiny glitch-pixel horns flickering in and out of her hair, a thin heart-tipped tail made of pixels. Cute, not menacing.
 ENVIRONMENT: A smartphone floating in dark digital space. Its screen is cracked with pixel corruption spreading outward like a charming virus. Small heart icons drain from the edges toward her.
 LIGHT & FX: Screen-glow uplight on her face, RGB glitch tears, heart-shaped pixel particles, error popups reading "SYSTEM MALFUNCTION".
 COLOR PALETTE: Magenta #E0007A, Toxic Pink #FF5FD2, Neon Cyan #19E6FF, Black Void #0A0010, Error Red #FF2040.

@@ -34,7 +34,7 @@ Epic hybrid orchestral cinematic drum and bass, fast driving breakbeat with upli
 ![](covers/epic_orchestral_dnb_1.webp)
 
 ```text
-SUBJECT: Mitsuko from Once Human — use the attached reference image for face and hairstyle (wearing sleek, aerodynamic dark-and-silver battle couture with long flowing coat-tails streaming behind her). Her eyes are OPEN, fierce, radiant and triumphant, captured mid-stride sprinting forward at blinding speed toward the viewer with her hair and fabric whipping back in the wind. Her face remains unmarred, while subtle golden energy shimmer traces along her hands and collarbone. No microphone.
+SUBJECT: Rebecca from Once Human — use the attached reference image for face and hairstyle (wearing sleek, aerodynamic dark-and-silver battle couture with long flowing coat-tails streaming behind her). Her eyes are OPEN, fierce, radiant and triumphant, captured mid-stride sprinting forward at blinding speed toward the viewer with her hair and fabric whipping back in the wind. Her face remains unmarred, while subtle golden energy shimmer traces along her hands and collarbone. No microphone.
 ENVIRONMENT: A monumental futuristic light tunnel and glowing "stardust road" cutting through the nocturnal Red Sands desert in intense high-speed motion blur, opening toward a brilliant golden-violet dawn horizon.
 LIGHT & FX: Dramatic 170-BPM radial speed lines, intense anamorphic lens flares, and glowing violet-and-gold energy trails fanning out symmetrically behind her shoulders like blazing phoenix-succubus wings.
 COLOR PALETTE: Hyper-Speed Black #080910, Radiant Gold #FBBF24, Pure White #FFFFFF, Stardust Violet #9333EA, Crimson Sand #A8322A.

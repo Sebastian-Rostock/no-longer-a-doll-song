@@ -53,7 +53,7 @@ K-pop high-energy dance/EDM with a synth-driven pop chorus, heavy synth bass, br
 
 ````text
 SCENE: A high-end 1:1 square K-pop comeback single cover art, shot on 35mm lens with crisp focus, rich volumetric lighting, and glossy editorial magazine polish.
-SUBJECT: Mitsuko from Once Human — use the attached reference image for her exact face, natural skin pores, and hairstyle (restyle the outfit into a sassy maximalist K-pop stage look: glossy cropped holographic jacket with asymmetric chrome trim, layered metallic chains, fingerless gloves). Eyes OPEN, bright and confident, giving one playful wink toward the viewer with a slight smirk. Dynamic idol pose mid-choreography, one hand framing her face in a sleek "lock-on" finger gesture. No microphone.
+SUBJECT: Rebecca from Once Human — use the attached reference image for her exact face, natural skin pores, and hairstyle (restyle the outfit into a sassy maximalist K-pop stage look: glossy cropped holographic jacket with asymmetric chrome trim, layered metallic chains, fingerless gloves). Eyes OPEN, bright and confident, giving one playful wink toward the viewer with a slight smirk. Dynamic idol pose mid-choreography, one hand framing her face in a sleek "lock-on" finger gesture. No microphone.
 ENVIRONMENT: A maximalist cyberpunk concert stage framed by translucent, angular shattered mirror-panels radiating symmetrically behind her shoulders like abstract wings—each sector reflecting pure light and texture (neon arcade grids, liquid chrome waves, and violet spotlight haze, strictly without any people or faces inside). Rain-glossed black stage floor, towering LED rigs.
 LIGHT & FX: Hard hot-magenta and electric-cyan rim lights, strobing laser beams, subtle chromatic aberration along the mirror-panel edges, motion-blur light trails, and confetti of tiny glowing pixels.
 COLOR PALETTE: Hot Magenta #FF2E93, Electric Cyan #00E5FF, Ultraviolet #6B2BFF, Chrome Silver #C9CED6, Deep Night #0A0A1A.
@@ -67,7 +67,7 @@ NEGATIVE: No extra faces or figures in the background panels, no cracks on her f
 ![](covers/maximalist_k_pop_edm_2.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human — use the attached reference image for her exact face, natural skin pores, and hairstyle (restyle into a maximalist Y2K cyberpunk K-pop idol look: iridescent cropped puffer-vest over metallic mesh, chunky silver chains, glossy lip tint). Eyes OPEN, bright and playful, winking with a cheeky peace-sign hand pose close to the lens. Subtle wide-angle 24mm editorial lens perspective. No microphone.
+SUBJECT: Rebecca from Once Human — use the attached reference image for her exact face, natural skin pores, and hairstyle (restyle into a maximalist Y2K cyberpunk K-pop idol look: iridescent cropped puffer-vest over metallic mesh, chunky silver chains, glossy lip tint). Eyes OPEN, bright and playful, winking with a cheeky peace-sign hand pose close to the lens. Subtle wide-angle 24mm editorial lens perspective. No microphone.
 ENVIRONMENT: An iridescent liquid-chrome and holographic studio backdrop bursting with floating 3D graphic elements: glossy chrome stars, translucent pink UI pop-up frames, pixel-art hearts, and barcode strips—strictly abstract graphics with no extra faces.
 LIGHT & FX: Crisp studio ring-light catchlights in her eyes, vibrant magenta and electric cyan rim lighting, subtle prismatic lens flares, and glossy Y2K sticker-shine textures.
 COLOR PALETTE: Hot Magenta #FF2E93, Electric Cyan #00E5FF, Iridescent Silver #E2E8F0, Acid Lilac #9D4EDD, Deep Indigo #100B26.

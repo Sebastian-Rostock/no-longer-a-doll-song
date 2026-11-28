@@ -37,7 +37,7 @@ K-pop neon-pop with bright arcade synths, electronic gaming sound effects, and a
 ![](covers/k_pop_neon_pop_2.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human — use the attached reference image for face and hairstyle (restyled as an ultra-bright neon gaming idol: holographic iridescent cropped jacket over a playful neon-trimmed top, cute pixel-star hair clips). Her eyes are OPEN with one playful wink and a bright, radiant smile. Dynamic mid-motion idol pose, making a playful peace sign near her cheek with one hand, glossy sheen on her skin. No microphone.
+SUBJECT: Rebecca from Once Human — use the attached reference image for face and hairstyle (restyled as an ultra-bright neon gaming idol: holographic iridescent cropped jacket over a playful neon-trimmed top, cute pixel-star hair clips). Her eyes are OPEN with one playful wink and a bright, radiant smile. Dynamic mid-motion idol pose, making a playful peace sign near her cheek with one hand, glossy sheen on her skin. No microphone.
 ENVIRONMENT: A bustling, ultra-colorful Tokyo or Seoul arcade alley at night, surrounded by glowing retro arcade cabinets, neon signs, and transparent claw machines filled with small plush dolls in the softly blurred background.
 LIGHT & FX: Vibrant multi-colored neon reflections (hot pink, electric cyan, acid yellow) bouncing off her skin and holographic jacket, sparkling stardust light flares, subtle arcade pixel sparkles, and a faint retro "PLAYER 1" arcade light bar glow in the background.
 COLOR PALETTE: Electric Cyan #06B6D4, Hot Pink #EC4899, Arcade Yellow #FACC15, Deep Night Indigo #1E1B4B, Stardust Magenta #E879F9.

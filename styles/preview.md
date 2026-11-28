@@ -13,7 +13,7 @@ Für die GitHub-Startseite und das Social-Media-Preview-Image sind zwei verschie
 
 ````text
 SCENE: A wide 2:1 panoramic key art banner inside a 1536x1024 image designed with generous top and bottom margins so the central horizontal band can later be cropped cleanly to a 2:1 GitHub social preview (1280x640). Photorealistic cinematic still, shot on 35mm, crisp focus, rich lighting, fine film grain.
-SUBJECT: Medium-wide central portrait (from mid-chest up) of Mitsuko from the attached photorealistic reference image, framed comfortably inside the middle horizontal band of the canvas. Keep her exact face, natural skin pores, and hair identical to the reference—her face remains completely unmarred without cracks or glitches. No butterfly on her face.
+SUBJECT: Medium-wide central portrait (from mid-chest up) of Rebecca from the attached photorealistic reference image, framed comfortably inside the middle horizontal band of the canvas. Keep her exact face, natural skin pores, and hair identical to the reference—her face remains completely unmarred without cracks or glitches. No butterfly on her face.
 Her eyes are OPEN, bright, and sparkling with warm affection. She looks directly at the viewer with a gentle, closed-mouth smile—subtle, warm, and playfully expectant, as if happily welcoming someone special.
 COMPOSITION & 6 WING-LIKE STYLE SECTORS: Radiating symmetrically outward behind her shoulders like six translucent, multi-layered abstract wings of light, glass, and shadow, the background divides into six seamless sectors from left to right:
 1. Far-left sector: Dark LEA-Labs ruins, violet ritual sigils, and smoky shadow-wing contours.
@@ -37,7 +37,7 @@ STYLE: Photorealistic editorial key art photography, 35mm wide-angle sharpness o
 
 ````text
 SCENE: A wide 2:1 panoramic key art banner inside a 1536x1024 image designed with generous top and bottom margins so the central horizontal band can later be cropped cleanly to a 2:1 GitHub social preview (1280x640). Photorealistic cinematic still, shot on 35mm, crisp focus, rich lighting, fine film grain.
-SUBJECT: Six distinct medium-close portraits (from shoulders up) of the exact same woman—Mitsuko from the attached photorealistic reference image—arranged side-by-side in six vertical panels flowing from left to right. Keep her exact facial structure, natural skin pores, and dark hairstyle strictly identical across all six panels, framed comfortably inside the central horizontal band with generous headroom:
+SUBJECT: Six distinct medium-close portraits (from shoulders up) of the exact same woman—Rebecca from the attached photorealistic reference image—arranged side-by-side in six vertical panels flowing from left to right. Keep her exact facial structure, natural skin pores, and dark hairstyle strictly identical across all six panels, framed comfortably inside the central horizontal band with generous headroom:
 1. Far Left: Head slightly tilted down, eyes half-lidded and vacant like a dormant doll, dark cyber-goth lace, glowing violet ritual sigils and a cracked glass containment cylinder behind her.
 2. Mid-Left: Direct, alluring gaze with a subtle knowing smirk, sleek black techwear with gold chains, glowing violet puppet-string light threads weaving between her fingertips.
 3. Center-Left: Sharp, focused predatory gaze, black racing jacket with crimson stripes, neon cyan and blood-red tunnel reflections.
@@ -59,7 +59,7 @@ STYLE: The panels are separated only by luminous diagonal light-veils and stardu
 ![](covers/preview_7.webp)
 
 ````text
-SUBJECT: Create a 3:2 landscape panoramic banner (1536x1024) based on the attached photorealistic reference image of Mitsuko. Keep her exact face, realistic skin texture, and hairstyle consistent across six seamless vertical panels flowing from left to right. Frame the characters as medium-wide portraits (from mid-chest up) with generous headroom above their hair and extra margin at the bottom, ensuring the central horizontal band can later be cropped to a 2:1 GitHub banner without cutting off heads or text:
+SUBJECT: Create a 3:2 landscape panoramic banner (1536x1024) based on the attached photorealistic reference image of Rebecca. Keep her exact face, realistic skin texture, and hairstyle consistent across six seamless vertical panels flowing from left to right. Frame the characters as medium-wide portraits (from mid-chest up) with generous headroom above their hair and extra margin at the bottom, ensuring the central horizontal band can later be cropped to a 2:1 GitHub banner without cutting off heads or text:
 1. Far Left (Witch House – LEA Labs): Eyes half-lidded and hypnotic, dark cyber-goth lace, glowing violet ritual triangles and a cracked glass containment cylinder behind her.
 2. Mid-Left (Dark-Pop / Trap): Confident smirk, sleek black techwear with gold chains, glowing violet puppet-string light threads weaving between her fingertips.
 3. Center-Left (Drift / Cyberpunk Phonk): Predatory focused gaze, black racing jacket with crimson stripes, neon cyan and blood-red tunnel reflections.

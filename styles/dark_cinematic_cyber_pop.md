@@ -68,7 +68,7 @@ STYLE: Boss-battle game key art, dark cinematic cyberpunk, 1:1.
 ![](covers/dark_cinematic_cyber_pop_3.webp)
 
 ````text
-SUBJECT: Mitsuko from Once Human — use the attached reference image for face and hairstyle (wearing a tactical matte-black cybernetic jacket with high metallic collar accents and subtle iridescent seams). Her eyes are OPEN, intense, focused and piercing, staring directly into the camera with calm determination, fine rainwater droplets glistening on her skin. Upper-body hero framing, slightly low angle, one hand raised near her collar. No microphone.
+SUBJECT: Rebecca from Once Human — use the attached reference image for face and hairstyle (wearing a tactical matte-black cybernetic jacket with high metallic collar accents and subtle iridescent seams). Her eyes are OPEN, intense, focused and piercing, staring directly into the camera with calm determination, fine rainwater droplets glistening on her skin. Upper-body hero framing, slightly low angle, one hand raised near her collar. No microphone.
 ENVIRONMENT: A storm-drenched futuristic rooftop overlooking a dark industrial LEA Labs complex in the Red Sands at night, with distant red warning beacons and a towering monolith silhouette piercing through heavy rain and fog.
 LIGHT & FX: Dramatic crimson backlight rim contrasting against cold cyan side light. A faint, translucent red holographic targeting reticle hovers near one eye, while swirling violet stardust sparks and rain streaks cut diagonally across the dark frame. Crisp anamorphic lens flare.
 COLOR PALETTE: Pitch Black #08090C, Crimson Alert #D91E36, Tactical Steel #27303F, Electric Violet #A020F0, Cold Cyan #4FE3E0.
