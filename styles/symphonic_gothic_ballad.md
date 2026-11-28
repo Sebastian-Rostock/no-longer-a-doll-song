@@ -3,7 +3,7 @@
 &#128286; **Hinweis zum Jugendschutz:** Bitte beachte die [Altersbeschränkungen im Hauptdokument](../README.md#cw).
 
 **Stimmung & Bezug zur Story:**  
-Tragisch, verletzlich, emotional und schmerzlich-schön. Dieser Stil vertont die **Bridge** (*Rückkehr*): den schmerzhaften Verlust und das langsame Wiederkehren ihrer menschlichen Erinnerungen (*„I forgot who I was... No longer a doll“*).
+Tragisch, verletzlich, emotional und schmerzlich-schön. Dieser Stil vertont die **Bridge**: den schmerzhaften Verlust und das langsame Wiederkehren ihrer menschlichen Erinnerungen (*I forgot who I was... No longer a doll*).
 
 ---
 
@@ -71,4 +71,4 @@ STYLE: Symphonic gothic ballad album cover, square 1:1, dark romanticism fine-ar
 
 ---
 
-Hier geht es weiter zur [➜ nächsten Musikrichtung (*Pop / Synth-Orchestral*)](pop_synth_orchestral.md), zum [➜ Songtext als Prompt](../lyrics/lyrics_prompt.md), zurück zu den [➜ Musikrichtungen](styles.md) oder zurück zum [➜ Hauptdokument](../README.md).
+Hier geht es zurück zu den [➜ Musikrichtungen](styles.md) oder zurück zum [➜ Hauptdokument](../README.md).
