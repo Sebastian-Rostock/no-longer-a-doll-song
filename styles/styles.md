@@ -32,10 +32,13 @@ Die folgende Übersicht sortiert die 18 Musikrichtungen nach dem dramaturgischen
 |[![](thumbs/symphonic_gothic_ballad.webp)](covers/symphonic_gothic_ballad_1.webp)|**[➜ 12 · Symphonic Gothic Ballad ★](symphonic_gothic_ballad.md)** – *tragisch, verletzlich, emotional*<br>[➜ Top-Track auf Suno](https://suno.com/s/q86bOANGjq5fDzgT)<br>Der schmerzhafte Verlust und die Rückkehr ihrer menschlichen Erinnerungen. *Besonders eindringlich, nachdem man [➜ Rebeccas Erwachen](../story/story_rebecca.md) gelesen hat – hier verwandelt sich selbst das Intro in pure Emotion.*|
 |![](thumbs/07.webp)|**[✖ 13 · Pop / Synth-Orchestral](style_07.md)** – *hoffnungsvoll, euphorisch, befreiend*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Betont die Heilung und das Aufsteigen aus der Dunkelheit (*Out of the dark...*).|
 |![](thumbs/09.webp)|**[✖ 14 · Epic Hybrid Orchestral](style_09.md)** – *triumphierend, heroisch, gewaltig*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Macht die finale Verschmelzung zu einem großen Kino-Finale.|
-|![](thumbs/17.webp)|**[✖ 15 · Epic Orchestral DnB](style_17.md)** – *rasend, siegreich, adrenalingeladen*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Der ultimative Endspurt des Songs: volle Energie, Befreiung und Triumph.|
+|[![](thumbs/epic_orchestral_dnb.webp)](covers/epic_orchestral_dnb_1.webp)|**[➜ 15 · Epic Orchestral DnB ★](epic_orchestral_dnb.md)** – *rasend, siegreich, adrenalingeladen*<br>[➜ Top-Track auf Suno](https://suno.com/s/7squg4kbGndOjOD2)<br>Der ultimative Endspurt des Songs: volle Energie, Befreiung und Triumph.|
 |![](thumbs/12.webp)|**[✖ 16 · K-Pop Neon-Pop](style_12.md)** – *verspielt, bunt, elektrisierend*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Betont den spielerischen Gaming-Aspekt mit Arcade-Sounds (*I'm the ultimate prize!*).|
 |[![](thumbs/kawaii_future_bass.webp)](covers/kawaii_future_bass_1.webp)|**[➜ 17 · Kawaii Future Bass ★](kawaii_future_bass.md)** – *niedlich, liebevoll, zuckersüß*<br>[➜ Top-Track auf Suno](https://suno.com/s/4cQgouStoX806Z4t)<br>Macht das Ende zu einer niedlich-besitzergreifenden Yandere-Überraschung.|
+| | |
 |![](thumbs/18.webp)|**[✖ 18 · Evolving Dark Electro Pop](style_18.md)** – *dramaturgisches Gesamtkunstwerk*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Ein experimenteller Track, der die gesamte Story psychologisch durchläuft.|
+| | |
+|[![](thumbs/outback_dark_country_rock.webp)](covers/outback_dark_country_rock_1.webp)|**[➜ Outback Dark Country Rock](outback_dark_country_rock.md)** – *staubig, unheilvoll, treibend*<br>[➜ Top-Track auf Suno](https://suno.com/s/z0QkBHJwS2mUO2vJ)<br>Fängt die weite, gnadenlose Wüstenstimmung von Red Sands ein und begleitet Rebeccas einsamen Aufbruch ins Ungewisse (*Out of the dark, I'm finally free!*).|
 
 *★ Persönliche Favoriten*
 
@@ -47,7 +50,6 @@ Die folgende Übersicht sortiert die 18 Musikrichtungen nach dem dramaturgischen
 |[![](thumbs/indie_bedroom_pop.webp)](covers/indie_bedroom_pop_1.webp)|**[✖ Indie Bedroom-Pop](indie_bedroom_pop.md)** – *nahbar, verletzlich, melancholisch*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Zieht alle elektronischen Effekte ab und lässt Rebecca nach dem Ausloggen still im Raum zurück (*whisp'ring your name*).|
 |[![](thumbs/melodic_alternative_metal.webp)](covers/melodic_alternative_metal_1.webp)|**[✖ Melodic Alternative Metal](melodic_alternative_metal.md)** – *kathartisch, kraftvoll, rebellisch*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Verbindet verletzliche Strophen mit wuchtigen Gitarrenwänden für den Ausbruch aus der Glaskapsel (*Your desire rewrites Rebecca's code!*).|
 |[![](thumbs/dark_retro_synthwave.webp)](covers/dark_retro_synthwave_1.webp)|**[✖ Dark Retro Synthwave](dark_retro_synthwave.md)** – *nostalgisch, pulsierend, geheimnisvoll*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Greift die 80er-Sci-Fi-Ästhetik der Rosetta-Terminals auf und begleitet die nächtliche Fahrt durch Red Sands.|
-|[![](thumbs/outback_dark_country_rock.webp)](covers/outback_dark_country_rock_1.webp)|**[➜ Outback Dark Country Rock](outback_dark_country_rock.md)** – *staubig, unheilvoll, treibend*<br>[➜ Top-Track auf Suno](https://suno.com/s/z0QkBHJwS2mUO2vJ)<br>Fängt die weite, gnadenlose Wüstenstimmung von Red Sands ein und begleitet Rebeccas einsamen Aufbruch ins Ungewisse (*Out of the dark, I'm finally free!*).|
  
 </details>
 
