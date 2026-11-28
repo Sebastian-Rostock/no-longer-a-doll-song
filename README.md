@@ -66,6 +66,8 @@ Aus diesem kleinen Reim-Rätsel wurde eine monatelange Abenteuerreise durch die 
 * **In den Storys** habe ich mich komplett in den Leser versetzt: Wann verrate ich zu viel? Wann schicke ich ihn auf eine falsche Fährte, damit er die Wahrheit selbst entdeckt und durch eine echte emotionale Achterbahn geht?
 * **Im Dialog mit der KI** habe ich gemerkt, dass der Ton die Musik macht: Lade ich mein Gegenüber auf Augenhöhe und per „Du“ zum gemeinsamen Tüfteln ein, statt es mit kalten Befehlen zu quälen, liefert das Modell plötzlich Nuancen, auf die ich allein nie gekommen wäre. *(Meine Erkenntnisse und Experimente zu neutralen, einladenden und abwertenden Prompts habe ich in einem eigenen [➜ Erfahrungsbericht zur KI-Psychologie](experiments/ai_psychology.md) festgehalten).*
 
+Ohne klassischen Schreib-Lehrgang im Rücken habe ich dabei viele Handwerkszeuge des Geschichtenerzählens für mich ganz neu entdeckt – nicht aus einem Lehrbuch, sondern aus der praktischen Notwendigkeit des Textadventures heraus. Je tiefer die Handlung wurde, desto klarer wurde mir als Entwickler, dass auch eine fiktive Welt eine saubere Architektur braucht: eine feste **Kanon-Checkliste** als *Single Source of Truth*, damit Perspektiven, Technik-Metaphern und emotionale Fährten über mehrere Ebenen hinweg widerspruchsfrei ineinandergreifen.
+
 Am Ende war die Geschichte so dicht, dass sogar die Frage nach dem „Danach“ schon den Keim für ein nächstes Kapitel gelegt hat – bis hin zu dem Punkt, an dem ich mich plötzlich selbst als Teil meiner eigenen Lore wiederfand. Die KI hat dabei kein Instrument ersetzt und mir das Denken nicht abgenommen. Sie war das Werkzeug, mit dem aus einer nächtlichen Spielerei ein ganzes Universum werden konnte.
 
 ---
