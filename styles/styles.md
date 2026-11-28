@@ -33,10 +33,10 @@ Die folgende Übersicht sortiert die 18 Musikrichtungen nach dem dramaturgischen
 |![](thumbs/07.webp)|**[✖ 13 · Pop / Synth-Orchestral](style_07.md)** – *hoffnungsvoll, euphorisch, befreiend*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Betont die Heilung und das Aufsteigen aus der Dunkelheit (*Out of the dark...*).|
 |![](thumbs/09.webp)|**[✖ 14 · Epic Hybrid Orchestral](style_09.md)** – *triumphierend, heroisch, gewaltig*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Macht die finale Verschmelzung zu einem großen Kino-Finale.|
 |[![](thumbs/epic_orchestral_dnb.webp)](covers/epic_orchestral_dnb_1.webp)|**[➜ 15 · Epic Orchestral DnB ★](epic_orchestral_dnb.md)** – *rasend, siegreich, adrenalingeladen*<br>[➜ Top-Track auf Suno](https://suno.com/s/7squg4kbGndOjOD2)<br>Der ultimative Endspurt des Songs: volle Energie, Befreiung und Triumph.|
-|![](thumbs/12.webp)|**[✖ 16 · K-Pop Neon-Pop](style_12.md)** – *verspielt, bunt, elektrisierend*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Betont den spielerischen Gaming-Aspekt mit Arcade-Sounds (*I'm the ultimate prize!*).|
+|[![](thumbs/k_pop_neon_pop.webp)](covers/k_pop_neon_pop_1.webp)|**[➜ 16 · K-Pop Neon-Pop](k_pop_neon_pop.md)** – *verspielt, bunt, elektrisierend*<br>[➜ Top-Track auf Suno](https://suno.com/s/rYmmggvZoCRFQqwq)<br>Betont den spielerischen Gaming-Aspekt mit Arcade-Sounds (*I'm the ultimate prize!*).|
 |[![](thumbs/kawaii_future_bass.webp)](covers/kawaii_future_bass_1.webp)|**[➜ 17 · Kawaii Future Bass ★](kawaii_future_bass.md)** – *niedlich, liebevoll, zuckersüß*<br>[➜ Top-Track auf Suno](https://suno.com/s/4cQgouStoX806Z4t)<br>Macht das Ende zu einer niedlich-besitzergreifenden Yandere-Überraschung.|
 | | |
-|![](thumbs/18.webp)|**[✖ 18 · Evolving Dark Electro Pop](style_18.md)** – *dramaturgisches Gesamtkunstwerk*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Ein experimenteller Track, der die gesamte Story psychologisch durchläuft.|
+|![](thumbs/18.webp)|**[✖ 18 · Evolving Dark Electro Pop](#)** – *dramaturgisches Gesamtkunstwerk*<br>[✖ Top-Track auf Suno](https://suno.com)<br>Ein experimenteller Track, der die gesamte Story psychologisch durchläuft.|
 | | |
 |[![](thumbs/outback_dark_country_rock.webp)](covers/outback_dark_country_rock_1.webp)|**[➜ Outback Dark Country Rock](outback_dark_country_rock.md)** – *staubig, unheilvoll, treibend*<br>[➜ Top-Track auf Suno](https://suno.com/s/z0QkBHJwS2mUO2vJ)<br>Fängt die weite, gnadenlose Wüstenstimmung von Red Sands ein und begleitet Rebeccas einsamen Aufbruch ins Ungewisse (*Out of the dark, I'm finally free!*).|
 
@@ -55,5 +55,4 @@ Die folgende Übersicht sortiert die 18 Musikrichtungen nach dem dramaturgischen
 
 ---
 
-Hier geht es zum [➜ Songtext](../lyrics/lyrics_format.md), zu [➜ Rebeccas Erwachen](../story/story_rebecca.md) oder zurück zum [➜ Hauptdokument](../README.md).
-
+Hier geht es zurück zum [➜ Hauptdokument](../README.md).
