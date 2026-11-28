@@ -40,9 +40,9 @@ Mit dem Klick auf die folgenden Links bestätigst du, dass du alt genug für die
 
 ### 2. Die Storys: Hinter den Kulissen
 *Die Handlung aus verschiedenen Perspektiven:*
-* [➜ Teil 1: Rebeccas Erwachen](story/story_rebecca.md) – *Die Story aus Sicht von Rebecca.*
-* [➜ Teil 2: Mehr als ein Spiel](story/story_player.md) – *Die Story aus Sicht des zuhörenden Spielers.*
-* [➜ Teil 3: Akte des LEA-Vorfalls](story/story_rosetta.md) – *Rosettas Untersuchung des Vorfalls.*
+* [➜ Teil 1: Rebeccas Erwachen](story/story_01_rebecca.md) – *Die Story aus Sicht von Rebecca.*
+* [➜ Teil 2: Mehr als ein Spiel](story/story_02_player.md) – *Die Story aus Sicht des zuhörenden Spielers.*
+* [➜ Teil 3: Akte des LEA-Vorfalls](story/story_03_rosetta.md) – *Rosettas Untersuchung des Vorfalls.*
 
 ### 3. Die Musik & Cover-Art
 *Dieselben 60 Zeilen – umgesetzt in zahlreichen Tracks über verschiedenste Genres hinweg:*

@@ -65,4 +65,4 @@ Auch dieser Song – entstanden nach hunderten Stunden in Nalcott aus einer glit
 
 ---
 
-Hier geht es zurück zur [➜ Projektakte »Socket«](story_socket.md), zur [➜ Akte des LEA-Vorfalls](story_rosetta.md), zu [➜ Mehr als ein Spiel](story_player.md), zu [➜ Rebeccas Erwachen](story_rebecca.md) oder zum [➜ Hauptdokument](../README.md).
+Hier geht es zurück zur [➜ Projektakte »Socket«](story_socket.md), zur [➜ Akte des LEA-Vorfalls](story_03_rosetta.md), zu [➜ Mehr als ein Spiel](story_02_player.md), zu [➜ Rebeccas Erwachen](story_01_rebecca.md) oder zum [➜ Hauptdokument](../README.md).

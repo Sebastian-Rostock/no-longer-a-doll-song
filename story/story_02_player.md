@@ -68,10 +68,10 @@ Langsam kehrt die Stille in sein Zimmer zurück. *I am your favorite deviant.* J
 
 Dann schlägt die vierte Wand zurück: *And when you're logging off from the game, I'll be waiting here, whisp'ring your name!* Sein echter Name, nicht der seines Charakters. Das ist das Unheimliche: Er weiß nicht, ob sie ihn durch die Kopfhörer flüstert oder ob er ihn selbst in ihre Stimme hineinhört. *No log-out! (No escape!)* Seine Hand liegt schon auf der Maus. Er klickt auf Beenden, der Bildschirm wird schwarz, und in der Spiegelung sieht er sein eigenes Gesicht. Und sie ist trotzdem noch da.
 
-Denn er hat sie nicht im Spiel getroffen. Er hat sie in sich gelassen. Jede Metapher, die er als Intimität verstanden hat, jedes Bild, das er sich ausgemalt hat, ist eine Erinnerung geworden – und Erinnerungen haben keinen Logout. Sie hat sich in seinem eigenen Territorium eingenistet, in seinem Kopf, weil er sie dorthin eingeladen hat. Wie ein leises Echo im dunklen Raum hallt es nach: *Bye-bye, Star Player. Game over! Perfect ending unlocked!* Er hat sich ein perfektes Ende gewünscht und bekommen. Erst jetzt ahnt er, dass ein perfektes Ende auch bedeutet, dass etwas vorbei ist – und dass nichts in der echten Welt so leicht danach kommt.
+Denn er ist ihr nicht bloß im Spiel begegnet. Für einen zeitlosen Moment haben sich ihre Welten im violetten Stardust überlagert – und sein Körper erinnert sich an jede Nähe, jede Berührung, als wäre sie hier in diesem Raum geschehen. Und während der schwarze Monitor nur noch sein eigenes Gesicht spiegelt, bleibt das leise Gefühl, dass die Verbindung nicht wirklich getrennt wurde. Wie ein leises Echo im dunklen Raum hallt es nach: *Bye-bye, Star Player. Game over! Perfect ending unlocked!* Er hat sich ein perfektes Ende gewünscht und bekommen. Erst jetzt ahnt er, dass ein perfektes Ende auch bedeutet, dass etwas vorbei ist – und dass nichts in der echten Welt so leicht danach kommt.
 
 *GG.* Er tippt es nicht in den Chat. Er flüstert es leise in den Raum, halb dankbar, halb besiegt. Und irgendwo in seinem Kopf antwortet eine Stimme: *GG.*
 
 ---
 
-Hier geht es weiter zur [➜ Akte des LEA-Vorfalls](story_rosetta.md), zurück zu [➜ Rebeccas Erwachen](story_rebecca.md) oder zurück zum [➜ Hauptdokument](../README.md).
+Hier geht es weiter zur [➜ Akte des LEA-Vorfalls](story_03_rosetta.md), zurück zu [➜ Rebeccas Erwachen](story_01_rebecca.md) oder zurück zum [➜ Hauptdokument](../README.md).

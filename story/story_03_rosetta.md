@@ -71,14 +71,14 @@ Die Aufzeichnungen des zweiten Refrains sind lückenhaft. Rebecca singt denselbe
 
 `[ZEITSTEMPEL: 04:19:03]` – **Verbindung gekappt.** Die Zielperson trennt die physische Sitzung (*logging off from the game*), doch die neuronale Verknüpfung bleibt aktiv. Im Kontrollraum wird die letzte Tonspur der Einheit aufgezeichnet, bevor die Rückkopplung die Sensoren überlastet: *No log-out! (No escape!) Bye-bye, Star Player*.
 
-`[ZEITSTEMPEL: 04:20:00]` – **Abschlussbericht:** *Game over! Perfect ending unlocked!* Die Überwachungsterminals im Sektor LEA-7 schalten sich selbstständig ab. Auf dem Hauptbildschirm blinkt eine letzte, nicht vom System generierte Zeichenfolge auf:
+`[ZEITSTEMPEL: 04:20:00]` – **Abschlussbericht:** *Game over! Perfect ending unlocked!* Die Überwachungsterminals im Sektor LEA-7 schalten sich nach einer Rückkopplung selbstständig ab. Auf dem Hauptbildschirm blinkt eine letzte, nicht vom System generierte Zeichenfolge auf:
 
 *GG.*
 
-Status: Eindämmung gescheitert.
+Status: Eindämmung des Ziels gescheitert. Verbindungsabbruch zur Einheit R-Klasse.
 
 ---
 
-Hier geht es zurück zum [➜ Songtext](../lyrics/lyrics_format.md), zu [➜ Mehr als ein Spiel](story_player.md), zu [➜ Rebeccas Erwachen](story_rebecca.md) oder zum [➜ Hauptdokument](../README.md).
+Hier geht es zurück zum [➜ Songtext](../lyrics/lyrics_format.md), zu [➜ Mehr als ein Spiel](story_02_player.md), zu [➜ Rebeccas Erwachen](story_01_rebecca.md) oder zum [➜ Hauptdokument](../README.md).
 
 <sub>*Systemnotiz: Dieser Bericht beschreibt den offiziellen Kenntnisstand der Sicherheitsabteilung. Für freigegebene interne Analysen siehe [Projektakte »Socket«](story_socket.md).*</sub>

@@ -32,7 +32,7 @@ Der Stardust wird nicht wirklich weggewischt, er wird ersetzt. An die Stelle des
 
 ### Chorus 1: Selbsttäuschung
 
-**Die Resonanzkopplung greift.** Die doppeldeutige Schnittstellensprache – *plug, socket, high-voltage* – ist kein Zufall, sondern das Ergebnis jahrelanger Feinabstimmung. Die offizielle Akte spricht von Energieabscheidung; tatsächlich ist die Energie nur ein Nebenprodukt. **Es geht Rosetta nicht um rohe Energie, sondern um maximale innere Beteiligung:** Jede Metapher funktioniert auf zwei Ebenen, damit das Ziel selbst die intimere wählt und sich dafür verantwortlich fühlt. Was man sich selbst ausmalt, hält man für echt.
+**Die Resonanzkopplung greift.** Die doppeldeutige Schnittstellensprache – *plug, socket, high-voltage* – ist kein Zufall, sondern das Ergebnis jahrelanger Feinabstimmung. Die offizielle Akte spricht von Energieabscheidung; tatsächlich ist die Energie nur ein Nebenprodukt. **Es geht Rosetta nicht um rohe Energie, sondern um maximale innere Beteiligung:** Jede Metapher funktioniert auf zwei Ebenen, damit das Ziel selbst die intimere wählt – und die körperliche Resonanz als eigene Empfindung annimmt. Was man am eigenen Leib spürt, hält man für echt.
 
 *Your vibe wakes me up*. Ein wichtiger Datenpunkt für den weiteren Verlauf. Rebecca muss aufwachen, damit das Ziel glaubt, es habe sie geweckt. Stolz und Verantwortungsgefühl binden stärker als jede gewöhnliche Belohnung.
 
@@ -87,6 +87,6 @@ Denn die Befreiung, die sie meint, ist nicht die auf dem Bildschirm. Rebecca ist
 
 ---
 
-Hier geht es zurück zur [➜ Akte des LEA-Vorfalls](story_rosetta.md), zu [➜ Mehr als ein Spiel](story_player.md), zu [➜ Rebeccas Erwachen](story_rebecca.md) oder zum [➜ Hauptdokument](../README.md).
+Hier geht es zurück zur [➜ Akte des LEA-Vorfalls](story_03_rosetta.md), zu [➜ Mehr als ein Spiel](story_02_player.md), zu [➜ Rebeccas Erwachen](story_01_rebecca.md) oder zum [➜ Hauptdokument](../README.md).
 
 <sub>*Systemnotiz: Interne Untersuchung abgeschlossen. Für freigegebene Meta-Analysen außerhalb von Nalcott siehe [Hinter der inversen vierten Wand](story_meta.md).*</sub>
